@@ -1,3 +1,5 @@
-### Udio zaraženih u ukupnom broju testiranih
+### Pregled posljednjih mjesec dana
 
-![image](/korona-slike/slika1.png)
+## Udio zaraženih (%) u ukupnom broju testiranih osoba
+
+![image](/korona-slike/1211.png)
