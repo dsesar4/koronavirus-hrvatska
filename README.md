@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![image](/korona-slike/slika1.jpg)
+![image](/korona-slike/slika1.png)
 
 You can use the [editor on GitHub](https://github.com/dsesar4/koronavirus-hrvatska.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
