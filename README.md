@@ -2,4 +2,4 @@
 
 ## Udio zaraženih (%) u ukupnom broju testiranih osoba
 
-![image](/korona-slike/1211.png)
+![image](/grafovi/1211.png)
