@@ -6,6 +6,6 @@
 
 
 
-![image](/grafovi/1211_udio_pozitivnih.png)
+![image](/grafovi/1311_udio_pozitivnih.png)
 
 > Udio pozitivnih testova u ukupnom broju testova za taj dan
