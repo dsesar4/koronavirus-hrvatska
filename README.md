@@ -8,13 +8,13 @@ Metrika koja nam govori o razmjerima epidemije. Na primjer, ukoliko je porast 10
 
 ![image](/grafovi/1411_promjena_slucajeva_ukupno.png)
 
-Zaključak je da je na razini države 'epidemija u listopadu eksplodirala' i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih kakve gledamo zadnjih deset dana. Ipak, taj rast je 'značajno usporio početkom studenog' i od tada nije u alarmantnim okvirima.
+Zaključak je da je na razini države `epidemija u listopadu eksplodirala` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih kakve gledamo zadnjih deset dana. Ipak, taj rast je `značajno usporio početkom studenog` i od tada nije u alarmantnim okvirima.
 
 Za Zagreb se može smatrati da je nešto ispred ostatka zemlje po razvoju epidemije, ponajviše zato što u njemu živi najviše ljudi, najveća je interakcija, a to sve dovodi do povećane vjerojatnosti za brzo širenje zaraze.
 
 ![image](/grafovi/1411_promjena_slucajeva_zg.png)
 
-Zaključak je da je u Zagrebu nakon 'velikog rasta u listopadu', epidemija 'značajno usporila početkom studenog' s tim da je stanje zadnjih nekoliko dana stabilno.
+Zaključak je da je u Zagrebu nakon `velikog rasta u listopadu, epidemija značajno usporila početkom studenog` s tim da je stanje zadnjih nekoliko dana stabilno.
 
 ## Tjedna promjena broja preminulih
 
@@ -24,7 +24,7 @@ Važna metrika koja nam mnogo govori o razmjerima epidemije, vjerojatno i točni
 
 ![image](/grafovi/1411_promjena_preminulih.png)
 
-Zaključak je da je broj preminulih rastao kroz cijeli listopad da bi se prije otprilike tjedan dana 'ustabilio'. To znači da je i 'epidemija značajno usporila svoje širenje još krajem listopada', a to se poklapa i s podacima o broja slučajeva.
+Zaključak je da je broj preminulih rastao kroz cijeli listopad da bi se prije otprilike tjedan dana `ustabilio`. To znači da je i `epidemija značajno usporila svoje širenje još krajem listopada`, što se poklapa i s podacima o broja slučajeva.
 
 ## Udio pozitivnih testova
 
