@@ -18,13 +18,13 @@ Zaključak je da je u Zagrebu nakon `velikog rasta u listopadu, epidemija znača
 
 ## Tjedna promjena broja preminulih
 
-Važna metrika koja nam mnogo govori o razmjerima epidemije, vjerojatno i točnije od broja slučajeva. Problem je što je sadašnje stanje posljedica zaraza od prije barem 10 dana, nerijetko i više. Na primjer, ukoliko je porast 100% na tjednoj razini, može se reći da se dnevni broj preminulih udvostručio i epidemija je prije otprilike dva tjedna ubrzavala, razmjeri su joj rasli. Ukoliko je taj broj bliže 0% na tjednoj razini, epidemija je još prije otprilike dva tjedna počela usporavati.
+Važna metrika koja nam mnogo govori o razmjerima epidemije, vjerojatno i točnije od broja slučajeva. Problem je što je sadašnje stanje posljedica zaraza od prije otprilike 19 dana. Na primjer, ukoliko je porast 100% na tjednoj razini, može se reći da se dnevni broj preminulih udvostručio i epidemija je prije otprilike tri tjedna ubrzavala, razmjeri su joj rasli. Ukoliko je taj broj bliže 0% na tjednoj razini, epidemija je još prije otprilike tri tjedna počela usporavati.
 
 > Izračun se vrši tako da se dobije tjedna razlika broja preminulih (npr. ponedjeljak 9.11. - ponedjeljak 2.11.) i onda se izračuna koliki je udio ta razlika u prvom danu izračuna (ponedjeljak 2.11.).
 
 ![image](/grafovi/1411_promjena_preminulih.png)
 
-Zaključak je da je broj preminulih rastao kroz cijeli listopad da bi se prije otprilike tjedan dana `ustabilio`. To znači da je i `epidemija značajno usporila svoje širenje još krajem listopada`, što se poklapa i s podacima o broja slučajeva.
+Zaključak je da je broj preminulih rastao kroz cijeli listopad da bi se prije otprilike tjedan dana `ustabilio`. To znači da je i `epidemija značajno usporila svoje širenje još krajem listopada`, što se poklapa i s podacima o broju slučajeva.
 
 ## Udio pozitivnih testova
 
