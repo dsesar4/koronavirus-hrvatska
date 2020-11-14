@@ -24,7 +24,7 @@ Važna metrika koja nam mnogo govori o razmjerima epidemije, vjerojatno i točni
 
 ![image](/grafovi/1411_promjena_preminulih.png)
 
-Zaključak je da je broj preminulih rastao kroz cijeli listopad da bi se prije otprilike tjedan dana `ustabilio`. To znači da je i `epidemija značajno usporila svoje širenje još krajem listopada`, što se poklapa i s podacima o broju slučajeva.
+Zaključak je da je broj preminulih rastao kroz cijeli listopad da bi se zadnjih nekoliko dana `ustabilio`. To znači da je `epidemija značajno usporila svoje širenje još krajem listopada`, što se poklapa i s podacima o broju slučajeva.
 
 ## Udio pozitivnih testova
 
