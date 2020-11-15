@@ -2,13 +2,13 @@
 
 ## Tjedna promjena broja hospitaliziranih osoba
 
-Vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, značajno točnije od broja slučajeva. Razlog tome je jednostavan - određeni udio zaraženih će svakako završiti u bolnici. Sadašnje stanje je posljedica zaraza od prije 7-10 dana, što je vrijeme potrebno da se dobiju prvi simptomi i nakon toga se razvije dovoljno ozbiljan oblik bolesti za odlazak u bolnicu. Na primjer, ukoliko je porast hospitaliziranih 100%, može se reći da se dnevni broj udvostručio u tjedan dana i epidemija je 7-10 dana prije gledanog datuma ubrzavala, razmjeri su joj rasli. Što je taj broj bliže 0%, epidemija je više usporavala. Kad tjedna promjena padne ispod 0%, broj hospitaliziranih opada i epidemija je barem tjedan dana u fazi nestajanja, osobito ako se uspostavi dugoročan negativan trend.
+Vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, značajno točnije od broja slučajeva. Razlog tome je jednostavan - određeni udio zaraženih će svakako završiti u bolnici. Sadašnje stanje je posljedica zaraza od prije 7-10 dana, što je vrijeme potrebno da se dobiju prvi simptomi i nakon toga se razvije dovoljno ozbiljan oblik bolesti za odlazak u bolnicu. Na primjer, ukoliko je porast hospitaliziranih 100%, može se reći da se dnevni broj hospitaliziranih udvostručio u tjedan dana i epidemija je 7-10 dana prije gledanog datuma ubrzavala, razmjeri su joj rasli. Što je taj broj bliže 0%, epidemija je više usporavala. Kad tjedna promjena padne ispod 0%, broj hospitaliziranih opada i epidemija je barem tjedan dana u fazi nestajanja, osobito ako se uspostavi dugoročan negativan trend.
 
 > Izračun se vrši tako da se dobije tjedna razlika broja hospitaliziranih (npr. ponedjeljak 9.11. - ponedjeljak 2.11.) i onda se izračuna koliki je udio ta razlika u prvom danu izračuna (ponedjeljak 2.11.).
 
 ![image](/grafovi/1511_promjena_hospitaliziranih.png)
 
-Zaključak je da je broj hospitaliziranih `naglo rastao kroz cijeli listopad` da bi početkom studenog taj `rast usporio`. To znači da je epidemija `značajno usporila brzinu širenja još krajem listopada`, ako se uzme u obzir da hospitalizacije kasne 7-10 dana za zarazama.
+Zaključak je da je broj hospitaliziranih `naglo rastao kroz cijeli listopad` da bi početkom studenog taj `rast usporio i dobio trend daljnjeg opadanja`. To znači da je epidemija `počela usporavati brzinu širenja još krajem listopada` ako se uzme u obzir da hospitalizacije kasne 7-10 dana za zarazama.
 
 ## Tjedna promjena broja osoba na respiratoru
 
