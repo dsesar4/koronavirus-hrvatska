@@ -2,7 +2,7 @@
 
 ## Tjedna promjena broja hospitaliziranih osoba
 
-Vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, značajno točnije od broja slučajeva. Razlog tome je jednostavan - određeni udio zaraženih će svakako završiti u bolnici. Sadašnje stanje je posljedica zaraza od prije 7-10 dana, što je vrijeme potrebno da se dobiju prvi simptomi i nakon toga osoba razvije dovoljno ozbiljne simptome za odlazak u bolnicu. Na primjer, ukoliko je porast hospitaliziranih 100%, može se reći da se dnevni broj udvostručio u tjedan dana i epidemija je 7-10 dana prije gledanog datuma ubrzavala, razmjeri su joj rasli. Što je taj broj bliže 0%, epidemija je više usporavala. Kad tjedna promjena padne ispod 0%, broj hospitaliziranih opada i epidemija je već u fazi slabljenja i nestajanja.
+Vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, značajno točnije od broja slučajeva. Razlog tome je jednostavan - određeni udio zaraženih će svakako završiti u bolnici. Sadašnje stanje je posljedica zaraza od prije 7-10 dana, što je vrijeme potrebno da se dobiju prvi simptomi i nakon toga osoba razvije dovoljno ozbiljan oblik bolesti za odlazak u bolnicu. Na primjer, ukoliko je porast hospitaliziranih 100%, može se reći da se dnevni broj udvostručio u tjedan dana i epidemija je 7-10 dana prije gledanog datuma ubrzavala, razmjeri su joj rasli. Što je taj broj bliže 0%, epidemija je više usporavala. Kad tjedna promjena padne ispod 0%, broj hospitaliziranih opada i epidemija je već u fazi slabljenja i nestajanja.
 
 > Izračun se vrši tako da se dobije tjedna razlika broja hospitaliziranih (npr. ponedjeljak 9.11. - ponedjeljak 2.11.) i onda se izračuna koliki je udio ta razlika u prvom danu izračuna (ponedjeljak 2.11.).
 
