@@ -22,13 +22,13 @@ Zaključak je da je broj osoba na respiratoru u dva navrata `naglo rastao`, a za
 
 ## Tjedna promjena broja preminulih
 
-Važna metrika koja nam mnogo govori o razmjerima epidemije, također točnije od broja slučajeva. Naglasak je da je sadašnje stanje posljedica zaraza od prije otprilike tri tjedna - vrijeme potrebno da se razviju simptomi, osoba završi na intenzivnoj njezi i na kraju umre. Na primjer, ukoliko je porast 100% na tjednoj razini, može se reći da se dnevni broj preminulih udvostručio i epidemija je prije otprilike tri tjedna ubrzavala, razmjeri su joj rasli. Ukoliko je taj broj bliže 0% na tjednoj razini, epidemija je još prije tri tjedna počela usporavati svoje širenje. Kad tjedna promjena broja preminulih padne ispod 0%, pogotovo ako je takav trend stabilan, znači da epidemija već tri tjedna usporava i nestaje, a dnevni broj preminulih se smanjuje.
+Važna metrika koja nam mnogo govori o razmjerima epidemije, također točnije od broja slučajeva. Naglasak je da je sadašnje stanje posljedica zaraza od prije otprilike tri tjedna - vrijeme potrebno da se razviju simptomi, osoba završi na intenzivnoj njezi i na kraju umre. Na primjer, ukoliko je porast 100% na tjednoj razini, može se reći da se dnevni broj novih preminulih udvostručio i epidemija je prije otprilike tri tjedna ubrzavala, razmjeri su joj rasli. Ukoliko je taj broj bliže 0%, epidemija je još prije tri tjedna počela usporavati. Kad tjedna promjena broja preminulih padne ispod 0%, pogotovo ako je takav trend stabilan, to indicira da epidemija već otprilike tri tjedna usporava i nestaje, a dnevni broj preminulih se smanjuje.
 
 > Izračun se vrši tako da se dobije tjedna razlika broja preminulih (npr. ponedjeljak 9.11. - ponedjeljak 2.11.) i onda se izračuna koliki je udio ta razlika u prvom danu izračuna (ponedjeljak 2.11.).
 
 ![image](/grafovi/1511_promjena_preminulih.png)
 
-Zaključak je da je broj preminulih `rastao kroz cijeli listopad i početak studenog` da bi se zadnjih tjedan dana `značajno usporio`. To znači da je `epidemija usporila svoje širenje još krajem listopada`, što se poklapa i s podacima o broju hospitaliziranih i broju osoba na respiratoru.
+Zaključak je da je broj preminulih `rastao kroz cijeli listopad i početak studenog` da bi zadnjih tjedan dana `značajno usporio`. To znači da je `epidemija usporila svoje širenje još krajem listopada`, što se poklapa s podacima o broju hospitaliziranih i broju osoba na respiratoru.
 
 ## Tjedna promjena broja slučajeva
 
