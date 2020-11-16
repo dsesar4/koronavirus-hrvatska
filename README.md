@@ -66,7 +66,7 @@ Datum | Ukupno na respiratoru | Novi na respiratoru | Tjedna postotna promjena
 
 Zaključak je da je broj osoba na respiratoru u dva navrata `naglo rastao`, a zadnjih tjedan dana `rast ima tendenciju usporavanja`. To znači da je epidemija `usporila brzinu širenja još krajem listopada`, što se poklapa i sa zaključcima o broju hospitaliziranih.
 
-## Tjedna promjena broja preminulih
+## Tjedna promjena broja novih preminulih osoba
 
 Važna metrika koja nam mnogo govori o razmjerima epidemije, također točnije od broja slučajeva. Naglasak je da je sadašnje stanje posljedica zaraza od prije otprilike tri tjedna - vrijeme potrebno da se razviju simptomi, osoba završi na intenzivnoj njezi i na kraju umre. Na primjer, ukoliko je porast 100%, može se reći da se dnevni broj novih preminulih udvostručio u roku od tjedan dana i epidemija je otprilike tri tjedna prije gledanog datuma ubrzavala, razmjeri su joj rasli. Što je taj broj bliže 0%, epidemija je više usporavala brzinu širenja. Kad promjena broja preminulih padne ispod 0%, pogotovo ako je takav trend stabilan, to indicira da epidemija već otprilike tri tjedna usporava i nestaje, a dnevni broj preminulih se smanjuje na tjednoj razini.
 
@@ -99,7 +99,7 @@ Datum | Ukupno preminuli | Novi preminuli | Tjedna postotna promjena
 
 Zaključak je da je broj preminulih `rastao kroz cijeli listopad i početak studenog` da bi zadnjih tjedan dana `značajno usporio`. To znači da je `epidemija usporila svoje širenje još krajem listopada`, što se poklapa s podacima o broju hospitaliziranih i broju osoba na respiratoru.
 
-## Tjedna promjena broja slučajeva - Hrvatska
+## Tjedna promjena broja novih slučajeva - Hrvatska
 
 Metrika koja nam govori o razmjerima epidemije. Problem je, naravno, što se nikako ne može "uloviti" sve zaražene te se računa da ih je u stvarnosti možda i 10 puta više. Dodatno, ako se značajno promijeni broj testiranih, porast će i broj zaraženih jer on uglavnom proporcionalno ovisi o broju testiranih. Ipak, u Hrvatskoj se ne testira velik broj nasumično odabranih ljudi pa se može reći da je ova metrika kroz vrijeme jednako reprezentativna, osobito u jesenskom valu epidemije. Na primjer, ukoliko je porast 100%, može se reći da se dnevni broj novih zaraženih udvostručio u roku od tjedan dana i epidemija ubrzava, razmjeri joj rastu. Što je taj broj bliže 0%, epidemija više usporava svoje širenje, broj zaraženih je stabilniji i nema razloga za paniku. Ako je promjena broja slučajeva negativna, znači da broj zaraženih opada na tjednoj razini i epidemija gubi snagu.
 
@@ -132,7 +132,7 @@ Datum | Ukupno slučajeva | Novi slučajevi | Tjedna postotna promjena
 
 Zaključak je da je na razini države `epidemija u listopadu eksplodirala` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih kakve gledamo zadnjih deset dana. Ipak, taj rast je `značajno usporio početkom studenog` i od tada nije u alarmantnim okvirima.
 
-## Tjedna promjena broja slučajeva - Zagreb
+## Tjedna promjena broja novih slučajeva - Zagreb
 
 Za Zagreb se može smatrati da je nešto ispred ostatka zemlje po razvoju epidemije, ponajviše zato što u njemu živi najviše ljudi, najveća je interakcija, a to sve dovodi do povećane vjerojatnosti za brzo širenje zaraze.
 
