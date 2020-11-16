@@ -2,7 +2,7 @@
 
 ## Objašnjenje načina mjerenja
 
-S obzirom da nisu navedeni klasični podaci kakvi se viđaju svakog dana u vijestima, potrebno je objasniti korištene metrike. S obzirom da se promatra dinamika epidemije, to znači da je bitna promjena brzine njezinog širenja. Ovakav način prikaza koristan je jer daje dublji uvid u epidemiju te se na temelju njega mogu uočiti trendovi i raditi prognoze.
+U sljedećem tekstu nisu navedeni klasični podaci kakvi se viđaju svakog dana u vijestima, potrebno je objasniti korištene metrike. S obzirom da se promatra dinamika epidemije, to znači da je bitna promjena brzine njezinog širenja. Ovakav način prikaza koristan je jer daje dublji uvid u epidemiju te se na temelju njega mogu uočiti trendovi i raditi prognoze.
 
 Ugrubo, postoje tri opcije za brzinu širenja epidemije:
 
