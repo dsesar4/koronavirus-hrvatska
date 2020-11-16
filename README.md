@@ -9,7 +9,7 @@ Vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, značajno
 ![image](/1611/1611_promjena_hospitaliziranih.png)
 
 Datum | Ukupno hospitalizirani | Novi hospitalizirani | Tjedna postotna promjena
------------- | ------------- | -------------
+------------ | ------------- | ------------- | ------------- 
 10. studeni | 1513 | 62 | 27%
 11. studeni | 1545 | 32 | 27%
 12. studeni | 1598 | 53 | 25%
