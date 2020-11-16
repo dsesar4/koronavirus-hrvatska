@@ -10,7 +10,7 @@ Vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, značajno
 
 ![image](/1611/1611_promjena_hospitaliziranih.png)
 
-### Tablica
+### Tablica proteklih tjedan dana
 
 Datum | Ukupno hospitalizirani | Novi hospitalizirani | Tjedna postotna promjena
 :---  | :---: | :---: | :---: 
@@ -32,7 +32,23 @@ Također vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, 
 
 > Izračun se vrši tako da se dobije tjedna razlika broja osoba na respiratoru (npr. ponedjeljak 9.11. - ponedjeljak 2.11.) i onda se izračuna koliki je udio ta razlika u prvom danu izračuna (ponedjeljak 2.11.).
 
+### Graf
+
 ![image](/1611/1611_promjena_respirator.png)
+
+### Tablica proteklih tjedan dana
+
+Datum | Ukupno na respiratoru | Novi na respiratoru | Tjedna postotna promjena
+:---  | :---: | :---: | :---: 
+10.studeni | 167 | 25 | 49%
+11.studeni | 178 | 11 | 51%
+12.studeni | 178 | 0 | 46%
+13.studeni | 179 | 1 | 33%
+14.studeni | 184 | 5 | 44%
+15.studeni | 194 | 10 | 34%
+16.studeni | 191 | 3 | 35%
+
+### Zaključak
 
 Zaključak je da je broj osoba na respiratoru u dva navrata `naglo rastao`, a zadnjih tjedan dana `rast ima tendenciju usporavanja`. To znači da je epidemija `usporila brzinu širenja još krajem listopada`, što se poklapa i sa zaključcima o broju hospitaliziranih.
 
@@ -42,7 +58,24 @@ Važna metrika koja nam mnogo govori o razmjerima epidemije, također točnije o
 
 > Izračun se vrši tako da se dobije tjedna razlika broja preminulih (npr. ponedjeljak 9.11. - ponedjeljak 2.11.) i onda se izračuna koliki je udio ta razlika u prvom danu izračuna (ponedjeljak 2.11.).
 
+### Graf
+
 ![image](/1611/1611_promjena_preminulih.png)
+
+
+### Tablica proteklih tjedan dana
+
+Datum | Ukupno preminuli | Novi preminuli | Tjedna postotna promjena
+:---  | :---: | :---: | :---: 
+10.studeni | 865 | 33 | -3%
+11.studeni | 893 | 28 | 8%
+12.studeni | 925 | 32 | 10%
+13.studeni | 968 | 43 | 26%
+14.studeni | 1006 | 38 | 9%
+15.studeni | 1049 | 43 | 2%
+16.studeni | 1082 | 33 | -13%
+
+### Zaključak
 
 Zaključak je da je broj preminulih `rastao kroz cijeli listopad i početak studenog` da bi zadnjih tjedan dana `značajno usporio`. To znači da je `epidemija usporila svoje širenje još krajem listopada`, što se poklapa s podacima o broju hospitaliziranih i broju osoba na respiratoru.
 
