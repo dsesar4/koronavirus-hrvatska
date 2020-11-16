@@ -35,7 +35,7 @@ Vrlo važna metrika koja mnogo govori o brzini širenja epidemije, znatno točni
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno hospitalizirani | Novi hospitalizirani | Postotna promjena u odnosu na 7 dana ranije
+Datum | Ukupno hospitalizirani | Novi hospitalizirani | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
 3.studeni | 1192 | 65 | 33%
 4.studeni | 1221 | 29 | 31%
@@ -66,7 +66,7 @@ Također vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, 
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno na respiratoru | Novi na respiratoru | Tjedna postotna promjena
+Datum | Ukupno na respiratoru | Novi na respiratoru | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
 3.studeni | 112 | 18 | 96%
 4.studeni | 118 | 6 | 74%
@@ -97,7 +97,7 @@ Važna metrika koja nam mnogo govori o razmjerima epidemije, također točnije o
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno preminuli | Novi preminuli | Tjedna postotna promjena
+Datum | Ukupno preminuli | Novi preminuli | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
 3.studeni | 628 | 34 | 89%
 4.studeni | 654 | 26 | 13%
@@ -128,7 +128,7 @@ Metrika koja nam govori o razmjerima epidemije. Problem je, naravno, što se nik
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno slučajeva | Novi slučajevi | Tjedna postotna promjena
+Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
 3.studeni | 54087 | 1427 | 1%
 4.studeni | 56567 | 2480 | 4%
@@ -159,7 +159,7 @@ Za Zagreb se može smatrati da je nešto ispred ostatka zemlje po razvoju epidem
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno slučajeva | Novi slučajevi | Tjedna postotna promjena
+Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
 3.studeni | 14157 | 281 | 0%
 4.studeni | 14834 | 677 | -3%
@@ -190,7 +190,7 @@ Metrika koja nam govori o brzini širenja epidemije, vrlo slično kao promjena b
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno aktivnih | Novi aktivni | Tjedna postotna promjena
+Datum | Ukupno aktivnih | Novi aktivni | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
 3.studeni | 14079 | -655 | 24%
 4.studeni | 14843 | 764 | 17%
