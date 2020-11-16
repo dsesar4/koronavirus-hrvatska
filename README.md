@@ -18,11 +18,16 @@ Za prvi slučaj takav izračun će dati 100%, za drugi izračun 0% te za treći 
 
 Zašto izračun na tjednoj razini? Zato što je to dovoljno velika vremenska razlika da se uvide trendovi, ali i zato što se na isti dan otprilike jednako testira. Stoga ponedjeljak nije usporediv s petkom jer će uvijek imati manje brojeve zaraženih zbog manje odrađenih testova tijekom vikenda.
 
-Dva načina izračuna - hospitalizirani i zaraženi
+Podatke se može podijeliti u dvije grupe:
+
+1. **Podaci koji izražavaju broj osoba u određenom stanju, promjenjiv u oba smjera u budućnosti** - hospitalizirani, na respiratoru i aktivno oboljeli
+2. **Podaci koji izražavaju broj osoba u određenom stanju, promjenjiv samo prema gore u budućnosti** - broj zaraženih i broj preminulih
+
+Stoga su za prvu grupu dovoljno dobri podaci o kumulativnom broju, dok su za drugu grupu bolji podaci o promjeni broja, sve gledano kao dan u odnosu na isti dan tjedan dana ranije.
 
 ## Tjedna promjena broja hospitaliziranih osoba
 
-Vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, značajno točnije od broja novih slučajeva. Razlog tome je jednostavan - određeni udio zaraženih će svakako završiti u bolnici. Sadašnje stanje je posljedica zaraza od prije 7-10 dana, što je vrijeme potrebno da se dobiju prvi simptomi i nakon toga se razvije dovoljno ozbiljan oblik bolesti za odlazak u bolnicu.
+Vrlo važna metrika koja mnogo govori o brzini širenja epidemije, znatno točnije od broja novih slučajeva. Razlog tome je jednostavan - određeni udio zaraženih će svakako završiti u bolnici. Sadašnje stanje je posljedica zaraza od prije 7-10 dana, što je vrijeme potrebno da se dobiju prvi simptomi i nakon toga se razvije dovoljno ozbiljan oblik bolesti za odlazak u bolnicu.
 
 ### Graf
 
