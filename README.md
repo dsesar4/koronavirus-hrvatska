@@ -119,11 +119,11 @@ Datum | Ukupno slučajeva | Novi slučajevi | Tjedna postotna promjena
 :---  | :---: | :---: | :---: 
 10.studeni | 70243 | 368 | 31%
 11.studeni | 72840 | 621 | -8%
-12.studeni | 75922 | 705 | 8%
-13.studeni | 78978 | 653 | -2%
-14.studeni | 81844 | 554 | -4%
-15.studeni | 84206 | 363 | -21%
-16.studeni | 85519 | 291 | -8%
+12.studeni | 19194 | 705 | 8%
+13.studeni | 19847 | 653 | -2%
+14.studeni | 20401 | 554 | -4%
+15.studeni | 20764 | 363 | -21%
+16.studeni | 21055 | 291 | -8%
 
 ### Zaključak
 
@@ -135,6 +135,22 @@ Metrika koja nam može govoriti o razmjeru epidemije, ali se mora uzeti u obzir 
 
 > Izračun se vrši tako da se broj zaraženih podijeli s brojem testiranih.
 
+### Graf
+
 ![image](/1611/1611_udio_pozitivnih_testova.png)
+
+### Tablica proteklih tjedan dana
+
+Datum | Ukupno testova | Novi testovi | Udio pozitivnih
+:---  | :---: | :---: | :---: 
+10.studeni | 70243 | 7803 | 19%
+11.studeni | 72840 | 9681 | 27%
+12.studeni | 19194 | 10156 | 30%
+13.studeni | 19847 | 9417 | 32%
+14.studeni | 20401 | 9614 | 30%
+15.studeni | 20764 | 8175 | 29%
+16.studeni | 21055 | 4861 | 27%
+
+### Zaključak
 
 Zaključak je da Hrvatska ili `premalo testira i ima velik broj zaraženih` ili `da se većina slučajeva "ulovi"`. S obzirom na dosadašnja iskustva, `izglednija je prva opcija`.
