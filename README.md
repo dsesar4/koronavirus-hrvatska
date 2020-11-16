@@ -35,7 +35,7 @@ Vrlo važna metrika koja mnogo govori o brzini širenja epidemije, znatno točni
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno hospitalizirani | Novi hospitalizirani | Tjedna postotna promjena
+Datum | Ukupno hospitalizirani | Novi hospitalizirani | Postotna promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
 3.studeni | 1192 | 65 | 33%
 4.studeni | 1221 | 29 | 31%
