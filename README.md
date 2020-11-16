@@ -14,9 +14,9 @@ Ovakva kretanja najbolje je pratiti izračunom postotne promjene broja (npr. zar
 
 > (Broj novih zaraženih 8. studenog - Broj novih zaraženih 1. studenog) / (Broj novih zaraženih 1. studenog) × 100%
 
-Za prvi slučaj takav izračun će dati 100%, za drugi izračun 0% te za treći izračun -50%. Da bi epidemija završila, potreban je duži period njezinog usporavanja, tj. pada broja zaraženih. To dovodi i do sve manjeg broja preminulih. Ukoliko epidemija ubrzava, broj zaraženih raste, a posljedično tome i broj preminulih (s vremenskim odmakom).
+Za prvu opciju takav izračun će dati 100%, za drugu 0% te za treću opciju -50%. Da bi epidemija završila, potreban je duži period njezinog usporavanja, tj. pada broja zaraženih. To dovodi i do sve manjeg broja preminulih. Ukoliko epidemija ubrzava, broj zaraženih raste, a posljedično tome i broj preminulih (s vremenskim odmakom) te se epidemija pogoršava. Ako epidemija stagnira (aktualno stanje u Hrvatskoj), broj zaraženih je otprilike konstantan, a takav je i broj preminulih.
 
-Zašto izračun na tjednoj razini? Zato što je to dovoljno velika vremenska razlika da se uvide trendovi, ali i zato što se na isti dan otprilike jednako testira. Stoga ponedjeljak nije usporediv s petkom jer će uvijek imati manje brojeve zaraženih zbog manje odrađenih testova tijekom vikenda.
+Zašto izračun na tjednoj razini? Zato što je to optimalna vremenska razlika da se uvide trendovi, ali i zato što se na isti dan otprilike jednako testira. Stoga ponedjeljak nije usporediv s petkom jer će uvijek imati manje brojeve zaraženih zbog manje odrađenih testova tijekom vikenda.
 
 Podatke se može podijeliti u dvije grupe:
 
