@@ -25,7 +25,7 @@ Podatke se može podijeliti u dvije grupe:
 
 Stoga su za prvu grupu dovoljno dobri podaci o kumulativnom broju, dok su za drugu grupu bolji podaci o promjeni broja, sve gledano kao dan u odnosu na isti dan tjedan dana ranije.
 
-## Tjedna promjena broja hospitaliziranih osoba
+## Promjena broja hospitaliziranih osoba
 
 Vrlo važna metrika koja mnogo govori o brzini širenja epidemije, znatno točnije od broja novih slučajeva. Razlog tome je jednostavan - određeni udio zaraženih će svakako završiti u bolnici. Sadašnje stanje je posljedica zaraza od prije 7-10 dana, što je vrijeme potrebno da se dobiju prvi simptomi i nakon toga se razvije dovoljno ozbiljan oblik bolesti za odlazak u bolnicu.
 
@@ -56,7 +56,7 @@ Datum | Ukupno hospitalizirani | Novi hospitalizirani | Promjena u odnosu na 7 d
 
 Zaključak je da je broj hospitaliziranih `naglo rastao kroz cijeli listopad` da bi početkom studenog taj `rast usporio uz tendenciju prema stagnaciji`. To znači da je epidemija `počela usporavati brzinu širenja još krajem listopada` ako se uzme u obzir da hospitalizacije kasne 7-10 dana za zarazama.
 
-## Tjedna promjena broja osoba na respiratoru
+## Promjena broja osoba na respiratoru
 
 Također vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, s razlikom što zaključci vrijede 7-14 dana unazad. To je tako jer je potrebno jedan do dva tjedna da pacijent nakon zaraze dobije prve simptome i zatim razvije tako ozbiljan oblik bolesti da završi na respiratoru.
 
@@ -87,7 +87,7 @@ Datum | Ukupno na respiratoru | Novi na respiratoru | Promjena u odnosu na 7 dan
 
 Zaključak je da je broj osoba na respiratoru u dva navrata `naglo rastao`, a zadnjih tjedan dana `rast ima tendenciju prema stagnaciji`. To znači da je epidemija `usporila brzinu širenja još krajem listopada`, ako se uzme u obzir da pacijenti završe na respiratoru tek 7-14 dana nakon zaraze. Takav zaključak se poklapa i sa zaključkom o hospitalizacijama.
 
-## Tjedna promjena broja novih preminulih osoba
+## Promjena broja novih preminulih osoba
 
 Važna metrika koja nam mnogo govori o razmjerima epidemije, također točnije od broja slučajeva. Naglasak je da je sadašnje stanje posljedica zaraza od prije otprilike tri tjedna - vrijeme potrebno da se razviju simptomi, osoba završi na intenzivnoj njezi i na kraju premine.
 
@@ -118,7 +118,7 @@ Datum | Ukupno preminuli | Novi preminuli | Promjena u odnosu na 7 dana ranije
 
 Zaključak je da je broj preminulih `ubrzano rastao kroz cijeli listopad i početak studenog` da bi zadnjih tjedan dana `počeo stagnirati`. To znači da je `epidemija značajno usporila svoje širenje još krajem listopada`, što se poklapa s podacima o broju hospitaliziranih i broju osoba na respiratoru.
 
-## Tjedna promjena broja novih slučajeva - Hrvatska
+## Promjena broja novih slučajeva - Hrvatska
 
 Metrika koja nam govori o razmjerima epidemije. Problem je, naravno, što se nikako ne može "uloviti" sve zaražene te se računa da ih je u stvarnosti možda i 10 puta više. Dodatno, ako se značajno promijeni broj testiranih, porast će i broj zaraženih jer on uglavnom proporcionalno ovisi o broju testiranih. Ipak, u Hrvatskoj se ne testira velik broj nasumično odabranih ljudi pa se može reći da je ova metrika kroz vrijeme jednako reprezentativna, osobito u jesenskom valu epidemije.
 
@@ -149,7 +149,7 @@ Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
 
 Zaključak je da je na razini države `epidemija u listopadu eksplodirala` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih početkom studenog. Ipak, taj rast je `početkom studenog praktički nestao i počela je stagnacija`. Bitno je reći da se u pojedinim danima ta stagnacija `pretvara u usporavanje`.
 
-## Tjedna promjena broja novih slučajeva - Zagreb
+## Promjena broja novih slučajeva - Zagreb
 
 Za Zagreb se može smatrati da je nešto ispred ostatka zemlje po razvoju epidemije, ponajviše zato što u njemu živi najviše ljudi, najveća je interakcija, a to sve dovodi do povećane vjerojatnosti za brzo širenje zaraze, ali potom i njezino usporavanje.
 
@@ -180,7 +180,7 @@ Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
 
 Zaključak je da je u Zagrebu nakon `velikog rasta u listopadu`, epidemija počela `stagnirati početkom studenog` te uz pad broja zaraženih na tjednoj razini `nerijetko i usporavati`.
 
-## Tjedna promjena broja aktivnih slučajeva
+## Promjena broja aktivnih slučajeva
 
 Metrika koja nam govori o brzini širenja epidemije, vrlo slično kao promjena broja slučajeva. Dobar je prikaz omjera zaraženih i onih koji su ozdravili. Ako je graf u pozitivnom području, više ljudi se zarazilo, a ako je u negativnom, više ljudi je ozdravilo na tjednoj razini.
 
