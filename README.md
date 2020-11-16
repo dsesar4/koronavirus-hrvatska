@@ -46,7 +46,7 @@ Datum | Ukupno na respiratoru | Novi na respiratoru | Tjedna postotna promjena
 13.studeni | 179 | 1 | 33%
 14.studeni | 184 | 5 | 44%
 15.studeni | 194 | 10 | 34%
-16.studeni | 191 | 3 | 35%
+16.studeni | 191 | -3 | 35%
 
 ### Zaključak
 
