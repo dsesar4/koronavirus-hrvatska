@@ -9,14 +9,14 @@ Vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, značajno
 ![image](/1611/1611_promjena_hospitaliziranih.png)
 
 Datum | Ukupno hospitalizirani | Novi hospitalizirani | Tjedna postotna promjena
------------- | ------------- | ------------- | ------------- 
-10. studeni | 1513 | 62 | 27%
-11. studeni | 1545 | 32 | 27%
-12. studeni | 1598 | 53 | 25%
-13. studeni | 1620 | 22 | 24%
-14. studeni | 1655 | 35 | 24%
-15. studeni | 1710 | 55 | 22%
-16. studeni | 1816 | 106 | 25%
+:---  | :---: | :---: | :---: 
+10.studeni | 1513 | 62 | 27%
+11.studeni | 1545 | 32 | 27%
+12.studeni | 1598 | 53 | 25%
+13.studeni | 1620 | 22 | 24%
+14.studeni | 1655 | 35 | 24%
+15.studeni | 1710 | 55 | 22%
+16.studeni | 1816 | 106 | 25%
 
 Zaključak je da je broj hospitaliziranih `naglo rastao kroz cijeli listopad` da bi početkom studenog taj `rast usporio i dobio trend daljnjeg opadanja`. To znači da je epidemija `počela usporavati brzinu širenja još krajem listopada` ako se uzme u obzir da hospitalizacije kasne 7-10 dana za zarazama.
 
