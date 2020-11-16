@@ -10,7 +10,7 @@ Ugrubo, postoje tri opcije za brzinu širenja epidemije:
 2. **Epidemija stagnira** - broj novih (dnevnih) slučajeva je ostao otprilike isti u roku od tjedan dana (npr. 1000 novih slučajeva 1. studenog i 1000 novih slučajeva 8. studenog)
 3. **Epidemija usporava** - broj novih (dnevnih) slučajeva opada u roku od tjedan dana (npr. 1000 novih slučajeva 1. studenog i 500 novih slučajeva 8. studenog)
 
-Ovakva kretanja najbolje je pratiti izračunom postotne promjene broja (npr. zaraženih) za odabrani dan u odnosu na isti dan točno 7 dana ranije. Primjer izračuna:
+Ovakva kretanja najbolje je pratiti izračunom **postotne promjene broja (npr. zaraženih) za odabrani dan u odnosu na isti dan točno 7 dana ranije**. Primjer izračuna:
 
 > (Broj novih zaraženih 8. studenog - Broj novih zaraženih 1. studenog) / (Broj novih zaraženih 1. studenog) × 100%
 
