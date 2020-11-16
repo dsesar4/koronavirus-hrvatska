@@ -163,6 +163,37 @@ Datum | Ukupno slučajeva | Novi slučajevi | Tjedna postotna promjena
 
 Zaključak je da je u Zagrebu nakon `velikog rasta u listopadu`, epidemija `značajno usporila početkom studenog` s tim da je stanje zadnjih nekoliko dana stabilno, nerijetko i uz `pad broja zaraženih` na tjednoj razini.
 
+## Tjedna promjena broja aktivnih slučajeva
+
+Tekst
+
+### Graf
+
+![image](/1611/1611_promjena_aktivnih.png)
+
+### Tablica protekla dva tjedna
+
+Datum | Ukupno aktivnih | Novi aktivni | Tjedna postotna promjena
+:---  | :---: | :---: | :---: 
+3.studeni | 14079 | -655 | 24%
+4.studeni | 14843 | 764 | 17%
+5.studeni | 15356 | 513 | 9%
+6.studeni | 15567 | 211 | 3%
+7.studeni | 15542 | -25 | -3%
+8.studeni | 15678 | 136 | -1%
+9.studeni | 14942 | -736 | 1%
+10.studeni | 14524 | -418 | 3%
+11.studeni | 15513 | 989 | 5%
+12.studeni | 16348 | 835 | 6%
+13.studeni | 16746 | 398 | 8%
+14.studeni | 17090 | 344 | 10%
+15.studeni | 16926 | -164 | 8%
+16.studeni | 15699 | -1227 | 5%
+
+### Zaključak
+
+Zaključak
+
 ## Udio pozitivnih testova
 
 Metrika koja nam može govoriti o razmjeru epidemije, ali se mora uzeti u obzir broj testiranja. Ukoliko se testira malo, očekivano je da je ta brojka veća, pogotovo ako je epidemija jače raširena među populacijom. 
