@@ -79,19 +79,53 @@ Datum | Ukupno preminuli | Novi preminuli | Tjedna postotna promjena
 
 Zaključak je da je broj preminulih `rastao kroz cijeli listopad i početak studenog` da bi zadnjih tjedan dana `značajno usporio`. To znači da je `epidemija usporila svoje širenje još krajem listopada`, što se poklapa s podacima o broju hospitaliziranih i broju osoba na respiratoru.
 
-## Tjedna promjena broja slučajeva
+## Tjedna promjena broja slučajeva - Hrvatska
 
 Metrika koja nam govori o razmjerima epidemije. Problem je, naravno, što se nikako ne može "uloviti" sve zaražene te se računa da ih je u stvarnosti možda i 10 puta više. Dodatno, ako se značajno promijeni broj testiranih, porast će i broj zaraženih jer on uglavnom proporcionalno ovisi o broju testiranih. Ipak, u Hrvatskoj se ne testira velik broj nasumično odabranih ljudi pa se može reći da je ova metrika kroz vrijeme jednako reprezentativna, osobito u jesenskom valu epidemije. Na primjer, ukoliko je porast 100%, može se reći da se dnevni broj novih zaraženih udvostručio u roku od tjedan dana i epidemija ubrzava, razmjeri joj rastu. Što je taj broj bliže 0%, epidemija više usporava svoje širenje, broj zaraženih je stabilniji i nema razloga za paniku. Ako je promjena broja slučajeva negativna, znači da broj zaraženih opada na tjednoj razini i epidemija gubi snagu.
 
 > Izračun se vrši tako da se dobije tjedna razlika broja slučajeva (npr. ponedjeljak 9.11. - ponedjeljak 2.11.) i onda se izračuna koliki je udio ta razlika u prvom danu izračuna (ponedjeljak 2.11.).
 
+### Graf
+
 ![image](/1611/1611_promjena_slucajeva_ukupno.png)
+
+### Tablica proteklih tjedan dana
+
+Datum | Ukupno slučajeva | Novi slučajevi | Tjedna postotna promjena
+:---  | :---: | :---: | :---: 
+10.studeni | 70243 | 1467 | 3%
+11.studeni | 72840 | 2597 | 5%
+12.studeni | 75922 | 3082 | 8%
+13.studeni | 78978 | 3056 | 6%
+14.studeni | 81844 | 2866 | 19%
+15.studeni | 84206 | 2365 | -7%
+16.studeni | 85519 | 1313 | -14%
+
+### Zaključak
 
 Zaključak je da je na razini države `epidemija u listopadu eksplodirala` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih kakve gledamo zadnjih deset dana. Ipak, taj rast je `značajno usporio početkom studenog` i od tada nije u alarmantnim okvirima.
 
+## Tjedna promjena broja slučajeva - Zagreb
+
 Za Zagreb se može smatrati da je nešto ispred ostatka zemlje po razvoju epidemije, ponajviše zato što u njemu živi najviše ljudi, najveća je interakcija, a to sve dovodi do povećane vjerojatnosti za brzo širenje zaraze.
 
+### Graf
+
 ![image](/1611/1611_promjena_slucajeva_zg.png)
+
+### Tablica proteklih tjedan dana
+
+Datum | Ukupno slučajeva | Novi slučajevi | Tjedna postotna promjena
+:---  | :---: | :---: | :---: 
+10.studeni | 70243 | 368 | 31%
+11.studeni | 72840 | 621 | -8%
+12.studeni | 75922 | 705 | 8%
+13.studeni | 78978 | 653 | -2%
+14.studeni | 81844 | 554 | -4%
+15.studeni | 84206 | 363 | -21%
+16.studeni | 85519 | 291 | -8%
+
+### Zaključak
 
 Zaključak je da je u Zagrebu nakon `velikog rasta u listopadu`, epidemija `značajno usporila početkom studenog` s tim da je stanje zadnjih nekoliko dana stabilno, nerijetko i uz `pad broja zaraženih` na tjednoj razini.
 
