@@ -14,8 +14,8 @@ Vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, značajno
 
 Datum | Ukupno hospitalizirani | Novi hospitalizirani | Tjedna postotna promjena
 :---  | :---: | :---: | :---: 
-3.studeni | 1192 | 65 | 33%
-4.studeni | 1221 | 29 | 31%
+3. studeni | 1192 | 65 | 33%
+4. studeni | 1221 | 29 | 31%
 5.studeni | 1278 | 57 | 30%
 6.studeni | 1307 | 29 | 27%
 7.studeni | 1330 | 23 | 27%
