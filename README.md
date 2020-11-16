@@ -10,10 +10,17 @@ Vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, značajno
 
 ![image](/1611/1611_promjena_hospitaliziranih.png)
 
-### Tablica proteklih tjedan dana
+### Tablica protekla dva tjedna
 
 Datum | Ukupno hospitalizirani | Novi hospitalizirani | Tjedna postotna promjena
 :---  | :---: | :---: | :---: 
+3.studeni | 1192 | 65 | 33%
+4.studeni | 1221 | 29 | 31%
+5.studeni | 1278 | 57 | 30%
+6.studeni | 1307 | 29 | 27%
+7.studeni | 1330 | 23 | 27%
+8.studeni | 1396 | 66 | 27%
+9.studeni | 1451 | 55 | 29%
 10.studeni | 1513 | 62 | 27%
 11.studeni | 1545 | 32 | 27%
 12.studeni | 1598 | 53 | 25%
@@ -36,10 +43,17 @@ Također vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, 
 
 ![image](/1611/1611_promjena_respirator.png)
 
-### Tablica proteklih tjedan dana
+### Tablica protekla dva tjedna
 
 Datum | Ukupno na respiratoru | Novi na respiratoru | Tjedna postotna promjena
 :---  | :---: | :---: | :---: 
+3.studeni | 112 | 18 | 96%
+4.studeni | 118 | 6 | 74%
+5.studeni | 122 | 4 | 72%
+6.studeni | 135 | 13 | 82%
+7.studeni | 128 | -7 | 56%
+8.studeni | 145 | 17 | 79%
+9.studeni | 142 | -3 | 51%
 10.studeni | 167 | 25 | 49%
 11.studeni | 178 | 11 | 51%
 12.studeni | 178 | 0 | 46%
@@ -62,11 +76,17 @@ Važna metrika koja nam mnogo govori o razmjerima epidemije, također točnije o
 
 ![image](/1611/1611_promjena_preminulih.png)
 
-
-### Tablica proteklih tjedan dana
+### Tablica protekla dva tjedna
 
 Datum | Ukupno preminuli | Novi preminuli | Tjedna postotna promjena
 :---  | :---: | :---: | :---: 
+3.studeni | 628 | 34 | 89%
+4.studeni | 654 | 26 | 13%
+5.studeni | 683 | 29 | 61%
+6.studeni | 717 | 34 | 70%
+7.studeni | 752 | 35 | 133%
+8.studeni | 794 | 42 | 163%
+9.studeni | 832 | 38 | 19%
 10.studeni | 865 | 33 | -3%
 11.studeni | 893 | 28 | 8%
 12.studeni | 925 | 32 | 10%
@@ -89,10 +109,17 @@ Metrika koja nam govori o razmjerima epidemije. Problem je, naravno, što se nik
 
 ![image](/1611/1611_promjena_slucajeva_ukupno.png)
 
-### Tablica proteklih tjedan dana
+### Tablica protekla dva tjedna
 
 Datum | Ukupno slučajeva | Novi slučajevi | Tjedna postotna promjena
 :---  | :---: | :---: | :---: 
+3.studeni | 54087 | 1427 | 1%
+4.studeni | 56567 | 2480 | 4%
+5.studeni | 59415 | 2848 | 3%
+6.studeni | 62305 | 2890 | 4%
+7.studeni | 64704 | 2399 | -13%
+8.studeni | 67247 | 2543 | 17%
+9.studeni | 68776 | 1529 | 31%
 10.studeni | 70243 | 1467 | 3%
 11.studeni | 72840 | 2597 | 5%
 12.studeni | 75922 | 3082 | 8%
@@ -113,12 +140,19 @@ Za Zagreb se može smatrati da je nešto ispred ostatka zemlje po razvoju epidem
 
 ![image](/1611/1611_promjena_slucajeva_zg.png)
 
-### Tablica proteklih tjedan dana
+### Tablica protekla dva tjedna
 
 Datum | Ukupno slučajeva | Novi slučajevi | Tjedna postotna promjena
 :---  | :---: | :---: | :---: 
-10.studeni | 70243 | 368 | 31%
-11.studeni | 72840 | 621 | -8%
+3.studeni | 14157 | 281 | 0%
+4.studeni | 14834 | 677 | -3%
+5.studeni | 15484 | 650 | -8%
+6.studeni | 16148 | 664 | -11%
+7.studeni | 16723 | 575 | -26%
+8.studeni | 17184 | 461 | -33%
+9.studeni | 17500 | 316 | -2%
+10.studeni | 17868 | 368 | 31%
+11.studeni | 18489 | 621 | -8%
 12.studeni | 19194 | 705 | 8%
 13.studeni | 19847 | 653 | -2%
 14.studeni | 20401 | 554 | -4%
@@ -139,17 +173,24 @@ Metrika koja nam može govoriti o razmjeru epidemije, ali se mora uzeti u obzir 
 
 ![image](/1611/1611_udio_pozitivnih_testova.png)
 
-### Tablica proteklih tjedan dana
+### Tablica protekla dva tjedna
 
 Datum | Ukupno testova | Novi testovi | Udio pozitivnih
 :---  | :---: | :---: | :---: 
-10.studeni | 70243 | 7803 | 19%
-11.studeni | 72840 | 9681 | 27%
-12.studeni | 19194 | 10156 | 30%
-13.studeni | 19847 | 9417 | 32%
-14.studeni | 20401 | 9614 | 30%
-15.studeni | 20764 | 8175 | 29%
-16.studeni | 21055 | 4861 | 27%
+3.studeni | 514176 | 7013 | 20%
+4.studeni | 523382 | 9206 | 27%
+5.studeni | 532288 | 8906 | 32%
+6.studeni | 541605 | 9317 | 31%
+7.studeni | 550229 | 8624 | 28%
+8.studeni | 559016 | 8787 | 29%
+9.studeni | 564686 | 5670 | 27%
+10.studeni | 572489 | 7803 | 19%
+11.studeni | 582170 | 9681 | 27%
+12.studeni | 592326 | 10156 | 30%
+13.studeni | 601743 | 9417 | 32%
+14.studeni | 611357 | 9614 | 30%
+15.studeni | 619532 | 8175 | 29%
+16.studeni | 624393 | 4861 | 27%
 
 ### Zaključak
 
