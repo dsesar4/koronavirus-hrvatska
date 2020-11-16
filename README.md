@@ -23,7 +23,7 @@ Podatke se može podijeliti u dvije grupe:
 1. **Podaci koji izražavaju broj osoba u određenom stanju, promjenjiv u oba smjera u budućnosti** - hospitalizirani, na respiratoru i aktivno oboljeli
 2. **Podaci koji izražavaju broj osoba u određenom stanju, promjenjiv samo prema gore u budućnosti** - broj zaraženih i broj preminulih
 
-Stoga su za prvu grupu dovoljno dobri podaci o kumulativnom broju, dok su za drugu grupu bolji podaci o promjeni broja, sve gledano kao dan u odnosu na isti dan tjedan dana ranije.
+Stoga su za prvu grupu dovoljno dobri podaci o kumulativnom broju, dok su za drugu grupu bolji podaci o promjeni broja, sve gledano kao **dan u odnosu na isti dan 7 dana ranije.**
 
 ## Promjena broja hospitaliziranih osoba
 
