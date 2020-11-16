@@ -6,7 +6,7 @@ Vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, značajno
 
 > Izračun se vrši tako da se dobije tjedna razlika broja hospitaliziranih (npr. ponedjeljak 9.11. - ponedjeljak 2.11.) i onda se izračuna koliki je udio ta razlika u prvom danu izračuna (ponedjeljak 2.11.).
 
-![image](/grafovi/1611_promjena_hospitaliziranih.png)
+![image](/1611/1611_promjena_hospitaliziranih.png)
 
 Zaključak je da je broj hospitaliziranih `naglo rastao kroz cijeli listopad` da bi početkom studenog taj `rast usporio i dobio trend daljnjeg opadanja`. To znači da je epidemija `počela usporavati brzinu širenja još krajem listopada` ako se uzme u obzir da hospitalizacije kasne 7-10 dana za zarazama.
 
@@ -16,7 +16,7 @@ Također vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, 
 
 > Izračun se vrši tako da se dobije tjedna razlika broja osoba na respiratoru (npr. ponedjeljak 9.11. - ponedjeljak 2.11.) i onda se izračuna koliki je udio ta razlika u prvom danu izračuna (ponedjeljak 2.11.).
 
-![image](/grafovi/1611_promjena_respirator.png)
+![image](/1611/1611_promjena_respirator.png)
 
 Zaključak je da je broj osoba na respiratoru u dva navrata `naglo rastao`, a zadnjih tjedan dana `rast ima tendenciju usporavanja`. To znači da je epidemija `usporila brzinu širenja još krajem listopada`, što se poklapa i sa zaključcima o broju hospitaliziranih.
 
@@ -26,7 +26,7 @@ Važna metrika koja nam mnogo govori o razmjerima epidemije, također točnije o
 
 > Izračun se vrši tako da se dobije tjedna razlika broja preminulih (npr. ponedjeljak 9.11. - ponedjeljak 2.11.) i onda se izračuna koliki je udio ta razlika u prvom danu izračuna (ponedjeljak 2.11.).
 
-![image](/grafovi/1611_promjena_preminulih.png)
+![image](/1611/1611_promjena_preminulih.png)
 
 Zaključak je da je broj preminulih `rastao kroz cijeli listopad i početak studenog` da bi zadnjih tjedan dana `značajno usporio`. To znači da je `epidemija usporila svoje širenje još krajem listopada`, što se poklapa s podacima o broju hospitaliziranih i broju osoba na respiratoru.
 
@@ -36,13 +36,13 @@ Metrika koja nam govori o razmjerima epidemije. Problem je, naravno, što se nik
 
 > Izračun se vrši tako da se dobije tjedna razlika broja slučajeva (npr. ponedjeljak 9.11. - ponedjeljak 2.11.) i onda se izračuna koliki je udio ta razlika u prvom danu izračuna (ponedjeljak 2.11.).
 
-![image](/grafovi/1611_promjena_slucajeva_ukupno.png)
+![image](/1611/1611_promjena_slucajeva_ukupno.png)
 
 Zaključak je da je na razini države `epidemija u listopadu eksplodirala` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih kakve gledamo zadnjih deset dana. Ipak, taj rast je `značajno usporio početkom studenog` i od tada nije u alarmantnim okvirima.
 
 Za Zagreb se može smatrati da je nešto ispred ostatka zemlje po razvoju epidemije, ponajviše zato što u njemu živi najviše ljudi, najveća je interakcija, a to sve dovodi do povećane vjerojatnosti za brzo širenje zaraze.
 
-![image](/grafovi/1611_promjena_slucajeva_zg.png)
+![image](/1611/1611_promjena_slucajeva_zg.png)
 
 Zaključak je da je u Zagrebu nakon `velikog rasta u listopadu`, epidemija `značajno usporila početkom studenog` s tim da je stanje zadnjih nekoliko dana stabilno, nerijetko i uz `pad broja zaraženih` na tjednoj razini.
 
@@ -52,6 +52,6 @@ Metrika koja nam može govoriti o razmjeru epidemije, ali se mora uzeti u obzir 
 
 > Izračun se vrši tako da se broj zaraženih podijeli s brojem testiranih.
 
-![image](/grafovi/1611_udio_pozitivnih_testova.png)
+![image](/1611/1611_udio_pozitivnih_testova.png)
 
 Zaključak je da Hrvatska ili `premalo testira i ima velik broj zaraženih` ili `da se većina slučajeva "ulovi"`. S obzirom na dosadašnja iskustva, `izglednija je prva opcija`.
