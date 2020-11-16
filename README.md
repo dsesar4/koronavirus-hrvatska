@@ -6,7 +6,11 @@ Vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, značajno
 
 > Izračun se vrši tako da se dobije tjedna razlika broja hospitaliziranih (npr. ponedjeljak 9.11. - ponedjeljak 2.11.) i onda se izračuna koliki je udio ta razlika u prvom danu izračuna (ponedjeljak 2.11.).
 
+### Graf
+
 ![image](/1611/1611_promjena_hospitaliziranih.png)
+
+### Tablica
 
 Datum | Ukupno hospitalizirani | Novi hospitalizirani | Tjedna postotna promjena
 :---  | :---: | :---: | :---: 
@@ -17,6 +21,8 @@ Datum | Ukupno hospitalizirani | Novi hospitalizirani | Tjedna postotna promjena
 14.studeni | 1655 | 35 | 24%
 15.studeni | 1710 | 55 | 22%
 16.studeni | 1816 | 106 | 25%
+
+### Zaključak
 
 Zaključak je da je broj hospitaliziranih `naglo rastao kroz cijeli listopad` da bi početkom studenog taj `rast usporio i dobio trend daljnjeg opadanja`. To znači da je epidemija `počela usporavati brzinu širenja još krajem listopada` ako se uzme u obzir da hospitalizacije kasne 7-10 dana za zarazama.
 
