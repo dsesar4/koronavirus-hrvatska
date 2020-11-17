@@ -54,7 +54,7 @@ Datum | Ukupno hospitalizirani | Novi hospitalizirani | Promjena u odnosu na 7 d
 
 ### Zaključak
 
-Zaključak je da je broj hospitaliziranih `naglo rastao kroz cijeli listopad` da bi početkom studenog taj `rast usporio uz tendenciju prema stagnaciji`. To znači da je epidemija `počela usporavati brzinu širenja još krajem listopada` ako se uzme u obzir da hospitalizacije kasne 7-10 dana za zarazama.
+Zaključak je da je broj hospitaliziranih `naglo rastao kroz cijeli listopad` da bi početkom studenog taj `rast postao sve manji uz tendenciju prema stagnaciji`. To znači da je epidemija `nakon značajnog ubrzavanja kroz listopad` dobila `tendenciju prema stagnaciji krajem tog mjeseca` ako se uzme u obzir da hospitalizacije kasne 7-10 dana za zarazama.
 
 ## Promjena broja osoba na respiratoru
 
@@ -85,7 +85,7 @@ Datum | Ukupno na respiratoru | Novi na respiratoru | Promjena u odnosu na 7 dan
 
 ### Zaključak
 
-Zaključak je da je broj osoba na respiratoru u dva navrata `naglo rastao`, a zadnjih tjedan dana `rast ima tendenciju prema stagnaciji`. To znači da je epidemija `usporila brzinu širenja još krajem listopada`, ako se uzme u obzir da pacijenti završe na respiratoru tek 7-14 dana nakon zaraze. Takav zaključak se poklapa i sa zaključkom o hospitalizacijama.
+Zaključak je da je broj osoba na respiratoru u dva navrata `naglo rastao`, a zadnjih tjedan dana `rast ima tendenciju prema stagnaciji`. To također znači da je epidemija `krenula prema stagnaciji širenja krajem listopada`, ako se uzme u obzir da pacijenti završe na respiratoru tek 7-14 dana nakon zaraze. Takav zaključak se poklapa i sa zaključkom o hospitalizacijama.
 
 ## Promjena broja novih preminulih osoba
 
@@ -116,7 +116,7 @@ Datum | Ukupno preminuli | Novi preminuli | Promjena u odnosu na 7 dana ranije
 
 ### Zaključak
 
-Zaključak je da je broj preminulih `ubrzano rastao kroz cijeli listopad i početak studenog` da bi zadnjih tjedan dana `počeo stagnirati`. To znači da je `epidemija značajno usporila svoje širenje još krajem listopada`, što se poklapa s podacima o broju hospitaliziranih i broju osoba na respiratoru.
+Zaključak je da je broj novih preminulih ubrzano rastao `kroz cijeli listopad i početak studenog` da bi zadnjih tjedan dana `počeo stagnirati`. To znači da je `epidemija smanjila ubrzavanje uz trend prema stagnaciji krajem listopada`, ako se uzme u obzir da smrti kasne i do tri tjedna za zarazama. Takav zaključak se poklapa s podacima o broju hospitaliziranih i broju osoba na respiratoru.
 
 ## Promjena broja novih slučajeva - Hrvatska
 
@@ -147,7 +147,7 @@ Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
 
 ### Zaključak
 
-Zaključak je da je na razini države `epidemija u listopadu eksplodirala` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih početkom studenog. Ipak, taj rast je `početkom studenog praktički nestao i počela je stagnacija`. Bitno je reći da se u pojedinim danima ta stagnacija `pretvara u usporavanje`.
+Zaključak je da je na razini države `epidemija u listopadu eksplodirala` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih početkom studenog. Ipak, taj rast je `početkom studenog praktički nestao i počela je stagnacija`. Bitno je reći da se u pojedinim danima ta stagnacija `pretvara u usporavanje`, što znači da broj novih zaraženih opada. Ukoliko se ovakav trend održi ili produbi, prema kraju studenog bi broj novih preminulih također trebao početi opadati.
 
 ## Promjena broja novih slučajeva - Zagreb
 
@@ -178,7 +178,7 @@ Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
 
 ### Zaključak
 
-Zaključak je da je u Zagrebu nakon `velikog rasta u listopadu`, epidemija počela `stagnirati početkom studenog` te uz pad broja zaraženih na tjednoj razini `nerijetko i usporavati`.
+Zaključak je da je u Zagrebu nakon `velikog rasta u listopadu`, epidemija počela `stagnirati početkom studenog` te uz pad broja zaraženih na tjednoj razini `nerijetko i usporavati`, tj. broj novih zaraženih opada.
 
 ## Promjena broja aktivnih slučajeva
 
