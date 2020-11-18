@@ -213,7 +213,7 @@ Zaključak je vrlo sličan onome o promjeni broja slučajeva. `U listopadu se vr
 
 ## Županije - Prosječna tjedna promjena broja novih slučajeva
 
-Za jednostavniji pregled na razini županija odabrana je prosječna tjedna promjena broja novih slučajeva. Na temelju nje se vidi kako pojedine županije stoje u proteklih tjedan dana.
+Za jednostavniji pregled na razini županija odabrana je prosječna tjedna promjena broja novih slučajeva. Na temelju nje se vidi kako pojedine županije stoje u proteklih tjedan dana. Hladnije boje su indikator da epidemija stagnira ili čak usporava, a svjetlije boje indiciraju da epidemija ubrzava.
 
 > Izračun se vrši tako da se za svaku županiju odredi postotna promjena broja novih slučajeva za svaki dan u odnosu na tjedan dana ranije, a zatim se izračuna prosjek za te vrijednosti u proteklih tjedan dana
 
@@ -249,7 +249,7 @@ Virovitičko-podravska | 155%
 
 ### Zaključak
 
-S karte je jasno vidljivo da županije s velikim brojem slučajeva zadnjih tjedan dana stagniraju, a nova znatna širenja se događaju u županijama koje su do sada imale manji broj slučajeva. Epidemija najviše ubrzava u zapadnoj Slavoniji, Lici te srednjoj Dalmaciji. Zapad države je uz istok Slavonije ušao u fazu stagnacije brzine širenja epidemije.
+S karte je jasno vidljivo da županije s velikim brojem slučajeva zadnjih tjedan dana stagniraju, a nova znatna širenja se događaju u županijama koje su do sada imale manji broj slučajeva. Epidemija značajno ubrzava u `velikom dijelu Slavonije, u Lici te Dalmaciji (osim juga)`. `Zapad države je uz dio Slavonije (Posavina) i Dalmacije (jug)` ušao u fazu stagnacije epidemije ili je na putu prema tome.
 
 ## Bonus - Udio pozitivnih testova
 
