@@ -219,7 +219,7 @@ Za jednostavniji pregled na razini županija odabrana je prosječna tjedna promj
 
 ### Karta
 
-(/1811/prosjecna promjena.png)
+![image](/1811/prosjecna_promjena.png)
 
 ### Tablica
 
