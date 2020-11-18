@@ -37,7 +37,6 @@ Vrlo važna metrika koja mnogo govori o brzini širenja epidemije, znatno točni
 
 Datum | Ukupno hospitalizirani | Novi hospitalizirani | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
-4.studeni | 1221 | 29 | 31%
 5.studeni | 1278 | 57 | 30%
 6.studeni | 1307 | 29 | 27%
 7.studeni | 1330 | 23 | 27%
@@ -51,6 +50,7 @@ Datum | Ukupno hospitalizirani | Novi hospitalizirani | Promjena u odnosu na 7 d
 15.studeni | 1710 | 55 | 22%
 16.studeni | 1816 | 106 | 25%
 17.studeni | 1827 | 11 | 21%
+18.studeni | 1878 | 51 | 22%
 
 ### Zaključak
 
@@ -68,7 +68,6 @@ Također vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, 
 
 Datum | Ukupno na respiratoru | Novi na respiratoru | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
-4.studeni | 118 | 6 | 74%
 5.studeni | 122 | 4 | 72%
 6.studeni | 135 | 13 | 82%
 7.studeni | 128 | -7 | 56%
@@ -82,6 +81,7 @@ Datum | Ukupno na respiratoru | Novi na respiratoru | Promjena u odnosu na 7 dan
 15.studeni | 194 | 10 | 34%
 16.studeni | 191 | -3 | 35%
 17.studeni | 196 | 5 | 17%
+18.studeni | 205 | 9 | 15%
 
 ### Zaključak
 
@@ -99,7 +99,6 @@ Važna metrika koja nam mnogo govori o razmjerima epidemije, također točnije o
 
 Datum | Ukupno preminuli | Novi preminuli | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
-4.studeni | 654 | 26 | 13%
 5.studeni | 683 | 29 | 61%
 6.studeni | 717 | 34 | 70%
 7.studeni | 752 | 35 | 133%
@@ -113,6 +112,7 @@ Datum | Ukupno preminuli | Novi preminuli | Promjena u odnosu na 7 dana ranije
 15.studeni | 1049 | 43 | 2%
 16.studeni | 1082 | 33 | -13%
 17.studeni | 1113 | 31 | -6%
+18.studeni | 1151 | 38 | 36%
 
 ### Zaključak
 
@@ -130,7 +130,6 @@ Metrika koja nam govori o razmjerima epidemije. Problem je, naravno, što se nik
 
 Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
-4.studeni | 56567 | 2480 | 4%
 5.studeni | 59415 | 2848 | 3%
 6.studeni | 62305 | 2890 | 4%
 7.studeni | 64704 | 2399 | -13%
@@ -144,6 +143,7 @@ Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
 15.studeni | 84206 | 2365 | -7%
 16.studeni | 85519 | 1313 | -14%
 17.studeni | 87464 | 1945 | 33%
+18.studeni | 90715 | 3251 | 25%
 
 ### Zaključak
 
@@ -161,7 +161,6 @@ Za Zagreb se može smatrati da je nešto ispred ostatka zemlje po razvoju epidem
 
 Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
-4.studeni | 14834 | 677 | -3%
 5.studeni | 15484 | 650 | -8%
 6.studeni | 16148 | 664 | -11%
 7.studeni | 16723 | 575 | -26%
@@ -175,6 +174,7 @@ Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
 15.studeni | 20764 | 363 | -21%
 16.studeni | 21055 | 291 | -8%
 17.studeni | 21476 | 421 | 14%
+18.studeni | 22080 | 604 | -3%
 
 ### Zaključak
 
@@ -192,7 +192,6 @@ Metrika koja nam govori o brzini širenja epidemije, vrlo slično kao promjena b
 
 Datum | Ukupno aktivnih | Novi aktivni | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
-4.studeni | 14843 | 764 | 17%
 5.studeni | 15356 | 513 | 9%
 6.studeni | 15567 | 211 | 3%
 7.studeni | 15542 | -25 | -3%
@@ -206,6 +205,7 @@ Datum | Ukupno aktivnih | Novi aktivni | Promjena u odnosu na 7 dana ranije
 15.studeni | 16926 | -164 | 8%
 16.studeni | 15699 | -1227 | 5%
 17.studeni | 15371 | -328 | 6%
+18.studeni | 16891 | 1520 | 9%
 
 ### Zaključak
 
@@ -225,7 +225,6 @@ Metrika koja nam može govoriti o razmjeru epidemije, ali se mora uzeti u obzir 
 
 Datum | Ukupno testova | Novi testovi | Udio pozitivnih
 :---  | :---: | :---: | :---: 
-4.studeni | 523382 | 9206 | 27%
 5.studeni | 532288 | 8906 | 32%
 6.studeni | 541605 | 9317 | 31%
 7.studeni | 550229 | 8624 | 28%
@@ -239,6 +238,7 @@ Datum | Ukupno testova | Novi testovi | Udio pozitivnih
 15.studeni | 619532 | 8175 | 29%
 16.studeni | 624393 | 4861 | 27%
 17.studeni | 631655 | 7262 | 27%
+18.studeni | 640781 | 9126 | 36%
 
 ### Zaključak
 
