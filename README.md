@@ -211,6 +211,38 @@ Datum | Ukupno aktivnih | Novi aktivni | Promjena u odnosu na 7 dana ranije
 
 Zaključak je vrlo sličan onome o promjeni broja slučajeva. `U listopadu se vrlo velik broj ljudi zarazio` uz ubrzavanje širenja epidemije, ali ulaskom u studeni `epidemija je počela stagnirati` uz znatno manju promjenu broja aktivnih slučajeva.
 
+## Županije - Prosječna tjedna promjena broja novih slučajeva
+
+Za jednostavniji pregled na razini županija odabrana je prosječna tjedna promjena broja novih slučajeva. Na temelju nje se vidi kako pojedine županije stoje u proteklih tjedan dana.
+
+> Izračun se vrši tako da se za svaku županiju odredi promjena broja novih slučajeva za svaki dan u odnosu na tjedan dana ranije, a zatim se izračuna prosjek za te vrijednosti u proteklih tjedan dana
+
+### Karta
+
+(/1811/prosjecna promjena.png)
+
+### Tablica
+
+Županija | Prosječna tjedna promjena broja novih slučajeva
+:---  | :---:
+5.studeni | 532288 | 8906 | 32%
+6.studeni | 541605 | 9317 | 31%
+7.studeni | 550229 | 8624 | 28%
+8.studeni | 559016 | 8787 | 29%
+9.studeni | 564686 | 5670 | 27%
+10.studeni | 572489 | 7803 | 19%
+11.studeni | 582170 | 9681 | 27%
+12.studeni | 592326 | 10156 | 30%
+13.studeni | 601743 | 9417 | 32%
+14.studeni | 611357 | 9614 | 30%
+15.studeni | 619532 | 8175 | 29%
+16.studeni | 624393 | 4861 | 27%
+17.studeni | 631655 | 7262 | 27%
+18.studeni | 640781 | 9126 | 36%
+
+### Zaključak
+tekst
+
 ## Bonus - Udio pozitivnih testova
 
 Metrika koja nam može govoriti o razmjeru epidemije, ali se mora uzeti u obzir broj testiranja. Ukoliko se testira malo, očekivano je da je ta brojka veća, pogotovo ako je epidemija jače raširena među populacijom. 
