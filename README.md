@@ -215,7 +215,7 @@ Zaključak je vrlo sličan onome o promjeni broja slučajeva. `U listopadu se vr
 
 Za jednostavniji pregled na razini županija odabrana je prosječna tjedna promjena broja novih slučajeva. Na temelju nje se vidi kako pojedine županije stoje u proteklih tjedan dana.
 
-> Izračun se vrši tako da se za svaku županiju odredi promjena broja novih slučajeva za svaki dan u odnosu na tjedan dana ranije, a zatim se izračuna prosjek za te vrijednosti u proteklih tjedan dana
+> Izračun se vrši tako da se za svaku županiju odredi postotna promjena broja novih slučajeva za svaki dan u odnosu na tjedan dana ranije, a zatim se izračuna prosjek za te vrijednosti u proteklih tjedan dana
 
 ### Karta
 
@@ -223,25 +223,33 @@ Za jednostavniji pregled na razini županija odabrana je prosječna tjedna promj
 
 ### Tablica
 
-Županija | Prosječna tjedna promjena broja novih slučajeva
+Županija | Prosječna tjedna promjena
 :---  | :---:
-5.studeni | 532288 | 8906 | 32%
-6.studeni | 541605 | 9317 | 31%
-7.studeni | 550229 | 8624 | 28%
-8.studeni | 559016 | 8787 | 29%
-9.studeni | 564686 | 5670 | 27%
-10.studeni | 572489 | 7803 | 19%
-11.studeni | 582170 | 9681 | 27%
-12.studeni | 592326 | 10156 | 30%
-13.studeni | 601743 | 9417 | 32%
-14.studeni | 611357 | 9614 | 30%
-15.studeni | 619532 | 8175 | 29%
-16.studeni | 624393 | 4861 | 27%
-17.studeni | 631655 | 7262 | 27%
-18.studeni | 640781 | 9126 | 36%
+Istarska | 4%
+Karlovačka | 16%
+Zadarska | 65%
+Primorsko-goranska | 31% 
+Vukovarsko-srijemska | 7%
+Šibensko-kninska | 81%
+Osječko-baranjska | 36%
+Splitsko-dalmatinska | 49%
+Bjelovarsko-bilogorska | 53%
+Brodsko-posavska | -9%
+Dubrovačko-neretvanska | -6%
+Zagrebačka | 5%
+Grad Zagreb | -2%
+Koprivničko-križevačka | 105% 
+Krapinsko-zagorska | 6%
+Ličko-senjska | 108%
+Međimurska | 7%
+Požeško-slavonska | 44%
+Sisačko-moslavačka | 114%
+Varaždinska | 3%
+Virovitičko-podravska | 155%
 
 ### Zaključak
-tekst
+
+S karte je jasno vidljivo da županije s velikim brojem slučajeva zadnjih tjedan dana stagniraju, a nova znatna širenja se događaju u županijama koje su do sada imale manji broj slučajeva. Epidemija najviše ubrzava u zapadnoj Slavoniji, Lici te srednjoj Dalmaciji. Zapad države je uz istok Slavonije ušao u fazu stagnacije brzine širenja epidemije.
 
 ## Bonus - Udio pozitivnih testova
 
