@@ -213,13 +213,13 @@ Zaključak je vrlo sličan onome o promjeni broja slučajeva. `U listopadu se vr
 
 ## Županije - Prosječna tjedna promjena broja novih slučajeva
 
-Za jednostavniji pregled na razini županija odabrana je prosječna tjedna promjena broja novih slučajeva. Na temelju nje se vidi kako pojedine županije stoje u proteklih tjedan dana. Tamnoplava boja je indikator da epidemija stagnira ili čak usporava, a za ostale boje vrijedi pravilo: što je boja svjetlija to epidemija više ubrzava (kako je prikazano na skali uz kartu).
+Za jednostavniji pregled na razini županija odabrana je prosječna tjedna promjena broja novih slučajeva. Na temelju nje se vidi kako pojedine županije stoje u proteklih tjedan dana. Tamnoplava boja je indikator da epidemija stagnira ili čak usporava, a za ostale boje vrijedi pravilo: što je boja svjetlija to epidemija više ubrzava (kako je prikazano na skali uz kartu). Za ovu metriku vrijede ista pravila kao i za sve prethodne, kao što je opisano u uvodu teksta.
 
 > Izračun se vrši tako da se za svaku županiju odredi postotna promjena broja novih slučajeva za svaki dan u odnosu na tjedan dana ranije, a zatim se izračuna prosjek za te vrijednosti u proteklih tjedan dana
 
 ### Karta
 
-![image](/1811/prosjecna_promjena.png)
+![image](/1811/1811_prosjecna_promjena.png)
 
 ### Tablica
 
