@@ -31,13 +31,12 @@ Vrlo važna metrika koja mnogo govori o brzini širenja epidemije, znatno točni
 
 ### Graf
 
-![image](/1811/1811_promjena_hospitaliziranih.png)
+![image](/1911/1911_promjena_hospitaliziranih.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Ukupno hospitalizirani | Novi hospitalizirani | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
-5.studeni | 1278 | 57 | 30%
 6.studeni | 1307 | 29 | 27%
 7.studeni | 1330 | 23 | 27%
 8.studeni | 1396 | 66 | 27%
@@ -51,6 +50,7 @@ Datum | Ukupno hospitalizirani | Novi hospitalizirani | Promjena u odnosu na 7 d
 16.studeni | 1816 | 106 | 25%
 17.studeni | 1827 | 11 | 21%
 18.studeni | 1878 | 51 | 22%
+19.studeni | 1944 | 66 | 22%
 
 ### Zaključak
 
@@ -62,13 +62,12 @@ Također vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, 
 
 ### Graf
 
-![image](/1811/1811_promjena_respirator.png)
+![image](/1911/1911_promjena_respirator.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Ukupno na respiratoru | Novi na respiratoru | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
-5.studeni | 122 | 4 | 72%
 6.studeni | 135 | 13 | 82%
 7.studeni | 128 | -7 | 56%
 8.studeni | 145 | 17 | 79%
@@ -82,6 +81,7 @@ Datum | Ukupno na respiratoru | Novi na respiratoru | Promjena u odnosu na 7 dan
 16.studeni | 191 | -3 | 35%
 17.studeni | 196 | 5 | 17%
 18.studeni | 205 | 9 | 15%
+19.studeni | 204 | -1 | 15%
 
 ### Zaključak
 
@@ -93,13 +93,12 @@ Važna metrika koja nam mnogo govori o razmjerima epidemije, također točnije o
 
 ### Graf
 
-![image](/1811/1811_promjena_preminulih.png)
+![image](/1911/1911_promjena_preminulih.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Ukupno preminuli | Novi preminuli | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
-5.studeni | 683 | 29 | 61%
 6.studeni | 717 | 34 | 70%
 7.studeni | 752 | 35 | 133%
 8.studeni | 794 | 42 | 163%
@@ -113,6 +112,7 @@ Datum | Ukupno preminuli | Novi preminuli | Promjena u odnosu na 7 dana ranije
 16.studeni | 1082 | 33 | -13%
 17.studeni | 1113 | 31 | -6%
 18.studeni | 1151 | 38 | 36%
+19.studeni | 1200 | 49 | 53%
 
 ### Zaključak
 
@@ -124,13 +124,12 @@ Metrika koja nam govori o razmjerima epidemije. Problem je, naravno, što se nik
 
 ### Graf
 
-![image](/1811/1811_promjena_slucajeva_ukupno.png)
+![image](/1911/1911_promjena_slucajeva_ukupno.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
-5.studeni | 59415 | 2848 | 3%
 6.studeni | 62305 | 2890 | 4%
 7.studeni | 64704 | 2399 | -13%
 8.studeni | 67247 | 2543 | 17%
@@ -144,6 +143,7 @@ Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
 16.studeni | 85519 | 1313 | -14%
 17.studeni | 87464 | 1945 | 33%
 18.studeni | 90715 | 3251 | 25%
+19.studeni | 93879 | 3164 | 3%
 
 ### Zaključak
 
@@ -155,13 +155,12 @@ Za Zagreb se može smatrati da je nešto ispred ostatka zemlje po razvoju epidem
 
 ### Graf
 
-![image](/1811/1811_promjena_slucajeva_zg.png)
+![image](/1911/1911_promjena_slucajeva_zg.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
-5.studeni | 15484 | 650 | -8%
 6.studeni | 16148 | 664 | -11%
 7.studeni | 16723 | 575 | -26%
 8.studeni | 17184 | 461 | -33%
@@ -175,6 +174,7 @@ Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
 16.studeni | 21055 | 291 | -8%
 17.studeni | 21476 | 421 | 14%
 18.studeni | 22080 | 604 | -3%
+19.studeni | 22689 | 609 | -14%
 
 ### Zaključak
 
@@ -186,13 +186,12 @@ Metrika koja nam govori o brzini širenja epidemije, vrlo slično kao promjena b
 
 ### Graf
 
-![image](/1811/1811_promjena_aktivnih.png)
+![image](/1911/1911_promjena_aktivnih.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Ukupno aktivnih | Novi aktivni | Promjena u odnosu na 7 dana ranije
 :---  | :---: | :---: | :---: 
-5.studeni | 15356 | 513 | 9%
 6.studeni | 15567 | 211 | 3%
 7.studeni | 15542 | -25 | -3%
 8.studeni | 15678 | 136 | -1%
@@ -206,6 +205,7 @@ Datum | Ukupno aktivnih | Novi aktivni | Promjena u odnosu na 7 dana ranije
 16.studeni | 15699 | -1227 | 5%
 17.studeni | 15371 | -328 | 6%
 18.studeni | 16891 | 1520 | 9%
+19.studeni | 17814 | 923 | 9%
 
 ### Zaključak
 
@@ -213,43 +213,43 @@ Zaključak je vrlo sličan onome o promjeni broja slučajeva. `U listopadu se vr
 
 ## Županije - Prosječna tjedna promjena broja novih slučajeva
 
-Za jednostavniji pregled na razini županija odabrana je prosječna tjedna promjena broja novih slučajeva. Na temelju nje se vidi kako pojedine županije stoje u proteklih tjedan dana. Tamnoplava boja je indikator da epidemija stagnira ili čak usporava, a za ostale boje vrijedi pravilo: što je boja svjetlija to epidemija više ubrzava (kako je prikazano na skali uz kartu). Za ovu metriku vrijede ista pravila kao i za sve prethodne, kao što je opisano u uvodu teksta.
+Za jednostavniji pregled na razini županija odabrana je prosječna tjedna promjena broja novih slučajeva. Na temelju nje se vidi kako pojedine županije stoje u proteklih tjedan dana. Bijela boja je indikator da epidemija stagnira ili čak usporava, a što je tamnija crvena boja to epidemija više ubrzava (kako je prikazano na skali uz kartu). Za ovu metriku vrijede ista pravila kao i za sve prethodne, kao što je opisano u uvodu teksta.
 
 > Izračun se vrši tako da se za svaku županiju odredi postotna promjena broja novih slučajeva za svaki dan u odnosu na tjedan dana ranije, a zatim se izračuna prosjek za te vrijednosti u proteklih tjedan dana
 
 ### Karta
 
-![image](/1811/1811_prosjecna_promjena.png)
+![image](/1911/1911_prosjecna_promjena.png)
 
 ### Tablica
 
 Županija | Prosječna tjedna promjena
 :---  | :---:
-Istarska | 4%
-Karlovačka | 16%
-Zadarska | 65%
-Primorsko-goranska | 31% 
-Vukovarsko-srijemska | 7%
-Šibensko-kninska | 81%
-Osječko-baranjska | 36%
+Istarska | 5%
+Karlovačka | 12%
+Zadarska | 61%
+Primorsko-goranska | 40% 
+Vukovarsko-srijemska | 8%
+Šibensko-kninska | 61%
+Osječko-baranjska | 25%
 Splitsko-dalmatinska | 49%
-Bjelovarsko-bilogorska | 53%
-Brodsko-posavska | -9%
-Dubrovačko-neretvanska | -6%
-Zagrebačka | 5%
-Grad Zagreb | -2%
-Koprivničko-križevačka | 105% 
-Krapinsko-zagorska | 6%
-Ličko-senjska | 108%
-Međimurska | 7%
-Požeško-slavonska | 44%
-Sisačko-moslavačka | 114%
-Varaždinska | 3%
-Virovitičko-podravska | 155%
+Bjelovarsko-bilogorska | 88%
+Brodsko-posavska | -5%
+Dubrovačko-neretvanska | -5%
+Zagrebačka | 8%
+Grad Zagreb | -5%
+Koprivničko-križevačka | 57% 
+Krapinsko-zagorska | 15%
+Ličko-senjska | 88%
+Međimurska | -3%
+Požeško-slavonska | 51%
+Sisačko-moslavačka | 54%
+Varaždinska | 10%
+Virovitičko-podravska | 158%
 
 ### Zaključak
 
-S karte je jasno vidljivo da županije s velikim brojem slučajeva zadnjih tjedan dana stagniraju, a nova znatna širenja se događaju u županijama koje su do sada imale manji broj slučajeva. Epidemija značajno ubrzava u `velikom dijelu Slavonije, u Lici te Dalmaciji (osim juga)`. `Zapad države je uz dio Slavonije (Posavina) i Dalmacije (jug)` ušao u fazu stagnacije epidemije ili je na putu prema tome.
+S karte je jasno vidljivo da županije s velikim brojem slučajeva zadnjih tjedan dana stagniraju, a nova znatna širenja se događaju u županijama koje su do sada imale manji broj slučajeva. Epidemija značajno ubrzava u `velikom dijelu Slavonije, u Lici te primorju (osim juga i Istre)`. `Zapad države je uz dio Slavonije (Posavina) i Dalmacije (jug)` ušao u fazu stagnacije epidemije ili je na putu prema tome.
 
 ## Bonus - Udio pozitivnih testova
 
@@ -259,13 +259,12 @@ Metrika koja nam može govoriti o razmjeru epidemije, ali se mora uzeti u obzir 
 
 ### Graf
 
-![image](/1811/1811_udio_pozitivnih_testova.png)
+![image](/1911/1911_udio_pozitivnih_testova.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Ukupno testova | Novi testovi | Udio pozitivnih
 :---  | :---: | :---: | :---: 
-5.studeni | 532288 | 8906 | 32%
 6.studeni | 541605 | 9317 | 31%
 7.studeni | 550229 | 8624 | 28%
 8.studeni | 559016 | 8787 | 29%
@@ -279,6 +278,7 @@ Datum | Ukupno testova | Novi testovi | Udio pozitivnih
 16.studeni | 624393 | 4861 | 27%
 17.studeni | 631655 | 7262 | 27%
 18.studeni | 640781 | 9126 | 36%
+19.studeni | 649551 | 8770 | 36%
 
 ### Zaključak
 
