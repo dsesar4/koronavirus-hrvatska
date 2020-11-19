@@ -249,7 +249,7 @@ Virovitičko-podravska | 158%
 
 ### Zaključak
 
-S karte je jasno vidljivo da županije s velikim brojem slučajeva zadnjih tjedan dana stagniraju, a nova znatna širenja se događaju u županijama koje su do sada imale manji broj slučajeva. Epidemija značajno ubrzava u `velikom dijelu Slavonije, u Lici te primorju (osim juga i Istre)`. `Zapad države je uz dio Slavonije (Posavina) i Dalmacije (jug)` ušao u fazu stagnacije epidemije ili je na putu prema tome.
+S karte je jasno vidljivo da županije s velikim brojem slučajeva zadnjih tjedan dana stagniraju, a nova znatna širenja se događaju u županijama koje su do sada imale manji broj slučajeva. Epidemija značajno ubrzava u `velikom dijelu Slavonije, u Lici te primorju (osim juga i Istre)`. `Sjeverozapad države je uz dio Slavonije (Posavina) i Dalmacije (jug)` ušao u fazu stagnacije epidemije ili je na putu prema tome.
 
 ## Bonus - Udio pozitivnih testova
 
