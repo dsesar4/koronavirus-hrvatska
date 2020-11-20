@@ -225,27 +225,27 @@ Za jednostavniji pregled na razini županija odabrana je prosječna tjedna promj
 
 Županija | Tjedna promjena
 :---  | :---:
-Istarska | 5%
-Karlovačka | 12%
+Istarska | 6%
+Karlovačka | 27%
 Zadarska | 61%
-Primorsko-goranska | 40% 
-Vukovarsko-srijemska | 8%
-Šibensko-kninska | 61%
-Osječko-baranjska | 25%
-Splitsko-dalmatinska | 49%
-Bjelovarsko-bilogorska | 88%
-Brodsko-posavska | -5%
-Dubrovačko-neretvanska | -5%
-Zagrebačka | 8%
-Grad Zagreb | -5%
-Koprivničko-križevačka | 57% 
-Krapinsko-zagorska | 15%
-Ličko-senjska | 88%
-Međimurska | -3%
-Požeško-slavonska | 51%
-Sisačko-moslavačka | 54%
-Varaždinska | 10%
-Virovitičko-podravska | 158%
+Primorsko-goranska | 14% 
+Vukovarsko-srijemska | -22%
+Šibensko-kninska | 18%
+Osječko-baranjska | 11%
+Splitsko-dalmatinska | 15%
+Bjelovarsko-bilogorska | 4%
+Brodsko-posavska | 7%
+Dubrovačko-neretvanska | -24%
+Zagrebačka | 10%
+Grad Zagreb | -6%
+Koprivničko-križevačka | 25% 
+Krapinsko-zagorska | 28%
+Ličko-senjska | 46%
+Međimurska | 3%
+Požeško-slavonska | 22%
+Sisačko-moslavačka | -4%
+Varaždinska | 8%
+Virovitičko-podravska | 36%
 
 ### Zaključak
 
