@@ -128,7 +128,7 @@ Metrika koja nam govori o razmjerima epidemije. Problem je, naravno, što se nik
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
+Datum | Ukupno slučajeva | Novi slučajevi | Tjedna promjena
 :---  | :---: | :---: | :---: 
 7.studeni | 64704 | 2399 | 0%
 8.studeni | 67247 | 2543 | 4%
@@ -159,7 +159,7 @@ Za Zagreb se može smatrati da je nešto ispred ostatka zemlje po razvoju epidem
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno slučajeva | Novi slučajevi | Promjena u odnosu na 7 dana ranije
+Datum | Ukupno slučajeva | Novi slučajevi | Tjedna promjena
 :---  | :---: | :---: | :---: 
 7.studeni | 16723 | 575 | -8%
 8.studeni | 17184 | 461 | -12%
@@ -190,7 +190,7 @@ Metrika koja nam govori o brzini širenja epidemije, vrlo slično kao promjena b
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno aktivnih | Novi aktivni | Promjena u odnosu na 7 dana ranije
+Datum | Ukupno aktivnih | Novi aktivni | Tjedna promjena
 :---  | :---: | :---: | :---: 
 7.studeni | 15542 | -25 | 16%
 8.studeni | 15678 | 136 | 10%
@@ -223,7 +223,7 @@ Za jednostavniji pregled na razini županija odabrana je prosječna tjedna promj
 
 ### Tablica
 
-Županija | Prosječna tjedna promjena
+Županija | Tjedna promjena
 :---  | :---:
 Istarska | 5%
 Karlovačka | 12%
