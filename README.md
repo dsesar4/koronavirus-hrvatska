@@ -149,7 +149,7 @@ Datum | Ukupno slučajeva | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-Zaključak je da je na razini države `epidemija u listopadu eksplodirala` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih početkom studenog. Ipak, taj veliki rast je `početkom studenog praktički nestao i uspostavio se trend blizak stagnaciji`. Ipak, bitno je reći da čak i uz ovako male stope ubrazavanja, epidemija i dalje raste te je, nažalost, prema kraju studenog za očekivati i manji porast broj preminulih.
+Zaključak je da je na razini države `epidemija u listopadu eksplodirala` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih početkom studenog. Ipak, taj veliki rast je `početkom studenog praktički nestao i uspostavio se trend blizak stagnaciji`. S druge strane, bitno je reći da čak i uz ovako male stope ubrazavanja, epidemija i dalje raste te je, nažalost, prema kraju studenog za očekivati dodatan manji porast broja preminulih.
 
 ## Tjedna promjena broja novih slučajeva - Zagreb
 
