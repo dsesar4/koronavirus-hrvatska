@@ -31,7 +31,7 @@ Vrlo važna metrika koja mnogo govori o brzini širenja epidemije, znatno točni
 
 ### Graf
 
-![image](/1911/1911_promjena_hospitaliziranih.png)
+![image](/20_11_2020/2011_promjena_hospitaliziranih.png)
 
 ### Tablica protekla dva tjedna
 
@@ -62,7 +62,7 @@ Također vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, 
 
 ### Graf
 
-![image](/1911/1911_promjena_respirator.png)
+![image](/20_11_2020/2011_promjena_respirator.png)
 
 ### Tablica protekla dva tjedna
 
@@ -93,7 +93,7 @@ Važna metrika koja nam mnogo govori o razmjerima epidemije, također točnije o
 
 ### Graf
 
-![image](/1911/1911_promjena_preminulih.png)
+![image](/20_11_2020/2011_promjena_preminulih.png)
 
 ### Tablica protekla dva tjedna
 
@@ -124,7 +124,7 @@ Metrika koja nam govori o razmjerima epidemije. Problem je, naravno, što se nik
 
 ### Graf
 
-![image](/1911/1911_promjena_slucajeva_ukupno.png)
+![image](/20_11_2020/2011_promjena_slucajeva_ukupno.png)
 
 ### Tablica protekla dva tjedna
 
@@ -155,7 +155,7 @@ Za Zagreb se može smatrati da je nešto ispred ostatka zemlje po razvoju epidem
 
 ### Graf
 
-![image](/1911/1911_promjena_slucajeva_zg.png)
+![image](/20_11_2020/2011_promjena_slucajeva_zg.png)
 
 ### Tablica protekla dva tjedna
 
@@ -186,7 +186,7 @@ Metrika koja nam govori o brzini širenja epidemije, vrlo slično kao promjena b
 
 ### Graf
 
-![image](/1911/1911_promjena_aktivnih.png)
+![image](/20_11_2020/2011_promjena_aktivnih.png)
 
 ### Tablica protekla dva tjedna
 
@@ -219,7 +219,7 @@ Za jednostavniji pregled na razini županija odabrana je prosječna tjedna promj
 
 ### Karta
 
-![image](/1911/1911_prosjecna_promjena.png)
+![image](/20_11_2020/2011_promjena_karta.png)
 
 ### Tablica
 
@@ -259,7 +259,7 @@ Metrika koja nam može govoriti o razmjeru epidemije, ali se mora uzeti u obzir 
 
 ### Graf
 
-![image](/1911/1911_udio_pozitivnih_testova.png)
+![image](/20_11_2020/2011_udio_pozitivnih_testova.png)
 
 ### Tablica protekla dva tjedna
 
