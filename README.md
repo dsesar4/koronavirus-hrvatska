@@ -18,7 +18,7 @@ Ovakva kretanja najbolje je pratiti izračunom **postotne promjene broja (npr. z
 
 Za prvu opciju takav izračun će dati 100%, za drugu 0% te za treću opciju -50%. Da bi epidemija završila, potreban je duži period njezinog usporavanja, tj. pada broja zaraženih. To dovodi i do sve manjeg broja preminulih. Ukoliko epidemija ubrzava, broj zaraženih raste, a kao posljedica toga i broj preminulih (s vremenskim odmakom) te se epidemija pogoršava. Ako epidemija stagnira, broj zaraženih je otprilike konstantan, a takav je i broj preminulih.
 
-Zašto izračun na tjednoj razini? Zato što je tjedan dana dovoljno velik uzorak da se počnu uočavati trendovi. Izračunom za sedam dana odjednom uglavnom se poništavaju dnevne oscilacije nastale radi smanjenog/povećanog obujma testiranja, neradnih dana, praznika i sl. Ipak, ovakvim izračunom se trendovi uočavaju nešto sporije, npr. potrebno je nekoliko dana dobrih rezultata da bi se uočio pozitivan trend na grafu. S druge strane, kad se određeni trend uoči, onda je i njegova težina zbog ovakvog načina izračuna veća.
+Zašto izračun na tjednoj razini? Zato što je tjedan dana dovoljno velik uzorak da se počnu uočavati trendovi. Izračunom za sedam dana odjednom uglavnom se poništavaju dnevne oscilacije nastale radi smanjenog/povećanog obujma testiranja, neradnih dana, praznika i sl. Ipak, ovakvim izračunom se trendovi uočavaju nešto sporije, npr. potrebno je nekoliko dana dobrih rezultata da bi se uočio pozitivan trend na grafu. S druge strane, kad se određeni trend uoči, onda je i njegova težina veća.
 
 Podatke se može podijeliti u dvije grupe:
 
