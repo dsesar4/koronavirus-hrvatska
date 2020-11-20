@@ -6,28 +6,30 @@ U sljedećem tekstu nisu navedeni klasični podaci kakvi se viđaju svakog dana 
 
 Ugrubo, postoje tri opcije za brzinu širenja epidemije:
 
-1. **Epidemija ubrzava** - broj novih (dnevnih) slučajeva raste u roku od tjedan dana (npr. 1000 novih slučajeva 1. studenog i 2000 novih slučajeva 8. studenog)
-2. **Epidemija stagnira** - broj novih (dnevnih) slučajeva je ostao otprilike isti u roku od tjedan dana (npr. 1000 novih slučajeva 1. studenog i 1000 novih slučajeva 8. studenog)
-3. **Epidemija usporava** - broj novih (dnevnih) slučajeva opada u roku od tjedan dana (npr. 1000 novih slučajeva 1. studenog i 500 novih slučajeva 8. studenog)
+1. **Epidemija ubrzava** - broj novih slučajeva raste na tjednoj razini (npr. 1000 novih slučajeva u tjednu 1.-7. studenog i 2000 novih slučajeva u tjednu 8.-14. studenog)
+2. **Epidemija stagnira** - broj novih slučajeva ostaje isti na tjednoj razini (npr. 1000 novih slučajeva u tjednu 1.-7. studenog i 1000 novih slučajeva u tjednu 8.-14. studenog)
+3. **Epidemija usporava** - broj novih slučajeva pada na tjednoj razini (npr. 1000 novih slučajeva u tjednu 1.-7. studenog i 500 novih slučajeva u tjednu 8.-14. studenog)
 
-Ovakva kretanja najbolje je pratiti izračunom **postotne promjene broja (npr. zaraženih) za odabrani dan u odnosu na isti dan točno 7 dana ranije**. Primjer izračuna:
+Ovakva kretanja najbolje je pratiti izračunom **postotne promjene broja (npr. zaraženih) na tjednoj razini u odnosu na tjedan ranije**. 
 
-> (Broj novih zaraženih 8. studenog - Broj novih zaraženih 1. studenog) / (Broj novih zaraženih 1. studenog) × 100%
+> Primjer izračuna za 14. studeni:
 
-Za prvu opciju takav izračun će dati 100%, za drugu 0% te za treću opciju -50%. Da bi epidemija završila, potreban je duži period njezinog usporavanja, tj. pada broja zaraženih. To dovodi i do sve manjeg broja preminulih. Ukoliko epidemija ubrzava, broj zaraženih raste, a posljedično tome i broj preminulih (s vremenskim odmakom) te se epidemija pogoršava. Ako epidemija stagnira (aktualno stanje u Hrvatskoj), broj zaraženih je otprilike konstantan, a takav je i broj preminulih.
+> ((Ukupan broj novih zaraženih u tjednu 8.-14. studenog) - (Ukupan broj novih zaraženih u tjednu 1.-7. studenog)) / (Ukupan broj novih zaraženih u tjednu 1.-7. studenog) × 100%
 
-Zašto izračun na tjednoj razini? Zato što je to optimalna vremenska razlika da se uvide trendovi, ali i zato što se na isti dan otprilike jednako testira. Stoga ponedjeljak nije usporediv s petkom jer će uvijek imati manje brojeve zaraženih zbog manje odrađenih testova tijekom vikenda.
+Za prvu opciju takav izračun će dati 100%, za drugu 0% te za treću opciju -50%. Da bi epidemija završila, potreban je duži period njezinog usporavanja, tj. pada broja zaraženih. To dovodi i do sve manjeg broja preminulih. Ukoliko epidemija ubrzava, broj zaraženih raste, a kao posljedica toga i broj preminulih (s vremenskim odmakom) te se epidemija pogoršava. Ako epidemija stagnira (aktualno stanje u Hrvatskoj), broj zaraženih je otprilike konstantan, a takav je i broj preminulih.
+
+Zašto izračun na tjednoj razini? Zato što je tjedan dana dovoljno velik uzorak da se počnu uočavati trendovi. Izračunom za sedam dana odjednom uglavnom se poništavaju dnevne oscilacije nastale radi smanjenog/povećanog obujma testiranja, neradnih dana, praznika i sl. Ipak, ovakvim izračunom se trendovi uočavaju nešto sporije, npr. potrebno je nekoliko dana dobrih rezultata da bi se uočio pozitivan trend na grafu. S druge strane, kad se određeni trend uoči, onda je i njegova težina zbog ovakvog načina izračuna veća.
 
 Podatke se može podijeliti u dvije grupe:
 
 1. **Podaci koji izražavaju broj osoba u određenom stanju, promjenjiv u oba smjera u budućnosti** - hospitalizirani, na respiratoru i aktivno oboljeli
 2. **Podaci koji izražavaju broj osoba u određenom stanju, promjenjiv samo prema gore u budućnosti** - broj zaraženih i broj preminulih
 
-Stoga su za prvu grupu dovoljno dobri podaci o kumulativnom broju, dok su za drugu grupu korisniji podaci o promjeni broja, sve gledano kao **dan u odnosu na isti dan 7 dana ranije.**
+Stoga su za prvu grupu dovoljno dobri podaci o kumulativnom broju, dok su za drugu grupu korisniji podaci o promjeni broja, sve gledano kao **tjedna postotna promjena broja u odnosu na tjedan ranije**
 
 ## Tjedna promjena broja hospitaliziranih osoba
 
-Vrlo važna metrika koja mnogo govori o brzini širenja epidemije, znatno točnije od broja novih slučajeva. Razlog tome je jednostavan - određeni udio zaraženih će svakako završiti u bolnici. Sadašnje stanje je posljedica zaraza od prije 7-10 dana, što je vrijeme potrebno da se dobiju prvi simptomi i nakon toga se razvije dovoljno ozbiljan oblik bolesti za odlazak u bolnicu.
+Vrlo važna metrika koja mnogo govori o brzini širenja epidemije, znatno točnije od broja novih slučajeva. Razlog tome je jednostavan - određeni udio zaraženih će svakako završiti u bolnici. Dnevne brojke su posljedica zaraza od prije 7-10 dana, što je vrijeme potrebno da se dobiju prvi simptomi i nakon toga se razvije dovoljno ozbiljan oblik bolesti za odlazak u bolnicu.
 
 ### Graf
 
@@ -54,11 +56,11 @@ Datum | Ukupno hospitalizirani | Novi hospitalizirani | Tjedna promjena
 
 ### Zaključak
 
-Zaključak je da je broj hospitaliziranih `naglo rastao kroz cijeli listopad` da bi početkom studenog taj `rast postao sve manji uz tendenciju prema stagnaciji`. To znači da je epidemija `nakon značajnog ubrzavanja kroz listopad` dobila `tendenciju prema stagnaciji krajem tog mjeseca` ako se uzme u obzir da hospitalizacije kasne 7-10 dana za zarazama.
+Zaključak je da je broj hospitaliziranih `naglo rastao kroz cijeli listopad` da bi početkom studenog taj `rast krenuo slabjeti uz daljnji trend prema stagnaciji`. To znači da je epidemija nakon `značajnog ubrzavanja` kroz listopad `prestala ubrzavati` krajem tog mjeseca ako se uzme u obzir da hospitalizacije kasne 7-10 dana za zarazama.
 
 ## Tjedna promjena broja osoba na respiratoru
 
-Također vrlo važna metrika koja nam mnogo govori o brzini širenja epidemije, s razlikom što zaključci vrijede 7-14 dana unazad. To je tako jer je potrebno jedan do dva tjedna da pacijent nakon zaraze dobije prve simptome i zatim razvije tako ozbiljan oblik bolesti da završi na respiratoru.
+Također vrlo važna metrika koja mnogo govori o brzini širenja epidemije, s razlikom što zaključci vrijede 7-14 dana unazad. To je tako jer je potrebno jedan do dva tjedna da pacijent nakon zaraze dobije prve simptome i zatim razvije tako ozbiljan oblik bolesti da završi na respiratoru.
 
 ### Graf
 
@@ -85,7 +87,7 @@ Datum | Ukupno na respiratoru | Novi na respiratoru | Tjedna promjena
 
 ### Zaključak
 
-Zaključak je da je broj osoba na respiratoru u dva navrata `naglo rastao`, a zadnjih tjedan dana `rast ima tendenciju prema stagnaciji`. To također znači da je epidemija `krenula prema stagnaciji širenja krajem listopada`, ako se uzme u obzir da pacijenti završe na respiratoru tek 7-14 dana nakon zaraze. Takav zaključak se poklapa i sa zaključkom o hospitalizacijama.
+Zaključak je da je broj osoba na respiratoru u dva navrata `naglo rastao`, a zadnjih desetak dana `rast se smanjuje i ima tendenciju prema stagnaciji`. To također znači da je epidemija `počela smanjivati brzinu širenja krajem listopada`, ako se uzme u obzir da pacijenti završe na respiratoru tek 7-14 dana nakon zaraze. Takav zaključak se poklapa i sa zaključkom o hospitalizacijama.
 
 ## Tjedna promjena broja novih preminulih osoba
 
@@ -116,7 +118,7 @@ Datum | Ukupno preminuli | Novi preminuli | Tjedna promjena
 
 ### Zaključak
 
-Zaključak je da je broj novih preminulih ubrzano rastao `kroz cijeli listopad i početak studenog` da bi zadnjih tjedan dana `počeo stagnirati`. To znači da je `epidemija smanjila ubrzavanje uz trend prema stagnaciji krajem listopada`, ako se uzme u obzir da smrti kasne i do tri tjedna za zarazama. Takav zaključak se poklapa s podacima o broju hospitaliziranih i broju osoba na respiratoru.
+Zaključak je da je broj novih preminulih ubrzano rastao `kroz cijeli listopad i početak studenog` da bi zadnjih tjedan dana `došao blizu stagnacije`. To znači da je `epidemija smanjila ubrzavanje uz trend prema stagnaciji krajem listopada`, ako se uzme u obzir da smrti kasne i do tri tjedna za zarazama. Takav zaključak se poklapa s podacima o broju hospitaliziranih i broju osoba na respiratoru.
 
 ## Tjedna promjena broja novih slučajeva - Hrvatska
 
@@ -147,7 +149,7 @@ Datum | Ukupno slučajeva | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-Zaključak je da je na razini države `epidemija u listopadu eksplodirala` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih početkom studenog. Ipak, taj rast je `početkom studenog praktički nestao i počela je stagnacija`. Bitno je reći da se u pojedinim danima ta stagnacija `pretvara u usporavanje`, što znači da broj novih zaraženih opada. Ukoliko se ovakav trend održi ili produbi, prema kraju studenog bi broj novih preminulih također trebao početi opadati.
+Zaključak je da je na razini države `epidemija u listopadu eksplodirala` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih početkom studenog. Ipak, taj veliki rast je `početkom studenog praktički nestao i uspostavio se trend blizak stagnaciji`. Ipak, bitno je reći da čak i uz ovako male stope ubrazavanja, epidemija i dalje raste te je, nažalost, prema kraju studenog za očekivati i manji porast broj preminulih.
 
 ## Tjedna promjena broja novih slučajeva - Zagreb
 
@@ -178,7 +180,7 @@ Datum | Ukupno slučajeva | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-Zaključak je da je u Zagrebu nakon `velikog rasta u listopadu`, epidemija počela `stagnirati početkom studenog` te uz pad broja zaraženih na tjednoj razini `nerijetko i usporavati`, tj. broj novih zaraženih opada.
+Zaključak je da je u Zagrebu nakon `velikog rasta u listopadu`, epidemija brzo došla u `fazu stagnacije početkom studenog`. Uz daljnji pad broja zaraženih na tjednoj razini `epidemija u protekla dva tjedna u Zagrebu usporava` te se sve manje ljudi zaražuje.
 
 ## Tjedna promjena broja aktivnih slučajeva
 
@@ -209,13 +211,11 @@ Datum | Ukupno aktivnih | Novi aktivni | Tjedna promjena
 
 ### Zaključak
 
-Zaključak je vrlo sličan onome o promjeni broja slučajeva. `U listopadu se vrlo velik broj ljudi zarazio` uz ubrzavanje širenja epidemije, ali ulaskom u studeni `epidemija je počela stagnirati` uz znatno manju promjenu broja aktivnih slučajeva.
+Zaključak je vrlo sličan onome o promjeni broja slučajeva. `U listopadu se vrlo velik broj ljudi zarazio` uz ubrzavanje širenja epidemije, ali ulaskom u studeni `epidemija je tek u blagom ubrzavanju ili stagnaciji` uz znatno manju promjenu broja aktivnih slučajeva.
 
 ## Županije - Tjedna promjena broja novih slučajeva
 
-Za jednostavniji pregled na razini županija odabrana je prosječna tjedna promjena broja novih slučajeva. Na temelju nje se vidi kako pojedine županije stoje u proteklih tjedan dana. Bijela boja je indikator da epidemija stagnira ili čak usporava, a što je tamnija crvena boja to epidemija više ubrzava (kako je prikazano na skali uz kartu). Za ovu metriku vrijede ista pravila kao i za sve prethodne, kao što je opisano u uvodu teksta.
-
-> Izračun se vrši tako da se za svaku županiju odredi postotna promjena broja novih slučajeva za svaki dan u odnosu na tjedan dana ranije, a zatim se izračuna prosjek za te vrijednosti u proteklih tjedan dana
+Za jednostavniji pregled na razini županija odabrana je tjedna promjena broja novih slučajeva. Na temelju nje se vidi kako pojedine županije stoje u proteklih tjedan dana u odnosu na tjedan ranije. Plava boja je indikator da epidemija usporava, bijela da stagnira, crvena da epidemija ubrzava (kako je prikazano na skali uz kartu). Za ovu metriku vrijede ista pravila kao i za sve prethodne, kao što je opisano u uvodu teksta.
 
 ### Karta
 
@@ -249,7 +249,7 @@ Virovitičko-podravska | 36%
 
 ### Zaključak
 
-S karte je jasno vidljivo da županije s velikim brojem slučajeva zadnjih tjedan dana stagniraju, a nova znatna širenja se događaju u županijama koje su do sada imale manji broj slučajeva. Epidemija značajno ubrzava u `velikom dijelu Slavonije, u Lici te primorju (osim juga i Istre)`. `Sjeverozapad države je uz dio Slavonije (Posavina) i Dalmacije (jug)` ušao u fazu stagnacije epidemije ili je na putu prema tome.
+S karte je jasno vidljivo da većina županija i dalje ima porast broja zaraženih na tjednoj razini. Iznimke su grad Zagreb, istok i jug zemlje gdje epidemija usporava. Treba naglasiti da s obzirom na vrlo mali i/ili promjenjiv broj testiranja, čak niti izračun na tjednoj razini za neke županije nije dovoljno reprezentabilan.
 
 ## Bonus - Udio pozitivnih testova
 
