@@ -12,9 +12,9 @@ Ugrubo, postoje tri opcije za brzinu širenja epidemije:
 
 Ovakva kretanja najbolje je pratiti izračunom **postotne promjene broja (npr. zaraženih) na tjednoj razini u odnosu na tjedan ranije**. 
 
-> **Primjer izračuna za 14. studeni:
+> Primjer izračuna za 14. studeni:
 >
-> ((Ukupan broj novih zaraženih u tjednu 8.-14. studenog) - (Ukupan broj novih zaraženih u tjednu 1.-7. studenog)) / (Ukupan broj novih zaraženih u tjednu 1.-7. studenog) × 100%**
+> ((Ukupan broj novih zaraženih u tjednu 8.-14. studenog) - (Ukupan broj novih zaraženih u tjednu 1.-7. studenog)) / (Ukupan broj novih zaraženih u tjednu 1.-7. studenog) × 100%
 
 Za prvu opciju takav izračun će dati 100%, za drugu 0% te za treću opciju -50%. Da bi epidemija završila, potreban je duži period njezinog usporavanja, tj. pada broja zaraženih. To dovodi i do sve manjeg broja preminulih. Ukoliko epidemija ubrzava, broj zaraženih raste, a kao posljedica toga i broj preminulih (s vremenskim odmakom) te se epidemija pogoršava. Ako epidemija stagnira, broj zaraženih je otprilike konstantan, a takav je i broj preminulih.
 
@@ -251,7 +251,7 @@ Virovitičko-podravska | 15%
 
 Na sljedećoj karti se dobro vidi koje su županije jače, a koje manje pogođene prema broju preminulih na 1000 ljudi. Svjetlija crvena boja je indikator manjeg, a tamnija indikator većeg broja preminulih na 1000 stanovnika.
 
-> Izračun
+> Način izračuna:
 >
 > (Ukupan broj preminulih)/(Broj stanovnika/1000)
 
