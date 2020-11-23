@@ -12,7 +12,7 @@ Ugrubo, postoje tri opcije za brzinu širenja epidemije:
 
 Ovakva kretanja najbolje je pratiti izračunom **postotne promjene broja (npr. zaraženih) na tjednoj razini u odnosu na tjedan ranije**. 
 
-> Primjer izračuna za 14. studeni:
+> **Primjer izračuna za 14. studeni:
 >
 > ((Ukupan broj novih zaraženih u tjednu 8.-14. studenog) - (Ukupan broj novih zaraženih u tjednu 1.-7. studenog)) / (Ukupan broj novih zaraženih u tjednu 1.-7. studenog) × 100%
 
