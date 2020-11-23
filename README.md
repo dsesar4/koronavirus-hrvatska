@@ -213,7 +213,7 @@ Datum | Ukupno aktivnih | Novi aktivni | Tjedna promjena
 
 `Kroz cijeli listopad epidemija je značajno ubrzavala svoje širenje`, ali ulaskom u studeni `epidemija je tek u blagom ubrzavanju ili stagnaciji` uz znatno manju promjenu broja aktivnih slučajeva.
 
-## Tjedna promjena broja novih slučajeva - županije
+## Županije - Tjedna promjena broja novih slučajeva
 
 Ova karta daje brz i jednostavan uvid u epidemiološko stanje županija u proteklih tjedan dana u odnosu na tjedan ranije. Plava boja je indikator da epidemija usporava, bijela da stagnira, a crvena da epidemija ubrzava (kako je prikazano na skali uz kartu). Za ovu metriku vrijede ista pravila kao i za sve prethodne, kao što je opisano u uvodu teksta.
 
@@ -247,7 +247,7 @@ Sisačko-moslavačka | 45%
 Varaždinska | 0%
 Virovitičko-podravska | 15%
 
-## Tjedna promjena broja novih slučajeva - županije
+## Županije - Broj preminulih osoba na 1000 stanovnika
 
 Na sljedećoj karti se dobro vidi koje su županije jače, a koje manje pogođene prema broju preminulih na 1000 ljudi. Svjetlija crvena boja je indikator manjeg, a tamnija indikator većeg broja preminulih na 1000 stanovnika.
 
