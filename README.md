@@ -249,11 +249,11 @@ Virovitičko-podravska | 15%
 
 ## Tjedna promjena broja novih slučajeva - županije
 
-Na sljedećoj karti se dobro vidi koje su županije jače, a koje manje pogođene prema broju preminulih na 1000 ljudi.
+Na sljedećoj karti se dobro vidi koje su županije jače, a koje manje pogođene prema broju preminulih na 1000 ljudi. Svjetlija crvena boja je indikator manjeg, a tamnija indikator većeg broja preminulih na 1000 stanovnika.
 
 ### Karta
 
-![image](/22_11_2020/2211_promjena_karta.png)
+![image](/22_11_2020/2211_preminuli_karta.png)
 
 ### Tablica
 
@@ -283,7 +283,7 @@ Virovitičko-podravska | 0.13
 
 ### Zaključak
 
-aa
+S karte je jasno vidljivo koje su županije do sada teže bile pogođene, tj. gdje je veći udio umrlih. Nije jasno zašto neki prolaze lošije od drugih, ali se može otprilike reći da je kod pogođenijih najvjerojatnije i veći udio zaraženih te su vjerojatno ispred ostalih po razvoju epidemije.
 
 ## Udio pozitivnih testova
 
