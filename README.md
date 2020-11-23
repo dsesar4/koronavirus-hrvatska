@@ -251,6 +251,10 @@ Virovitičko-podravska | 15%
 
 Na sljedećoj karti se dobro vidi koje su županije jače, a koje manje pogođene prema broju preminulih na 1000 ljudi. Svjetlija crvena boja je indikator manjeg, a tamnija indikator većeg broja preminulih na 1000 stanovnika.
 
+> Izračun
+>
+> (Ukupan broj preminulih)/(Broj stanovnika/1000)
+
 ### Karta
 
 ![image](/22_11_2020/2211_preminuli_karta.png)
@@ -288,6 +292,8 @@ S karte je jasno vidljivo koje su županije do sada teže bile pogođene, tj. gd
 ## Županije - Udio preminulih u ukupnom broju slučajeva (CFR)
 
 Na sljedećoj karti prikazan je postotni udio ukupnog broja preminulih u ukupnom broju slučajeva za svaku županiju. Ova metrika daje dobar uvid o "hvatanju" ukupnog broja zaraza po županijama. S obzirom da se smatra da taj broj treba biti oko 0.15%, sve iznad te brojke (pogotovo značajno) upućuje da je registrirani broj slučajeva znatno manji od stvarnog broja zaraženih.
+
+> Izračun se vrši tako da se ukupan broj preminulih podijeli s ukupnim brojem registriranih slučajeva
 
 ### Karta
 
