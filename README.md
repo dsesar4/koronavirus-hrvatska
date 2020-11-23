@@ -249,7 +249,7 @@ Virovitičko-podravska | 15%
 
 ### Zaključak
 
-S karte je jasno vidljivo da većina županija i dalje ima situaciju da epidemija `ubrzava svoje širenje` na tjednoj razini. Ipak, u nekoliko županija epidemija stagnira ili čak usporava. S obzirom na vrlo mali i/ili promjenjiv broj testiranja, treba naglasiti da čak ni izračun na tjednoj razini za neke županije nije dovoljno reprezentabilan.
+S karte je jasno vidljivo da većina županija i dalje ima situaciju da epidemija `ubrzava svoje širenje` na tjednoj razini. Ipak, u nekoliko županija epidemija `stagnira ili čak usporava`. S obzirom na vrlo mali i/ili promjenjiv broj testiranja, treba naglasiti da čak ni izračun na tjednoj razini za neke županije nije dovoljno reprezentabilan.
 
 ## Bonus - Udio pozitivnih testova
 
