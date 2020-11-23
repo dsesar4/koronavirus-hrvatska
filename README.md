@@ -1,6 +1,6 @@
-# Pregled dinamike epidemije
+# 22. studeni 2020. - Pregled epidemiološke situacije
 
-## Objašnjenje načina mjerenja
+## Način mjerenja
 
 U sljedećem tekstu nisu navedeni klasični podaci kakvi se viđaju svakog dana u vijestima te je zbog toga potrebno objasniti korištene metrike. S obzirom da se promatra dinamika epidemije, to znači da je bitna promjena brzine njezinog širenja. Ovakav način prikaza koristan je jer daje dublji uvid u epidemiju te se na temelju njega mogu uočiti trendovi i raditi prognoze.
 
@@ -213,7 +213,7 @@ Datum | Ukupno aktivnih | Novi aktivni | Tjedna promjena
 
 `Kroz cijeli listopad epidemija je značajno ubrzavala svoje širenje`, ali ulaskom u studeni `epidemija je tek u blagom ubrzavanju ili stagnaciji` uz znatno manju promjenu broja aktivnih slučajeva.
 
-## Županije - Tjedna promjena broja novih slučajeva
+## Tjedna promjena broja novih slučajeva - županije
 
 Ova karta daje brz i jednostavan uvid u epidemiološko stanje županija u proteklih tjedan dana u odnosu na tjedan ranije. Plava boja je indikator da epidemija usporava, bijela da stagnira, a crvena da epidemija ubrzava (kako je prikazano na skali uz kartu). Za ovu metriku vrijede ista pravila kao i za sve prethodne, kao što je opisano u uvodu teksta.
 
@@ -247,11 +247,45 @@ Sisačko-moslavačka | 45%
 Varaždinska | 0%
 Virovitičko-podravska | 15%
 
+## Tjedna promjena broja novih slučajeva - županije
+
+Na sljedećoj karti se dobro vidi koje su županije jače, a koje manje pogođene prema broju preminulih na 1000 ljudi.
+
+### Karta
+
+![image](/22_11_2020/2211_promjena_karta.png)
+
+### Tablica
+
+Županija | Broj preminulih na 1000 stanovnika
+:---  | :---:
+Istarska | 0.11
+Karlovačka | 0.48
+Zadarska | 0.12
+Primorsko-goranska | 0.19 
+Vukovarsko-srijemska | 0.23
+Šibensko-kninska | 0.21
+Osječko-baranjska | 0.63
+Splitsko-dalmatinska | 0.31
+Bjelovarsko-bilogorska | 0.28
+Brodsko-posavska | 0.15
+Dubrovačko-neretvanska | 0.24
+Zagrebačka | 0.03
+Grad Zagreb | 0.53
+Koprivničko-križevačka | 0.31 
+Krapinsko-zagorska | 0.44
+Ličko-senjska | 0.43
+Međimurska | 0.45
+Požeško-slavonska | 0.14
+Sisačko-moslavačka | 0.15
+Varaždinska | 0.35
+Virovitičko-podravska | 0.13
+
 ### Zaključak
 
-S karte je jasno vidljivo da većina županija i dalje ima situaciju da epidemija `ubrzava svoje širenje` na tjednoj razini. Ipak, u nekoliko županija epidemija `stagnira ili čak usporava`. S obzirom na vrlo mali i/ili promjenjiv broj testiranja, treba naglasiti da čak ni izračun na tjednoj razini za neke županije nije dovoljno reprezentabilan.
+aa
 
-## Bonus - Udio pozitivnih testova
+## Udio pozitivnih testova
 
 Metrika koja nam može govoriti o razmjeru epidemije, ali se mora uzeti u obzir broj testiranja. Ukoliko se testira malo, očekivano je da je ta brojka veća, pogotovo ako je epidemija jače raširena među populacijom. 
 
@@ -295,3 +329,7 @@ Udio pozitivnih testova konstantno raste te je zadnjih nekoliko dana dosegnuo ma
 [Our world in data - COVID-19](https://ourworldindata.org/coronavirus)
 
 [Worldometer - Coronavirus](https://www.worldometers.info/coronavirus)
+
+## Dodatne bilješke
+
+Podaci će se osvježavati jednom tjedno, najvjerojatnije nedjeljom u poslijepodnevnim satima
