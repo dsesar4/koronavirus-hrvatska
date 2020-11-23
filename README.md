@@ -180,7 +180,7 @@ Datum | Ukupno slučajeva | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-U Zagrebu je nakon `velikog ubrzavanja širenja epidemije u listopadu`, brzo došla `faza stagnacije, a zatim i usporavanja epidemije`. 
+U Zagrebu je nakon `velikog ubrzavanja širenja epidemije u listopadu`, brzo došla `faza stagnacije, a zatim i usporavanja brzine širenja epidemije`. 
 
 ## Tjedna promjena broja aktivnih slučajeva
 
