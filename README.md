@@ -13,7 +13,6 @@ Ugrubo, postoje tri opcije za brzinu širenja epidemije:
 Ovakva kretanja najbolje je pratiti izračunom **postotne promjene broja (npr. zaraženih) na tjednoj razini u odnosu na tjedan ranije**. 
 
 > Primjer izračuna za 14. studeni:
->
 > ((Ukupan broj novih zaraženih u tjednu 8.-14. studenog) - (Ukupan broj novih zaraženih u tjednu 1.-7. studenog)) / (Ukupan broj novih zaraženih u tjednu 1.-7. studenog) × 100%
 
 Za prvu opciju takav izračun će dati 100%, za drugu 0% te za treću opciju -50%. Da bi epidemija završila, potreban je duži period njezinog usporavanja, tj. pada broja zaraženih. To dovodi i do sve manjeg broja preminulih. Ukoliko epidemija ubrzava, broj zaraženih raste, a kao posljedica toga i broj preminulih (s vremenskim odmakom) te se epidemija pogoršava. Ako epidemija stagnira, broj zaraženih je otprilike konstantan, a takav je i broj preminulih.
@@ -91,7 +90,7 @@ Broj osoba na respiratoru `u dva je vala ubrzano rastao`, a zadnjih desetak dana
 
 ## Tjedna promjena broja novih preminulih osoba
 
-Važna metrika koja nam mnogo govori o razmjerima epidemije, također točnije od broja slučajeva. Naglasak je da je sadašnje stanje posljedica zaraza od prije otprilike tri tjedna - vrijeme potrebno da se razviju simptomi, osoba završi na intenzivnoj njezi i na kraju premine.
+Važna metrika koja mnogo govori o razmjerima epidemije, također točnije od broja slučajeva. Naglasak je da je sadašnje stanje posljedica zaraza od prije otprilike tri tjedna - vrijeme potrebno da se razviju simptomi, osoba završi na intenzivnoj njezi i na kraju premine.
 
 ### Graf
 
@@ -122,7 +121,7 @@ Broj novih preminulih `ubrzano je rastao kroz cijeli listopad i početak studeno
 
 ## Tjedna promjena broja novih slučajeva - Hrvatska
 
-Metrika koja nam govori o razmjerima epidemije. Problem je, naravno, što se nikako ne može "uloviti" sve zaražene te se računa da ih je u stvarnosti možda i 10 puta više. Dodatno, ako se značajno promijeni broj testiranih, porast će i broj zaraženih jer on uglavnom proporcionalno ovisi o broju testiranih. Ipak, u Hrvatskoj se ne testira velik broj nasumično odabranih ljudi pa se može reći da je ova metrika kroz vrijeme jednako reprezentativna, osobito u jesenskom valu epidemije.
+Metrika koja govori o razmjerima epidemije. Problem je, naravno, što se nikako ne može "uloviti" sve zaražene te se računa da ih je u stvarnosti možda i 10 puta više. Dodatno, ako se značajno promijeni broj testiranih, porast će i broj zaraženih jer on uglavnom proporcionalno ovisi o broju testiranih. Ipak, u Hrvatskoj se ne testira velik broj nasumično odabranih ljudi pa se može reći da je ova metrika kroz vrijeme jednako reprezentativna, osobito u jesenskom valu epidemije.
 
 ### Graf
 
@@ -305,12 +304,15 @@ Sisačko-moslavačka | 45%
 Varaždinska | 0%
 Virovitičko-podravska | 15%
 
+### Zaključak
+
+S karte je jasno vidljivo da epidemija u većini županija ubrzava svoje širenje. Na dan izračuna najlošije stoje Zadarska i Ličko-senjska županija. Na tjednoj razini epidemija usporava u Posavini i na krajnjem jugu zemlje.
+
 ## Županije - Broj preminulih osoba na 1000 stanovnika
 
 Na sljedećoj karti se dobro vidi koje su županije jače, a koje manje pogođene prema broju preminulih na 1000 ljudi. Svjetlija crvena boja je indikator manjeg, a tamnija indikator većeg broja preminulih na 1000 stanovnika.
 
 > Način izračuna:
->
 > (Ukupan broj preminulih)/(Broj stanovnika/1000)
 
 ### Karta
