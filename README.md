@@ -285,6 +285,44 @@ Virovitičko-podravska | 0.13
 
 S karte je jasno vidljivo koje su županije do sada teže bile pogođene, tj. gdje je veći udio umrlih. Nije jasno zašto neki prolaze lošije od drugih, ali se može otprilike reći da je kod pogođenijih najvjerojatnije i veći udio zaraženih te da su ispred ostalih po razvoju epidemije.
 
+## Županije - Udio preminulih u ukupnom broju slučajeva (CFR)
+
+Na sljedećoj karti prikazan je postotni udio ukupnog broja preminulih u ukupnom broju slučajeva za svaku županiju. Ova metrika daje dobar uvid o "hvatanju" ukupnog broja zaraza po županijama. S obzirom da se smatra da taj broj treba biti oko 0.15%, sve iznad te brojke (pogotovo značajno) upućuje da je registrirani broj slučajeva znatno manji od stvarnog broja zaraženih.
+
+### Karta
+
+![image](/22_11_2020/2211_CFR_karta.png)
+
+### Tablica
+
+Županija | Broj preminulih na 1000 stanovnika
+:---  | :---:
+Istarska | 0.83%
+Karlovačka | 2.62%
+Zadarska | 0.79%
+Primorsko-goranska | 0.98% 
+Vukovarsko-srijemska | 1.07%
+Šibensko-kninska | 1.20%
+Osječko-baranjska | 2.73%
+Splitsko-dalmatinska | 1.03%
+Bjelovarsko-bilogorska | 1.86%
+Brodsko-posavska | 0.70%
+Dubrovačko-neretvanska | 1.04%
+Zagrebačka | 0.13%
+Grad Zagreb | 1.70%
+Koprivničko-križevačka | 1.76% 
+Krapinsko-zagorska | 1.37%
+Ličko-senjska | 2.02%
+Međimurska | 1.19%
+Požeško-slavonska | 0.89%
+Sisačko-moslavačka | 0.91%
+Varaždinska | 3.96%
+Virovitičko-podravska | 0.75%
+
+### Zaključak
+
+S karte je vidljivo da većina županija ima prilično visok CFR. Primjerice, u Varaždinskoj županiji je to skoro 4% te se bez pretjerivanja može reći da je broj zaraženih u stvari barem 10 puta više nego što je registrirani broj slučajeva. Jedina županija koja ima realan broj je Zagrebačka, možda radi većeg broja testiranja, ali moguće i zato što bolesni idu u Zagreb te se tamo registriraju kao preminuli ukoliko dođe do takve situacije.
+
 ## Udio pozitivnih testova
 
 Metrika koja nam može govoriti o razmjeru epidemije, ali se mora uzeti u obzir broj testiranja. Ukoliko se testira malo, očekivano je da je ta brojka veća, pogotovo ako je epidemija jače raširena među populacijom. 
