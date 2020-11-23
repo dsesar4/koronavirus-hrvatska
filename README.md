@@ -283,7 +283,7 @@ Virovitičko-podravska | 0.13
 
 ### Zaključak
 
-S karte je jasno vidljivo koje su županije do sada teže bile pogođene, tj. gdje je veći udio umrlih. Nije jasno zašto neki prolaze lošije od drugih, ali se može otprilike reći da je kod pogođenijih najvjerojatnije i veći udio zaraženih te su vjerojatno ispred ostalih po razvoju epidemije.
+S karte je jasno vidljivo koje su županije do sada teže bile pogođene, tj. gdje je veći udio umrlih. Nije jasno zašto neki prolaze lošije od drugih, ali se može otprilike reći da je kod pogođenijih najvjerojatnije i veći udio zaraženih te da su ispred ostalih po razvoju epidemije.
 
 ## Udio pozitivnih testova
 
