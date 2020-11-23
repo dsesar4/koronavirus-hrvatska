@@ -374,6 +374,6 @@ Udio pozitivnih testova konstantno raste te je zadnjih nekoliko dana dosegnuo ma
 
 [Worldometer - Coronavirus](https://www.worldometers.info/coronavirus)
 
-## Dodatne bilješke
+"-----"
 
 Podaci će se osvježavati jednom tjedno, najvjerojatnije nedjeljom u poslijepodnevnim satima
