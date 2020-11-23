@@ -295,7 +295,7 @@ Na sljedećoj karti prikazan je postotni udio ukupnog broja preminulih u ukupnom
 
 ### Tablica
 
-Županija | Broj preminulih na 1000 stanovnika
+Županija | CFR
 :---  | :---:
 Istarska | 0.83%
 Karlovačka | 2.62%
@@ -321,7 +321,7 @@ Virovitičko-podravska | 0.75%
 
 ### Zaključak
 
-S karte je vidljivo da većina županija ima prilično visok CFR. Primjerice, u Varaždinskoj županiji je to skoro 4% te se bez pretjerivanja može reći da je broj zaraženih u stvari barem 10 puta više nego što je registrirani broj slučajeva. Jedina županija koja ima realan broj je Zagrebačka, možda radi većeg broja testiranja, ali moguće i zato što bolesni idu u Zagreb te se tamo registriraju kao preminuli ukoliko dođe do takve situacije.
+S karte je vidljivo da većina županija ima prilično visok CFR. Primjerice, u Varaždinskoj županiji je to skoro 4% te se bez pretjerivanja može reći da je broj zaraženih u stvari barem 10 puta veći nego što je registrirani broj slučajeva. Jedina županija koja ima realan broj je Zagrebačka, možda radi većeg opsega testiranja, ali moguće i zato što bolesni idu u Zagreb te se tamo registriraju kao preminuli ukoliko dođe do takve situacije.
 
 ## Udio pozitivnih testova
 
