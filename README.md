@@ -2,7 +2,7 @@
 
 ## Način mjerenja
 
-U sljedećem tekstu nisu navedeni klasični podaci kakvi se viđaju svakog dana u vijestima te je zbog toga potrebno objasniti korištene metrike. S obzirom da se promatra dinamika epidemije, to znači da je bitna promjena brzine njezinog širenja. Ovakav način prikaza koristan je jer daje dublji uvid u epidemiju te se na temelju njega mogu uočiti trendovi i raditi prognoze.
+U sljedećem tekstu nisu navedeni klasični podaci kakvi se viđaju svakog dana u vijestima te je zbog toga potrebno objasniti korištene metrike. S obzirom da se promatra na velikom broju grafova promatra dinamika epidemije, to znači da je bitna promjena brzine njezinog širenja. Ovakav način prikaza koristan je jer daje dublji uvid u epidemiju te se na temelju njega mogu uočiti trendovi i raditi prognoze.
 
 Ugrubo, postoje tri opcije za brzinu širenja epidemije:
 
@@ -37,22 +37,22 @@ Vrlo važna metrika koja mnogo govori o brzini širenja epidemije, znatno točni
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno hospitalizirani | Novi hospitalizirani | Tjedna promjena
-:---  | :---: | :---: | :---: 
-9.studeni | 1451 | 55 | 29%
-10.studeni | 1513 | 62 | 28%
-11.studeni | 1545 | 32 | 28%
-12.studeni | 1598 | 53 | 27%
-13.studeni | 1620 | 22 | 26%
-14.studeni | 1655 | 35 | 26%
-15.studeni | 1710 | 55 | 25%
-16.studeni | 1816 | 106 | 25%
-17.studeni | 1827 | 11 | 24%
-18.studeni | 1878 | 51 | 23%
-19.studeni | 1944 | 66 | 23%
-20.studeni | 1992 | 48 | 23%
-21.studeni | 1981 | -11 | 22%
-22.studeni | 2013 | 32 | 21%
+Datum | Ukupno hospitalizirani | Tjedna promjena
+:---  | :---: | :---: 
+9.studeni | 1451 | 29%
+10.studeni | 1513 | 28%
+11.studeni | 1545 | 28%
+12.studeni | 1598 | 27%
+13.studeni | 1620 | 26%
+14.studeni | 1655 | 26%
+15.studeni | 1710 | 25%
+16.studeni | 1816 | 25%
+17.studeni | 1827 | 24%
+18.studeni | 1878 | 23%
+19.studeni | 1944 | 23%
+20.studeni | 1992 | 23%
+21.studeni | 1981 | 22%
+22.studeni | 2013 | 21%
 
 ### Zaključak
 
@@ -68,22 +68,22 @@ Također vrlo važna metrika koja mnogo govori o brzini širenja epidemije, s ra
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno na respiratoru | Novi na respiratoru | Tjedna promjena
-:---  | :---: | :---: | :---: 
-9.studeni | 142 | -3 | 71%
-10.studeni | 167 | 25 | 64%
-11.studeni | 178 | 11 | 61%
-12.studeni | 178 | 0 | 57%
-13.studeni | 179 | 1 | 50%
-14.studeni | 184 | 5 | 48%
-15.studeni | 194 | 10 | 43%
-16.studeni | 191 | -3 | 41%
-17.studeni | 196 | 5 | 36%
-18.studeni | 205 | 9 | 30%
-19.studeni | 204 | -1 | 26%
-20.studeni | 217 | 13 | 25%
-21.studeni | 213 | -3 | 21%
-22.studeni | 223 | 10 | 19%
+Datum | Ukupno na respiratoru | Tjedna promjena
+:---  | :---: | :---:
+9.studeni | 142 | 71%
+10.studeni | 167 | 64%
+11.studeni | 178 | 61%
+12.studeni | 178 | 57%
+13.studeni | 179 | 50%
+14.studeni | 184 | 48%
+15.studeni | 194 | 43%
+16.studeni | 191 | 41%
+17.studeni | 196 | 36%
+18.studeni | 205 | 30%
+19.studeni | 204 | 26%
+20.studeni | 217 | 25%
+21.studeni | 213 | 21%
+22.studeni | 223 | 19%
 
 ### Zaključak
 
@@ -99,22 +99,22 @@ Važna metrika koja nam mnogo govori o razmjerima epidemije, također točnije o
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno preminuli | Novi preminuli | Tjedna promjena
-:---  | :---: | :---: | :---: 
-9.studeni | 832 | 38 | 68%
-10.studeni | 865 | 33 | 50%
-11.studeni | 893 | 28 | 48%
-12.studeni | 925 | 32 | 41%
-13.studeni | 968 | 43 | 35%
-14.studeni | 1006 | 38 | 23%
-15.studeni | 1049 | 43 | 10%
-16.studeni | 1082 | 33 | 5%
-17.studeni | 1113 | 31 | 5%
-18.studeni | 1151 | 38 | 8%
-19.studeni | 1200 | 49 | 14%
-20.studeni | 1257 | 57 | 15%
-21.studeni | 1304 | 47 | 17%
-22.studeni | 1353 | 49 | 19%
+Datum | Novi preminuli | Tjedna promjena
+:---  | :---: | :---: 
+9.studeni | 38 | 68%
+10.studeni | 33 | 50%
+11.studeni | 28 | 48%
+12.studeni | 32 | 41%
+13.studeni | 43 | 35%
+14.studeni | 38 | 23%
+15.studeni | 43 | 10%
+16.studeni | 33 | 5%
+17.studeni | 31 | 5%
+18.studeni | 38 | 8%
+19.studeni | 49 | 14%
+20.studeni | 57 | 15%
+21.studeni | 47 | 17%
+22.studeni | 49 | 19%
 
 ### Zaključak
 
@@ -130,22 +130,22 @@ Metrika koja nam govori o razmjerima epidemije. Problem je, naravno, što se nik
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno slučajeva | Novi slučajevi | Tjedna promjena
-:---  | :---: | :---: | :---: 
-9.studeni | 68776 | 1529 | 4%
-10.studeni | 70243 | 1467 | 4%
-11.studeni | 72840 | 2597 | 5%
-12.studeni | 75922 | 3082 | 6%
-13.studeni | 78978 | 3056 | 6%
-14.studeni | 81844 | 2866 | 11%
-15.studeni | 84206 | 2365 | 8%
-16.studeni | 85519 | 1313 | 4%
-17.studeni | 87464 | 1945 | 7%
-18.studeni | 90715 | 3251 | 10%
-19.studeni | 93879 | 3164 | 9%
-20.studeni | 96837 | 2958 | 7%
-21.studeni | 100410 | 3573 | 8%
-22.studeni | 103718 | 3308 | 15%
+Datum | Novi slučajevi | Tjedna promjena
+:---  | :---: | :---:
+9.studeni | 1529 | 4%
+10.studeni | 1467 | 4%
+11.studeni | 2597 | 5%
+12.studeni | 3082 | 6%
+13.studeni | 3056 | 6%
+14.studeni | 2866 | 11%
+15.studeni | 2365 | 8%
+16.studeni | 1313 | 4%
+17.studeni | 1945 | 7%
+18.studeni | 3251 | 10%
+19.studeni | 3164 | 9%
+20.studeni | 2958 | 7%
+21.studeni | 3573 | 8%
+22.studeni | 3308 | 15%
 
 ### Zaključak
 
@@ -161,22 +161,22 @@ Za Zagreb se može smatrati da je (uz još nekoliko županija) nešto ispred ost
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno slučajeva | Novi slučajevi | Tjedna promjena
-:---  | :---: | :---: | :---: 
-9.studeni | 17500 | 316 | -14%
-10.studeni | 17868 | 368 | -12%
-11.studeni | 18489 | 621 | -13%
-12.studeni | 19194 | 705 | -10%
-13.studeni | 19847 | 653 | -9%
-14.studeni | 20401 | 554 | -5%
-15.studeni | 20764 | 363 | -1%
-16.studeni | 21055 | 291 | -2%
-17.studeni | 21476 | 421 | -3%
-18.studeni | 22080 | 604 | -2%
-19.studeni | 22689 | 609 | -6%
-20.studeni | 23313 | 624 | -6%
-21.studeni | 24135 | 822 | 2%
-22.studeni | 24695 | 560 | 10%
+Datum | Novi slučajevi | Tjedna promjena
+:---  | :---: | :---:
+9.studeni | 316 | -14%
+10.studeni | 368 | -12%
+11.studeni | 621 | -13%
+12.studeni | 705 | -10%
+13.studeni | 653 | -9%
+14.studeni | 554 | -5%
+15.studeni | 363 | -1%
+16.studeni | 291 | -2%
+17.studeni | 421 | -3%
+18.studeni | 604 | -2%
+19.studeni | 609 | -6%
+20.studeni | 624 | -6%
+21.studeni | 822 | 2%
+22.studeni | 560 | 10%
 
 ### Zaključak
 
@@ -192,26 +192,84 @@ Metrika koja govori o brzini širenja epidemije, vrlo slično kao promjena broja
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno aktivnih | Novi aktivni | Tjedna promjena
-:---  | :---: | :---: | :---: 
-9.studeni | 14942 | -736 | 6%
-10.studeni | 14524 | -418 | 4%
-11.studeni | 15513 | 989 | 2%
-12.studeni | 16348 | 835 | 2%
-13.studeni | 16746 | 398 | 3%
-14.studeni | 17090 | 344 | 5%
-15.studeni | 16926 | -164 | 6%
-16.studeni | 15699 | -1227 | 6%
-17.studeni | 15371 | -328 | 7%
-18.studeni | 16891 | 1520 | 7%
-19.studeni | 17814 | 923 | 8%
-20.studeni | 18193 | 379 | 8%
-21.studeni | 19079 | 886 | 8%
-22.studeni | 19985 | 906 | 10%
+Datum | Ukupno aktivnih | Tjedna promjena
+:---  | :---: | :---:
+9.studeni | 14942 | 6%
+10.studeni | 14524 | 4%
+11.studeni | 15513 | 2%
+12.studeni | 16348 | 2%
+13.studeni | 16746 | 3%
+14.studeni | 17090 | 5%
+15.studeni | 16926 | 6%
+16.studeni | 15699 | 6%
+17.studeni | 15371 | 7%
+18.studeni | 16891 | 7%
+19.studeni | 17814 | 8%
+20.studeni | 18193 | 8%
+21.studeni | 19079 | 8%
+22.studeni | 19985 | 10%
 
 ### Zaključak
 
 `Kroz cijeli listopad epidemija je značajno ubrzavala svoje širenje`, ali ulaskom u studeni `epidemija je tek u blagom ubrzavanju ili stagnaciji` uz znatno manju promjenu broja aktivnih slučajeva.
+
+## Tjedna promjena broja novih slučajeva prema dobi
+
+Metrika koja govori o brzini širenja epidemije među različitim uzrastima. Situacija koja bi dovela do usporavanja epidemije je da su sve (ili većina) vrijednosti negativne, a ukoliko to nije moguće, bilo bi dobro da je veći porast koncentriran na lijevu stranu grafa jer su mladi daleko manje ugroženi od starijih osoba (osobito 70+ godina).
+
+### Graf
+
+![image](/22_11_2020/2211_promjena_dob.png)
+
+### Tablica
+
+Raspon godina | Tjedna promjena
+:---  | :---:
+0-9 | 
+10-19 | 
+20-29 |
+30-39 | 
+40-49 | 
+50-59 | 
+60-69 | 
+70-79 | 
+80-89 | 
+90+ | 
+
+### Zaključak
+
+In progress
+
+## Tjedna promjena broja novih slučajeva kod osoba starijih od 70 godina
+
+Metrika koja govori o brzini širenja epidemije među osobama starijim od 70 godina, tj. u rizičnoj skupini. S obzirom da je najveći udio preminulih iz ove skupine, prema navedenom grafu može se prognozirati porast/pad broja preminulih u sljedećim danima i tjednima. Vrijednosti na ovome grafu moraju biti što manje kako bi i dnevni broj preminulih počeo padati.
+
+### Graf
+
+![image](/22_11_2020/2211_promjena_70.png)
+
+### Tablica protekla dva tjedna
+
+Datum | Novi slučajevi | Tjedna promjena
+:---  | :---: | :---: 
+9.studeni | 158 | 34%
+10.studeni | 262 | 22%
+11.studeni | 319 | 10%
+12.studeni | 281 | 14%
+13.studeni | 353 | 19%
+14.studeni | 272 | 9%
+15.studeni | 119 | 0%
+16.studeni | 242 | 4%
+17.studeni | 302 | 8%
+18.studeni | 330 | 9%
+19.studeni | 316 | 9%
+20.studeni | 350 | 3%
+21.studeni | 305 | 7%
+22.studeni |
+
+### Zaključak
+
+In progress
 
 ## Županije - Tjedna promjena broja novih slučajeva
 
@@ -341,22 +399,22 @@ Metrika koja nam može govoriti o razmjeru epidemije, ali se mora uzeti u obzir 
 
 ### Tablica protekla dva tjedna
 
-Datum | Ukupno testova | Novi testovi | Udio pozitivnih
-:---  | :---: | :---: | :---: 
-9.studeni | 564686 | 5670 | 27%
-10.studeni | 572489 | 7803 | 19%
-11.studeni | 582170 | 9681 | 27%
-12.studeni | 592326 | 10156 | 30%
-13.studeni | 601743 | 9417 | 32%
-14.studeni | 611357 | 9614 | 30%
-15.studeni | 619532 | 8175 | 29%
-16.studeni | 624393 | 4861 | 27%
-17.studeni | 631655 | 7262 | 27%
-18.studeni | 640781 | 9126 | 36%
-19.studeni | 649551 | 8770 | 36%
-20.studeni | 657872 | 8321 | 36%
-21.studeni | 667749 | 9877 | 36%
-22.studeni | 676985 | 9216 | 36%
+Datum | Broj testiranih | Udio pozitivnih
+:---  | :---: | :---:
+9.studeni | 5670 | 27%
+10.studeni | 7803 | 19%
+11.studeni | 9681 | 27%
+12.studeni | 10156 | 30%
+13.studeni | 9417 | 32%
+14.studeni | 9614 | 30%
+15.studeni | 8175 | 29%
+16.studeni | 4861 | 27%
+17.studeni | 7262 | 27%
+18.studeni | 9126 | 36%
+19.studeni | 8770 | 36%
+20.studeni | 8321 | 36%
+21.studeni | 9877 | 36%
+22.studeni | 9216 | 36%
 
 ### Zaključak
 
