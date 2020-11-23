@@ -1,4 +1,4 @@
-# Pregled dinamike epidemije u posljednjih mjesec dana
+# Tjedni pregled dinamike epidemije
 
 ## Objašnjenje načina mjerenja
 
