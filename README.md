@@ -117,7 +117,7 @@ Datum | Novi preminuli | Tjedna promjena
 
 ### Zaključak
 
-Broj novih preminulih osoba `ubrzano je rastao kroz cijeli listopad i početak studenog` da bi zatim na neko vrijeme `došao blizu stagnacije`. Nažalost, u zadnjih nekoliko dana ponovno je prisutno `ubrzavanje rasta` broja preminulih osoba.
+Broj novih preminulih osoba `ubrzano je rastao kroz cijeli listopad i početak studenog` da bi zatim na neko vrijeme `došao blizu stagnacije`. Nažalost, u zadnjih nekoliko dana ponovno je prisutno `ubrzavanje rasta` broja preminulih osoba na tjednoj razini.
 
 ## Tjedna promjena broja novih slučajeva - Hrvatska
 
