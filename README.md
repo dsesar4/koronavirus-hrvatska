@@ -148,7 +148,7 @@ Datum | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-Na razini države epidemija je `značajno ubrzavala širenje kroz cijeli listopad` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih početkom studenog. Taj veliki rast je `početkom studenog praktički nestao` i uspostavio se `trend blizak stagnaciji`. S druge strane, bitno je reći da čak i uz ovako male stope ubrazavanja, brzina širenja epidemije i dalje raste te je, nažalost, prema kraju studenog za očekivati dodatan manji porast broja preminulih.
+Na razini države epidemija je `značajno ubrzavala širenje kroz cijeli listopad` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih početkom studenog. Taj veliki rast je `početkom studenog praktički nestao` i uspostavio se `trend blizak stagnaciji`. S druge strane, čak i uz ovako male stope ubrazavanja, brzina širenja epidemije i dalje raste te je, nažalost, prema kraju studenog za očekivati dodatan manji porast broja preminulih.
 
 ## Tjedna promjena broja novih slučajeva - Zagreb
 
