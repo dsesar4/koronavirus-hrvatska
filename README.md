@@ -433,7 +433,7 @@ Prikaz broja slučajeva prema spolu u različitim dobnim skupinama.
 ### Tablica
 
 Raspon godina | Muškarci | Žene
-:---  | :---:
+:---  | :---: | :---:
 0-4 | 477 | 412
 5-9 | 690 | 617
 10-14 | 1639 | 1589
