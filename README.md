@@ -399,7 +399,7 @@ Na sljedećem grafu prikazan je ukupan broj preminulih osoba prema dobi u jesens
 
 ### Zaključak
 
-Kao što je očekivano, najveći broj preminulih su osobe starije od 60 godina, a najveća koncentracija je između 75 i 85 godina. Prosjek godina preminulih osoba u jesenskom valu epidemije je 73.
+Kao što je očekivano, najveći broj preminulih su osobe starije od 60 godina, a najveća koncentracija je između 75 i 85 godina. Prosjek godina preminulih osoba u jesenskom valu epidemije je 77.
 
 ## Udio pozitivnih testova
 
