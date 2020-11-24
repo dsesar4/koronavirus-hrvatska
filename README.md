@@ -391,7 +391,7 @@ S karte je vidljivo da većina županija ima `prilično visok CFR`. Primjerice, 
 
 ## Preminule osobe u jesenskom valu epidemije
 
-Na sljedećem grafu prikazane su sve preminule osobe od 1. rujna prema dobi.
+Na sljedećem grafu prikazan je ukupan broj preminulih osoba prema dobi u jesenskom valu epidemije, počevši od 1. rujna.
 
 ### Graf
 
@@ -399,7 +399,7 @@ Na sljedećem grafu prikazane su sve preminule osobe od 1. rujna prema dobi.
 
 ### Zaključak
 
-Kao što je očekivano, najveći broj preminulih su osobe starije od 60 godina. Prosjek godina preminulih osoba u jesenskom valu epidemije je 73.
+Kao što je očekivano, najveći broj preminulih su osobe starije od 60 godina, a najveća koncentracija je između 75 i 85 godina. Prosjek godina preminulih osoba u jesenskom valu epidemije je 73.
 
 ## Udio pozitivnih testova
 
