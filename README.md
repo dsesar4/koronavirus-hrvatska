@@ -224,20 +224,20 @@ Metrika koja govori o brzini širenja epidemije među različitim uzrastima. Sit
 
 Raspon godina | Tjedna promjena
 :---  | :---:
-0-9 | 
-10-19 | 
-20-29 |
-30-39 | 
-40-49 | 
-50-59 | 
-60-69 | 
-70-79 | 
-80-89 | 
-90+ | 
+0-9 | 35%
+10-19 | 25%
+20-29 | 19%
+30-39 | 19%
+40-49 | 25%
+50-59 | 22%
+60-69 | 20%
+70-79 | 12%
+80-89 | 24%
+90+ | 29%
 
 ### Zaključak
 
-In progress
+S grafa je vidljivo da epidemija `ubrzava svoje širenje po svim dobnim skupinama`. Manji broj testiranih i/ili manji broj ljudi u skupini može biti objašnjenje zašto su `prva i zadnja skupina najpogođenije`.
 
 ## Tjedna promjena broja novih slučajeva kod osoba starijih od 70 godina
 
@@ -263,12 +263,12 @@ Datum | Novi slučajevi | Tjedna promjena
 18.studeni | 330 | 9%
 19.studeni | 316 | 9%
 20.studeni | 350 | 3%
-21.studeni | 305 | 7%
-22.studeni |
+21.studeni | 361 | 10%
+22.studeni | 158 | 17%
 
 ### Zaključak
 
-In progress
+Epidemija je među najugroženijima `znatno ubrzavala širenje krajem listopada`. Do sredine studenog nastupila je `faza stagnacije uz manje uscilacije` prema ponovnom ubrzavanju.
 
 ## Županije - Tjedna promjena broja novih slučajeva
 
