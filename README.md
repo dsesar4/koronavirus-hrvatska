@@ -239,32 +239,32 @@ Raspon godina | Tjedna promjena
 
 S grafa je vidljivo da epidemija `ubrzava širenje po svim dobnim skupinama`. Manji broj testiranih i/ili manji broj ljudi u skupini može biti objašnjenje zašto su `prva i zadnja skupina najpogođenije`.
 
-## Tjedna promjena broja novih slučajeva kod osoba starijih od 70 godina
+## Tjedna promjena broja novih slučajeva kod osoba starijih od 60 godina
 
-Metrika koja govori o brzini širenja epidemije među osobama starijim od 70 godina, tj. u rizičnoj skupini. S obzirom da je najveći udio preminulih iz ove skupine, prema navedenom grafu može se prognozirati porast/pad broja preminulih u sljedećim danima i tjednima. Vrijednosti na ovome grafu moraju biti što manje kako bi i dnevni broj preminulih počeo padati.
+Metrika koja govori o brzini širenja epidemije među osobama starijim od 60 godina, tj. u rizičnoj skupini. S obzirom da je najveći udio preminulih iz ove skupine, prema navedenom grafu može se prognozirati porast/pad broja preminulih u sljedećim danima i tjednima. Vrijednosti na ovome grafu moraju biti što manje kako bi i dnevni broj preminulih počeo padati.
 
 ### Graf
 
-![image](/22_11_2020/2211_promjena_70.png)
+![image](/22_11_2020/2211_promjena_60.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Novi slučajevi | Tjedna promjena
 :---  | :---: | :---: 
-9.studeni | 158 | 34%
-10.studeni | 262 | 22%
+9.studeni | 158 | 25%
+10.studeni | 262 | 19%
 11.studeni | 319 | 10%
-12.studeni | 281 | 14%
-13.studeni | 353 | 19%
-14.studeni | 272 | 9%
+12.studeni | 281 | 11%
+13.studeni | 353 | 16%
+14.studeni | 272 | 7%
 15.studeni | 119 | 0%
-16.studeni | 242 | 4%
+16.studeni | 242 | 5%
 17.studeni | 302 | 8%
-18.studeni | 330 | 9%
-19.studeni | 316 | 9%
-20.studeni | 350 | 3%
-21.studeni | 361 | 10%
-22.studeni | 158 | 17%
+18.studeni | 330 | 10%
+19.studeni | 316 | 8%
+20.studeni | 350 | 5%
+21.studeni | 361 | 13%
+22.studeni | 158 | 19%
 
 ### Zaključak
 
