@@ -17,7 +17,7 @@ Ovakva kretanja najbolje je pratiti izračunom **postotne promjene broja (npr. z
 
 Za prvu opciju takav izračun će dati 100%, za drugu 0% te za treću opciju -50%. Da bi epidemija završila, potreban je duži period njezinog usporavanja, tj. pada broja zaraženih. To dovodi i do sve manjeg broja preminulih. Ukoliko epidemija ubrzava, broj zaraženih raste, a kao posljedica toga i broj preminulih (s vremenskim odmakom) te se epidemija pogoršava. Ako epidemija stagnira, broj zaraženih je otprilike konstantan, a takav je i broj preminulih.
 
-Zašto izračun na tjednoj razini? Zato što je tjedan dana dovoljno velik uzorak da se počnu uočavati trendovi. Izračunom za sedam dana odjednom uglavnom se poništavaju dnevne oscilacije nastale radi smanjenog/povećanog obujma testiranja, neradnih dana, praznika i sl. Ipak, ovakvim izračunom se trendovi uočavaju nešto sporije, npr. potrebno je nekoliko dana dobrih rezultata da bi se uočio pozitivan trend na grafu. S druge strane, kad se određeni trend uoči, onda je i njegova težina veća.
+Zašto izračun na tjednoj razini? Zato što je tjedan dana dovoljno velik uzorak da se počnu uočavati trendovi. Izračunom za sedam dana uglavnom se poništavaju dnevne oscilacije nastale radi smanjenog/povećanog obujma testiranja, neradnih dana, praznika i sl. Ipak, ovakvim izračunom se trendovi uočavaju nešto sporije, npr. potrebno je nekoliko dana dobrih rezultata da bi se uočio pozitivan trend na grafu. S druge strane, kad se određeni trend uoči, onda je i njegova težina veća.
 
 Podatke se može podijeliti u dvije grupe:
 
@@ -55,7 +55,7 @@ Datum | Ukupno hospitalizirani | Tjedna promjena
 
 ### Zaključak
 
-Broj hospitaliziranih je `značajno ubrzavao rast kroz cijeli listopad` da bi se početkom studenog `ubrzavanje krenulo smanjivati uz daljnji trend prema stagnaciji`.
+Broj hospitaliziranih je `ubrazano rastao kroz cijeli listopad` da bi se početkom studenog `ubrzavanje krenulo smanjivati uz daljnji trend prema stagnaciji`.
 
 ## Tjedna promjena broja osoba na respiratoru
 
@@ -148,7 +148,7 @@ Datum | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-Na razini države epidemija je `značajno ubrzavala svoje širenje kroz cijeli listopad` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih početkom studenog. Taj veliki rast je `početkom studenog praktički nestao i uspostavio se trend blizak stagnaciji`. S druge strane, bitno je reći da čak i uz ovako male stope ubrazavanja, brzina širenja epidemije i dalje raste te je, nažalost, prema kraju studenog za očekivati dodatan manji porast broja preminulih.
+Na razini države epidemija je `značajno ubrzavala širenje kroz cijeli listopad` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih početkom studenog. Taj veliki rast je `početkom studenog praktički nestao` i uspostavio se `trend blizak stagnaciji`. S druge strane, bitno je reći da čak i uz ovako male stope ubrazavanja, brzina širenja epidemije i dalje raste te je, nažalost, prema kraju studenog za očekivati dodatan manji porast broja preminulih.
 
 ## Tjedna promjena broja novih slučajeva - Zagreb
 
@@ -179,7 +179,7 @@ Datum | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-U Zagrebu je nakon `velikog ubrzavanja širenja epidemije u listopadu`, brzo došla `faza stagnacije, a zatim i usporavanja brzine širenja epidemije`. 
+U Zagrebu je nakon `velikog ubrzavanja širenja epidemije u listopadu`, brzo došla `faza stagnacije`, a zatim i `usporavanja brzine širenja` epidemije. 
 
 ## Tjedna promjena broja aktivnih slučajeva
 
@@ -210,7 +210,7 @@ Datum | Ukupno aktivnih | Tjedna promjena
 
 ### Zaključak
 
-`Kroz cijeli listopad epidemija je značajno ubrzavala svoje širenje`, ali ulaskom u studeni `epidemija je tek u blagom ubrzavanju ili stagnaciji` uz znatno manju promjenu broja aktivnih slučajeva.
+`Kroz cijeli listopad epidemija je značajno ubrzavala` svoje širenje, ali ulaskom u studeni `epidemija je tek u blagom ubrzavanju ili stagnaciji` uz znatno manju promjenu broja aktivnih slučajeva.
 
 ## Tjedna promjena broja novih slučajeva prema dobi
 
@@ -237,7 +237,7 @@ Raspon godina | Tjedna promjena
 
 ### Zaključak
 
-S grafa je vidljivo da epidemija `ubrzava svoje širenje po svim dobnim skupinama`. Manji broj testiranih i/ili manji broj ljudi u skupini može biti objašnjenje zašto su `prva i zadnja skupina najpogođenije`.
+S grafa je vidljivo da epidemija `ubrzava širenje po svim dobnim skupinama`. Manji broj testiranih i/ili manji broj ljudi u skupini može biti objašnjenje zašto su `prva i zadnja skupina najpogođenije`.
 
 ## Tjedna promjena broja novih slučajeva kod osoba starijih od 70 godina
 
@@ -268,7 +268,7 @@ Datum | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-Epidemija je među najugroženijima `znatno ubrzavala širenje krajem listopada`. Do sredine studenog nastupila je `faza stagnacije uz manje uscilacije` prema ponovnom ubrzavanju.
+Epidemija je među najugroženijima `znatno ubrzavala širenje krajem listopada`. Do sredine studenog nastupila je `faza stagnacije uz povremene oscilacije` prema ubrzavanju.
 
 ## Županije - Tjedna promjena broja novih slučajeva
 
@@ -306,11 +306,11 @@ Virovitičko-podravska | 15%
 
 ### Zaključak
 
-S karte je jasno vidljivo da epidemija u većini županija ubrzava svoje širenje. Na dan izračuna najlošije stoje Zadarska i Ličko-senjska županija. Na tjednoj razini epidemija usporava u Posavini i na krajnjem jugu zemlje.
+S karte je jasno vidljivo da epidemija `u većini županija ubrzava širenje`. Na dan izračuna najlošije stoje Zadarska i Ličko-senjska županija. Na tjednoj razini epidemija usporava u Posavini i na krajnjem jugu zemlje.
 
 ## Županije - Broj preminulih osoba na 1000 stanovnika
 
-Na sljedećoj karti se dobro vidi koje su županije jače, a koje manje pogođene prema broju preminulih na 1000 ljudi. Svjetlija crvena boja je indikator manjeg, a tamnija indikator većeg broja preminulih na 1000 stanovnika.
+Na sljedećoj karti se dobro vidi koje su županije jače, a koje manje pogođene prema ukupnom broju preminulih na 1000 ljudi. Svjetlija crvena boja je indikator manjeg, a tamnija indikator većeg broja preminulih na 1000 stanovnika.
 
 > Način izračuna:
 > (Ukupan broj preminulih)/(Broj stanovnika/1000)
@@ -351,7 +351,7 @@ S karte je jasno vidljivo koje su županije do sada teže bile pogođene, tj. gd
 
 ## Županije - Udio preminulih u ukupnom broju slučajeva (CFR)
 
-Na sljedećoj karti prikazan je postotni udio ukupnog broja preminulih u ukupnom broju slučajeva za svaku županiju. Ova metrika daje dobar uvid o "hvatanju" ukupnog broja zaraza po županijama. S obzirom da se smatra da taj broj treba biti oko 0.15%, sve iznad te brojke (pogotovo značajno) upućuje da je registrirani broj slučajeva znatno manji od stvarnog broja zaraženih.
+Na sljedećoj karti prikazan je postotni udio ukupnog broja preminulih u ukupnom broju slučajeva za svaku županiju. Ova metrika daje dobar uvid o "lovljenju" ukupnog broja zaraza po županijama. S obzirom da se smatra da taj broj treba biti oko 0.15%, sve iznad te brojke (pogotovo značajno) upućuje da je registrirani broj slučajeva znatno manji od stvarnog broja zaraženih.
 
 > Izračun se vrši tako da se ukupan broj preminulih podijeli s ukupnim brojem registriranih slučajeva
 
@@ -387,11 +387,11 @@ Virovitičko-podravska | 0.75%
 
 ### Zaključak
 
-S karte je vidljivo da većina županija ima prilično visok CFR. Primjerice, u Varaždinskoj županiji je to skoro 4% te se bez pretjerivanja može reći da je broj zaraženih u stvari barem 10 puta veći nego što je registrirani broj slučajeva. Jedina županija koja ima realan broj je Zagrebačka, možda radi većeg opsega testiranja, ali moguće i zato što bolesni idu u Zagreb te se tamo registriraju kao preminuli ukoliko dođe do takve situacije.
+S karte je vidljivo da većina županija ima `prilično visok CFR`. Primjerice, u Varaždinskoj županiji je to skoro 4% te se bez pretjerivanja može reći da je broj zaraženih u stvari barem 10 puta veći nego što je registrirani broj slučajeva. Jedina županija koja ima realan broj je Zagrebačka, možda radi većeg opsega testiranja, ali moguće i zato što bolesni idu u Zagreb te se tamo registriraju kao preminuli ukoliko dođe do takve situacije.
 
 ## Udio pozitivnih testova
 
-Metrika koja nam može govoriti o razmjeru epidemije, ali se mora uzeti u obzir broj testiranja. Ukoliko se testira malo, očekivano je da je ta brojka veća, pogotovo ako je epidemija jače raširena među populacijom. 
+Metrika koja može govoriti o razmjeru epidemije, ali se mora uzeti u obzir broj testiranja. Ukoliko se testira malo, očekivano je da je ta brojka veća, pogotovo ako je epidemija jače raširena među populacijom.
 
 > Izračun se vrši tako da se broj zaraženih podijeli s brojem testiranih.
 
@@ -420,7 +420,7 @@ Datum | Broj testiranih | Udio pozitivnih
 
 ### Zaključak
 
-Udio pozitivnih testova konstantno raste te je zadnjih nekoliko dana dosegnuo maksimum. Postoje dva moguća objašnjenja: 1. Dobro se "lovi" većina slučajeva te se testiraju dobrim dijelom samo zaraženi, 2. Raširenost epidemije među populacijom znatno premašuje kapacitete testiranja.
+Udio pozitivnih testova konstantno raste te je zadnjih nekoliko dana `dosegnuo maksimum`. Postoje dva moguća objašnjenja: 1. Dobro se "lovi" većina slučajeva te se testiraju velikim dijelom samo zaraženi, 2. Raširenost epidemije među populacijom znatno premašuje kapacitete testiranja.
 
 ## Dobno-spolna piramida potvrđenih slučajeva od početka epidemije
 
@@ -456,7 +456,7 @@ Raspon godina | Muškarci | Žene
 
 ### Zaključak
 
-Zanimljiva je činjenica da je do sada potvrđeno više slučajeva kod žena nego kod muškaraca (razlika otprilike 3000). U skladu s time, veći dio dobnih skupina ima više slučajeva kod žena, s naglaskom na najstarije skupine.
+Zanimljiva je činjenica da je do sada potvrđeno primjetno `više slučajeva kod žena` (razlika otprilike 3000). U skladu s time, veći dio dobnih skupina ima više slučajeva kod žena, s naglaskom na najstarije skupine.
 
 ## Izvori:
 
