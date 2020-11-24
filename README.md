@@ -389,6 +389,18 @@ Virovitičko-podravska | 0.75%
 
 S karte je vidljivo da većina županija ima `prilično visok CFR`. Primjerice, u Varaždinskoj županiji je to skoro 4% te se bez pretjerivanja može reći da je broj zaraženih u stvari barem 10 puta veći nego što je registrirani broj slučajeva. Jedina županija koja ima realan broj je Zagrebačka, možda radi većeg opsega testiranja, ali moguće i zato što bolesni idu u Zagreb te se tamo registriraju kao preminuli ukoliko dođe do takve situacije.
 
+## Preminule osobe u jesenskom valu epidemije
+
+Na sljedećem grafu prikazane su sve preminule osobe od 1. rujna prema dobi.
+
+### Graf
+
+![image](/22_11_2020/2211_preminuli_dob_jesen.png)
+
+### Zaključak
+
+Kao što je očekivano, najveći broj preminulih su osobe starije od 60 godina. Prosjek godina preminulih osoba u jesenskom valu epidemije je 73.
+
 ## Udio pozitivnih testova
 
 Metrika koja može govoriti o razmjeru epidemije, ali se mora uzeti u obzir broj testiranja. Ukoliko se testira malo, očekivano je da je ta brojka veća, pogotovo ako je epidemija jače raširena među populacijom.
