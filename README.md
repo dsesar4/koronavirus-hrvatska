@@ -422,6 +422,42 @@ Datum | Broj testiranih | Udio pozitivnih
 
 Udio pozitivnih testova konstantno raste te je zadnjih nekoliko dana dosegnuo maksimum. Postoje dva moguća objašnjenja: 1. Dobro se "lovi" većina slučajeva te se testiraju dobrim dijelom samo zaraženi, 2. Raširenost epidemije među populacijom znatno premašuje kapacitete testiranja.
 
+## Dobno-spolna piramida potvrđenih slučajeva od početka epidemije
+
+Prikaz broja slučajeva prema spolu u različitim dobnim skupinama.
+
+### Graf
+
+![image](/22_11_2020/2211_dob_spol_piramida.png)
+
+### Tablica
+
+Raspon godina | Muškarci | Žene
+:---  | :---:
+0-4 | 477 | 412
+5-9 | 690 | 617
+10-14 | 1639 | 1589
+15-19 | 3014 | 2999
+20-24 | 3923 | 3914
+25-29 | 4458 | 4452
+30-34 | 4672 | 4578
+35-39 | 4485 | 5061
+40-44 | 4705 | 5197
+45-49 | 4455 | 5010
+50-54 | 4218 | 4807
+55-59 | 3955 | 4390
+60-64 | 3533 | 3221
+65-69 | 2460 | 2122
+70-74 | 1828 | 1796
+75-79 | 1200 | 1467
+80-84 | 902 | 1339
+85-89 | 503 | 913
+90+ | 158 | 521
+
+### Zaključak
+
+Zanimljiva je činjenica da je do sada potvrđeno više slučajeva kod žena nego kod muškaraca (razlika otprilike 3000). U skladu s time, veći dio dobnih skupina ima više slučajeva kod žena, s naglaskom na najstarije skupine.
+
 ## Izvori:
 
 [Koronavirus.hr - twitter](https://twitter.com/koronavirus_hr)
@@ -437,3 +473,5 @@ Udio pozitivnih testova konstantno raste te je zadnjih nekoliko dana dosegnuo ma
 -----
 
 Podaci će se osvježavati jednom tjedno, najvjerojatnije nedjeljom u poslijepodnevnim satima
+
+Podaci o broju zaraženih po dobi i spolu mogu sse razlikovati od ostalih podataka jer su za njih izvor strojno čitljivi podaci koji nemaju isti interval osvježavanja kao ostali podaci (npr. službeni Twitter račun)
