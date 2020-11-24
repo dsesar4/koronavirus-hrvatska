@@ -28,7 +28,7 @@ Stoga su za prvu grupu dovoljno dobri podaci o kumulativnom broju, dok su za dru
 
 ## Tjedna promjena broja hospitaliziranih osoba
 
-Vrlo važna metrika koja mnogo govori o brzini širenja epidemije, znatno točnije od broja novih slučajeva. Razlog tome je jednostavan - određeni udio zaraženih će svakako završiti u bolnici. Dnevne brojke kasne za zarazama otprilike 14 dana, što je vrijeme potrebno da se dobiju prvi simptomi i nakon toga se razvije dovoljno ozbiljan oblik bolesti za odlazak u bolnicu.
+Vrlo važna metrika koja mnogo govori o brzini širenja epidemije, znatno točnije od broja novih slučajeva. Razlog tome je jednostavan - određeni udio zaraženih će svakako završiti u bolnici. Dnevne brojke kasne za zarazama otprilike 10-14 dana, što je vrijeme potrebno da se dobiju prvi simptomi i nakon toga se razvije dovoljno ozbiljan oblik bolesti za odlazak u bolnicu.
 
 ### Graf
 
@@ -55,11 +55,11 @@ Datum | Ukupno hospitalizirani | Tjedna promjena
 
 ### Zaključak
 
-Broj hospitaliziranih je `ubrazano rastao kroz cijeli listopad` da bi se početkom studenog `ubrzavanje krenulo smanjivati uz daljnji trend prema stagnaciji`.
+Broj hospitaliziranih je `ubrazano rastao kroz cijeli listopad` da bi se `početkom studenog ubrzavanje krenulo smanjivati` uz daljnji trend prema stagnaciji. Jedan od mogućih razloga za ovako spor pad broja hospitaliziranih osoba je to da prethodno hospitalizirani ostaju duže u bolnici te stoga "koče" brži pad.
 
 ## Tjedna promjena broja osoba na respiratoru
 
-Također vrlo važna metrika koja mnogo govori o brzini širenja epidemije, s razlikom što zaključci vrijede 7-14 dana unazad. To je tako jer je potrebno jedan do dva tjedna da pacijent nakon zaraze dobije prve simptome i zatim razvije tako ozbiljan oblik bolesti da završi na respiratoru.
+Također vrlo važna metrika koja mnogo govori o brzini širenja epidemije, s naglaskom da i ovdje zaključci o zarazama vrijede 10-14 dana unazad. To je tako jer je potrebno jedan do dva tjedna da pacijent nakon zaraze dobije prve simptome i zatim razvije tako ozbiljan oblik bolesti da završi na respiratoru.
 
 ### Graf
 
@@ -117,7 +117,7 @@ Datum | Novi preminuli | Tjedna promjena
 
 ### Zaključak
 
-Broj novih preminulih `ubrzano je rastao kroz cijeli listopad i početak studenog` da bi zatim na neko vrijeme `došao blizu stagnacije`. Nažalost, u zadnjih nekoliko dana ponovno je prisutno `ubrzavanje rasta` broja preminulih osoba.
+Broj novih preminulih osoba `ubrzano je rastao kroz cijeli listopad i početak studenog` da bi zatim na neko vrijeme `došao blizu stagnacije`. Nažalost, u zadnjih nekoliko dana ponovno je prisutno `ubrzavanje rasta` broja preminulih osoba.
 
 ## Tjedna promjena broja novih slučajeva - Hrvatska
 
