@@ -268,7 +268,7 @@ Datum | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-Epidemija je među najugroženijima `znatno ubrzavala širenje krajem listopada`. Do sredine studenog nastupila je `faza stagnacije uz povremene oscilacije` prema ubrzavanju.
+Epidemija je među najugroženijima `znatno ubrzavala širenje krajem listopada`. Sredinom studenog nastupila je `faza stagnacije uz povremene oscilacije` prema ubrzavanju.
 
 ## Županije - Tjedna promjena broja novih slučajeva
 
