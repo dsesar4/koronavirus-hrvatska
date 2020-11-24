@@ -251,20 +251,20 @@ Metrika koja govori o brzini širenja epidemije među osobama starijim od 60 god
 
 Datum | Novi slučajevi | Tjedna promjena
 :---  | :---: | :---: 
-9.studeni | 158 | 25%
-10.studeni | 262 | 19%
-11.studeni | 319 | 10%
-12.studeni | 281 | 11%
-13.studeni | 353 | 16%
-14.studeni | 272 | 7%
-15.studeni | 119 | 0%
-16.studeni | 242 | 5%
-17.studeni | 302 | 8%
-18.studeni | 330 | 10%
-19.studeni | 316 | 8%
-20.studeni | 350 | 5%
-21.studeni | 361 | 13%
-22.studeni | 158 | 19%
+9.studeni | 317 | 25%
+10.studeni | 560 | 19%
+11.studeni | 651 | 10%
+12.studeni | 626 | 11%
+13.studeni | 684 | 16%
+14.studeni | 548 | 7%
+15.studeni | 260 | 0%
+16.studeni | 491 | 5%
+17.studeni | 634 | 8%
+18.studeni | 703 | 10%
+19.studeni | 632 | 8%
+20.studeni | 741 | 5%
+21.studeni | 768 | 13%
+22.studeni | 355 | 19%
 
 ### Zaključak
 
@@ -474,4 +474,4 @@ Zanimljiva je činjenica da je do sada potvrđeno primjetno `više slučajeva ko
 
 Podaci će se osvježavati jednom tjedno, najvjerojatnije nedjeljom u poslijepodnevnim satima
 
-Podaci o broju zaraženih po dobi i spolu mogu sse razlikovati od ostalih podataka jer su za njih izvor strojno čitljivi podaci koji nemaju isti interval osvježavanja kao ostali podaci (npr. službeni Twitter račun)
+Podaci o broju zaraženih po dobi i spolu mogu se razlikovati od ostalih podataka jer su za njih izvor strojno čitljivi podaci koji nemaju isti interval osvježavanja kao ostali podaci (npr. službeni Twitter račun)
