@@ -436,15 +436,15 @@ Datum | Broj testiranih | Udio pozitivnih
 
 Udio pozitivnih testova konstantno raste te je zadnjih nekoliko dana `dosegnuo maksimum`. Postoje dva moguća objašnjenja: 1. Dobro se "lovi" većina slučajeva te se testiraju velikim dijelom samo zaraženi, 2. Raširenost epidemije među populacijom znatno premašuje kapacitete testiranja.
 
-## Dobno-spolna piramida potvrđenih slučajeva od početka epidemije
+## Dobno-spolna piramida potvrđenih slučajeva u jesenskom valu epidemije
 
-Animirani prikaz broja slučajeva prema spolu u različitim dobnim skupinama kroz jesenski val epidemije.
+Animirani prikaz broja slučajeva prema spolu u različitim dobnim skupinama kroz jesenski val epidemije. Daje dobar uvid u zaraženost pojedinih skupina kroz vrijeme.
 
 ### Graf
 
 ![image](/22_11_2020/2211_dob_spol_piramida.gif)
 
-### Tablica
+### Tablica od početka epidemije
 
 Raspon godina | Muškarci | Žene
 :---  | :---: | :---:
