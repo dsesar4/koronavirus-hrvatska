@@ -438,11 +438,11 @@ Udio pozitivnih testova konstantno raste te je zadnjih nekoliko dana `dosegnuo m
 
 ## Dobno-spolna piramida potvrđenih slučajeva od početka epidemije
 
-Prikaz broja slučajeva prema spolu u različitim dobnim skupinama.
+Animirani prikaz broja slučajeva prema spolu u različitim dobnim skupinama kroz jesenski val epidemije.
 
 ### Graf
 
-![image](/22_11_2020/2211_dob_spol_piramida.png)
+![image](/22_11_2020/2211_dob_spol_piramida.gif)
 
 ### Tablica
 
