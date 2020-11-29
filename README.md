@@ -56,7 +56,7 @@ Datum | Ukupno hospitalizirani | Tjedna promjena
 
 ### Zaključak
 
-Broj hospitaliziranih je `ubrazano rastao kroz cijeli listopad` da bi se `početkom studenog ubrzavanje krenulo smanjivati` uz daljnji trend prema stagnaciji. Jedan od mogućih razloga za ovako spor pad broja hospitaliziranih osoba je to da prethodno hospitalizirani ostaju duže u bolnici te stoga "koče" brži pad.
+Broj hospitaliziranih `usporava rast kroz cijeli studeni`. S obzirom da se sad već radi o velikom broju osoba, ovakvo ponašanje je i očekivano te time dijelom opravdano. No, iako graf izgleda dobro, i dalje je prisutan porast te je stoga za očekivati i porast broja preminulih u idućim tjednima.
 
 ## Tjedna promjena broja osoba na respiratoru
 
@@ -87,7 +87,7 @@ Datum | Ukupno na respiratoru | Tjedna promjena
 
 ### Zaključak
 
-Broj osoba na respiratoru `u dva je vala ubrzano rastao`, a zadnjih desetak dana `ubrzavanje se smanjuje i ima tendenciju prema stagnaciji`.
+Promjena broja osoba na respiratoru je nakon `smanjivanja ubrzavanja kroz veći dio studenog` stala na stopama ubrzavanja od oko `20% posljednjih tjedan dana`. Ovo nije dobar trend te nažalost najavljuje dodatan porast broja preminulih u nadolazećim danima, moguće i tjednima.
 
 ## Tjedna promjena broja novih preminulih osoba
 
@@ -118,7 +118,7 @@ Datum | Novi preminuli | Tjedna promjena
 
 ### Zaključak
 
-Broj novih preminulih osoba `ubrzano je rastao kroz cijeli listopad i početak studenog` da bi zatim na neko vrijeme `došao blizu stagnacije`. Nažalost, u zadnjih nekoliko dana ponovno je prisutno `ubrzavanje rasta` broja preminulih osoba na tjednoj razini.
+Broj novih preminulih osoba nema određen trend, ali vidljivo je `smanjivanje ubrzavanja u odnosu na prvi dio studenog`. Ipak, u zadnja dva tjedna trend nije dobar te upućuje da broj novih preminulih osoba stalno raste na tjednoj bazi. To je sve posljedica velikog broja zaraženih u prvom dijelu studenog, tj. velikog širenja epidemije.
 
 ## Tjedna promjena broja novih slučajeva - Hrvatska
 
@@ -149,7 +149,7 @@ Datum | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-Na razini države epidemija je `značajno ubrzavala širenje kroz cijeli listopad` i velik broj ljudi se zarazio. To je dovelo i do znatno većih stopa preminulih početkom studenog. Taj veliki rast je `početkom studenog praktički nestao` i uspostavio se `trend blizak stagnaciji`. S druge strane, čak i uz ovako male stope ubrazavanja, brzina širenja epidemije i dalje raste te je, nažalost, prema kraju studenog za očekivati dodatan manji porast broja preminulih.
+Na razini države epidemija je `polagano ubrzavala širenje kroz cijeli studeni` i velik broj ljudi se zarazio. To upućuje da u idućim tjednima možemo očekivati dodatan porast broja preminulih, dakle zaključak je isti kao za hospitalizirane osobe.
 
 ## Tjedna promjena broja novih slučajeva - Zagreb
 
@@ -180,7 +180,7 @@ Datum | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-U Zagrebu je nakon `velikog ubrzavanja širenja epidemije u listopadu`, brzo došla `faza stagnacije`, a zatim i `usporavanja brzine širenja` epidemije. 
+Zagreb je `velik dio studenog proveo uz trend usporavanja epidemije`. To potvrđuje tvrdnju da je Zagreb ispred ostatka zemlje gdje je zabilježeno ubrzavanje epidemije, često značajno. Iako je epidemija opet ušla u fazu ubrzavanja velik dio proteklog tjedna, taj trend se naglo vratio prema usporavanju zadnja dva dana.
 
 ## Tjedna promjena broja aktivnih slučajeva
 
@@ -211,7 +211,7 @@ Datum | Ukupno aktivnih | Tjedna promjena
 
 ### Zaključak
 
-`Kroz cijeli listopad epidemija je značajno ubrzavala` svoje širenje, ali ulaskom u studeni `epidemija je tek u blagom ubrzavanju ili stagnaciji` uz znatno manju promjenu broja aktivnih slučajeva.
+`Broj aktivno oboljelih polagano ubrzava rast kroz cijeli studeni`, dakle vrijedi isti zaključak kao za potvrđene slučajeve te se i dalje više ljudi razboljeva nego što ozdravlja.
 
 ## Tjedna promjena broja novih slučajeva prema dobi
 
@@ -311,7 +311,7 @@ Virovitičko-podravska | 29%
 
 ### Zaključak
 
-S karte je jasno vidljivo da epidemija `u većini županija ubrzava širenje`. Na dan izračuna najlošije stoje Zadarska i Ličko-senjska županija. Na tjednoj razini epidemija usporava u Posavini i na krajnjem jugu zemlje.
+S karte je jasno vidljivo da epidemija `u većini županija ubrzava širenje`. `Iznimka su grad Zagreb, istok i jug zemlje`. Uz već objašnjeni Zagreb, za istok zemlje može biti slučaj da se dosta ljudi zarazilo tijekom ljeta pa su ti krajevi također ispred ostatka temlje po epidemiološkoj situaciji.
 
 ## Županije - Broj preminulih osoba na 100 000 stanovnika
 
@@ -357,7 +357,7 @@ S karte je jasno vidljivo koje su županije do sada teže bile pogođene, tj. gd
 
 ## Županije - Udio preminulih u ukupnom broju slučajeva (CFR)
 
-Na sljedećoj karti prikazan je postotni udio ukupnog broja preminulih u ukupnom broju slučajeva za svaku županiju. Ova metrika daje dobar uvid o "lovljenju" ukupnog broja zaraza po županijama. S obzirom da se smatra da taj broj treba biti oko 0.15%, sve iznad te brojke (pogotovo značajno) upućuje da je registrirani broj slučajeva znatno manji od stvarnog broja zaraženih.
+Na sljedećoj karti prikazan je postotni udio ukupnog broja preminulih u ukupnom broju slučajeva za svaku županiju. Ova metrika daje dobar uvid o "lovljenju" ukupnog broja zaraza po županijama. Sve iznad 0.5% (pogotovo značajno) upućuje da je registrirani broj slučajeva znatno manji od stvarnog broja zaraženih.
 
 > Izračun se vrši tako da se ukupan broj preminulih podijeli s ukupnim brojem registriranih slučajeva
 
@@ -393,7 +393,7 @@ Virovitičko-podravska | 0.78%
 
 ### Zaključak
 
-S karte je vidljivo da većina županija ima `prilično visok CFR`. Primjerice, u Varaždinskoj županiji je to skoro 4% te se bez pretjerivanja može reći da je broj zaraženih u stvari barem 10 puta veći nego što je registrirani broj slučajeva. Jedina županija koja ima realan broj je Zagrebačka, možda radi većeg opsega testiranja, ali moguće i zato što bolesni idu u Zagreb te se tamo registriraju kao preminuli ukoliko dođe do takve situacije.
+S karte je vidljivo da većina županija ima `prilično visok CFR`. Primjerice, u Osječko-baranjskoj županiji je to blizu 3% te se bez pretjerivanja može reći da je broj zaraženih tamo u stvari barem 5 puta veći nego što je registrirani broj slučajeva. Jedina županija koja odskače prema nižem od očekivanog je Zagrebačka, vjerojatno jer ozbiljno oboljeli idu u bolnicu u Zagreb te se onda i tamo vode kao preminuli ukoliko dođe do takve situacije.
 
 ## Preminule osobe u jesenskom valu epidemije
 
@@ -405,7 +405,7 @@ Na sljedećem grafu prikazan je ukupan broj preminulih osoba prema dobi u jesens
 
 ### Zaključak
 
-Kao što je očekivano, najveći broj preminulih su osobe starije od 60 godina, a najveća koncentracija je između `75 i 85 godina`. Prosječna dob osoba preminulih u jesenskom valu epidemije je `77 godina`.
+Kao što je očekivano, najveći broj preminulih su osobe starije od 60 godina, a najveća koncentracija je između `77 i 87 godina`. Prosječna dob osoba preminulih u jesenskom valu epidemije je `77 godina`. Broj preminulih muškaraca (893) je znatno veći od broja preminulih žena (627). Muškarci u prosjeku umiru skoro četiri godine mlađi.
 
 ## Udio pozitivnih testova
 
@@ -438,7 +438,7 @@ Datum | Broj testiranih | Udio pozitivnih
 
 ### Zaključak
 
-Udio pozitivnih testova konstantno raste te je zadnjih nekoliko dana `dosegnuo maksimum`. Postoje dva moguća objašnjenja: 1. Dobro se "lovi" većina slučajeva te se testiraju velikim dijelom samo zaraženi, 2. Raširenost epidemije među populacijom znatno premašuje kapacitete testiranja.
+Udio pozitivnih testova konstantno raste te je zadnja dva tjedna `dosegnuo maksimum`. Postoje dva moguća objašnjenja: 1. Dobro se "lovi" većina slučajeva te se testiraju velikim dijelom samo zaraženi, 2. Raširenost epidemije među populacijom znatno premašuje kapacitete testiranja.
 
 ## Dobno-spolna piramida potvrđenih slučajeva u jesenskom valu epidemije
 
