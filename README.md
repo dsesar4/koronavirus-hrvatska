@@ -118,7 +118,7 @@ Datum | Novi preminuli | Tjedna promjena
 
 ### Zaključak
 
-Broj novih preminulih osoba nema određen trend, ali vidljivo je `smanjivanje ubrzavanja u odnosu na prvi dio studenog`. Ipak, u zadnja dva tjedna trend nije dobar te upućuje da broj novih preminulih osoba stalno raste na tjednoj bazi. To je sve posljedica velikog broja zaraženih u prvom dijelu studenog, tj. brzog širenja epidemije.
+Broj novih preminulih osoba nema određen trend, ali vidljivo je `smanjivanje ubrzavanja u odnosu na prvi dio studenog`. Ipak, u zadnja dva tjedna trend nije dobar te upućuje da broj novih preminulih osoba stalno raste. To je sve posljedica velikog broja zaraženih u prvom dijelu studenog, tj. brzog širenja epidemije.
 
 ## Tjedna promjena broja novih slučajeva - Hrvatska
 
