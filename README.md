@@ -287,27 +287,27 @@ Ova karta daje brz i jednostavan uvid u epidemiološko stanje županija u protek
 
 Županija | Tjedna promjena
 :---  | :---:
-Istarska | 16%
-Karlovačka | 52%
-Zadarska | 30%
-Primorsko-goranska | 23% 
+Istarska | 18%
+Karlovačka | 110%
+Zadarska | 43%
+Primorsko-goranska | 29% 
 Vukovarsko-srijemska | 4%
-Šibensko-kninska | 28%
+Šibensko-kninska | 38%
 Osječko-baranjska | 1%
-Splitsko-dalmatinska | 21%
-Bjelovarsko-bilogorska | 29%
-Brodsko-posavska | 28%
+Splitsko-dalmatinska | 26%
+Bjelovarsko-bilogorska | 40%
+Brodsko-posavska | 38%
 Dubrovačko-neretvanska | -4%
 Zagrebačka | 4%
-Grad Zagreb | -9%
-Koprivničko-križevačka | 17% 
-Krapinsko-zagorska | 18%
-Ličko-senjska | 18%
-Međimurska | 20%
+Grad Zagreb | -8%
+Koprivničko-križevačka | 21% 
+Krapinsko-zagorska | 22%
+Ličko-senjska | 22%
+Međimurska | 25%
 Požeško-slavonska | -3%
-Sisačko-moslavačka | 21%
-Varaždinska | 25%
-Virovitičko-podravska | 29%
+Sisačko-moslavačka | 27%
+Varaždinska | 34%
+Virovitičko-podravska | 40%
 
 ### Zaključak
 
