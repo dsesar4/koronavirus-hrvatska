@@ -1,4 +1,4 @@
-# 22. studeni 2020. - Pregled epidemiološke situacije
+# 29. studeni 2020. - Pregled epidemiološke situacije
 
 ## Način mjerenja
 
@@ -33,19 +33,12 @@ Vrlo važna metrika koja mnogo govori o brzini širenja epidemije, znatno točni
 
 ### Graf
 
-![image](/22_11_2020/2211_promjena_hospitaliziranih.png)
+![image](/29_11_2020/2911_promjena_hospitaliziranih.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Ukupno hospitalizirani | Tjedna promjena
 :---  | :---: | :---: 
-9.studeni | 1451 | 29%
-10.studeni | 1513 | 28%
-11.studeni | 1545 | 28%
-12.studeni | 1598 | 27%
-13.studeni | 1620 | 26%
-14.studeni | 1655 | 26%
-15.studeni | 1710 | 25%
 16.studeni | 1816 | 25%
 17.studeni | 1827 | 24%
 18.studeni | 1878 | 23%
@@ -53,6 +46,13 @@ Datum | Ukupno hospitalizirani | Tjedna promjena
 20.studeni | 1992 | 23%
 21.studeni | 1981 | 22%
 22.studeni | 2013 | 21%
+23.studeni | 2060 | 20%
+24.studeni | 2093 | 19%
+25.studeni | 2136 | 17%
+26.studeni | 2171 | 16%
+27.studeni | 2240 | 15%
+28.studeni | 2221 | 14%
+29.studeni | 2273 | 13%
 
 ### Zaključak
 
@@ -64,19 +64,12 @@ Također vrlo važna metrika koja mnogo govori o brzini širenja epidemije, s na
 
 ### Graf
 
-![image](/22_11_2020/2211_promjena_respirator.png)
+![image](/29_11_2020/2911_promjena_respirator.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Ukupno na respiratoru | Tjedna promjena
 :---  | :---: | :---:
-9.studeni | 142 | 71%
-10.studeni | 167 | 64%
-11.studeni | 178 | 61%
-12.studeni | 178 | 57%
-13.studeni | 179 | 50%
-14.studeni | 184 | 48%
-15.studeni | 194 | 43%
 16.studeni | 191 | 41%
 17.studeni | 196 | 36%
 18.studeni | 205 | 30%
@@ -84,6 +77,13 @@ Datum | Ukupno na respiratoru | Tjedna promjena
 20.studeni | 217 | 25%
 21.studeni | 213 | 21%
 22.studeni | 223 | 19%
+23.studeni | 235 | 17%
+24.studeni | 244 | 19%
+25.studeni | 240 | 19%
+26.studeni | 252 | 20%
+27.studeni | 266 | 20%
+28.studeni | 262 | 21%
+29.studeni | 260 | 21%
 
 ### Zaključak
 
@@ -95,19 +95,12 @@ Važna metrika koja mnogo govori o razmjerima epidemije, također točnije od br
 
 ### Graf
 
-![image](/22_11_2020/2211_promjena_preminulih.png)
+![image](/29_11_2020/2911_promjena_preminulih.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Novi preminuli | Tjedna promjena
 :---  | :---: | :---: 
-9.studeni | 38 | 68%
-10.studeni | 33 | 50%
-11.studeni | 28 | 48%
-12.studeni | 32 | 41%
-13.studeni | 43 | 35%
-14.studeni | 38 | 23%
-15.studeni | 43 | 10%
 16.studeni | 33 | 5%
 17.studeni | 31 | 5%
 18.studeni | 38 | 8%
@@ -115,6 +108,13 @@ Datum | Novi preminuli | Tjedna promjena
 20.studeni | 57 | 15%
 21.studeni | 47 | 17%
 22.studeni | 49 | 19%
+23.studeni | 45 | 26%
+24.studeni | 47 | 34%
+25.studeni | 56 | 36%
+26.studeni | 51 | 28%
+27.studeni | 48 | 19%
+28.studeni | 55 | 18%
+29.studeni | 57 | 18%
 
 ### Zaključak
 
@@ -126,19 +126,12 @@ Metrika koja govori o razmjerima epidemije. Problem je, naravno, što se nikako 
 
 ### Graf
 
-![image](/22_11_2020/2211_promjena_slucajeva_ukupno.png)
+![image](/29_11_2020/2911_promjena_slucajeva_ukupno.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Novi slučajevi | Tjedna promjena
 :---  | :---: | :---:
-9.studeni | 1529 | 4%
-10.studeni | 1467 | 4%
-11.studeni | 2597 | 5%
-12.studeni | 3082 | 6%
-13.studeni | 3056 | 6%
-14.studeni | 2866 | 11%
-15.studeni | 2365 | 8%
 16.studeni | 1313 | 4%
 17.studeni | 1945 | 7%
 18.studeni | 3251 | 10%
@@ -146,6 +139,13 @@ Datum | Novi slučajevi | Tjedna promjena
 20.studeni | 2958 | 7%
 21.studeni | 3573 | 8%
 22.studeni | 3308 | 15%
+23.studeni | 1973 | 20%
+24.studeni | 2323 | 19%
+25.studeni | 3603 | 17%
+26.studeni | 4009 | 21%
+27.studeni | 4080 | 28%
+28.studeni | 3987 | 25%
+29.studeni | 2919 | 17%
 
 ### Zaključak
 
@@ -157,19 +157,12 @@ Za Zagreb se može smatrati da je (uz još nekoliko županija) nešto ispred ost
 
 ### Graf
 
-![image](/22_11_2020/2211_promjena_slucajeva_zg.png)
+![image](/29_11_2020/2911_promjena_slucajeva_zg.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Novi slučajevi | Tjedna promjena
 :---  | :---: | :---:
-9.studeni | 316 | -14%
-10.studeni | 368 | -12%
-11.studeni | 621 | -13%
-12.studeni | 705 | -10%
-13.studeni | 653 | -9%
-14.studeni | 554 | -5%
-15.studeni | 363 | -1%
 16.studeni | 291 | -2%
 17.studeni | 421 | -3%
 18.studeni | 604 | -2%
@@ -177,6 +170,13 @@ Datum | Novi slučajevi | Tjedna promjena
 20.studeni | 624 | -6%
 21.studeni | 822 | 2%
 22.studeni | 560 | 10%
+23.studeni | 343 | 12%
+24.studeni | 445 | 11%
+25.studeni | 595 | 11%
+26.studeni | 611 | 14%
+27.studeni | 607 | 15%
+28.studeni | 647 | 2%
+29.studeni | 349 | -8%
 
 ### Zaključak
 
@@ -188,19 +188,12 @@ Metrika koja govori o brzini širenja epidemije, vrlo slično kao promjena broja
 
 ### Graf
 
-![image](/22_11_2020/2211_promjena_aktivnih.png)
+![image](/29_11_2020/2911_promjena_aktivnih.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Ukupno aktivnih | Tjedna promjena
 :---  | :---: | :---:
-9.studeni | 14942 | 6%
-10.studeni | 14524 | 4%
-11.studeni | 15513 | 2%
-12.studeni | 16348 | 2%
-13.studeni | 16746 | 3%
-14.studeni | 17090 | 5%
-15.studeni | 16926 | 6%
 16.studeni | 15699 | 6%
 17.studeni | 15371 | 7%
 18.studeni | 16891 | 7%
@@ -208,12 +201,21 @@ Datum | Ukupno aktivnih | Tjedna promjena
 20.studeni | 18193 | 8%
 21.studeni | 19079 | 8%
 22.studeni | 19985 | 10%
+23.studeni | 19275 | 12%
+24.studeni | 19161 | 15%
+25.studeni | 20691 | 17%
+26.studeni | 21725 | 19%
+27.studeni | 22408 | 21%
+28.studeni | 23573 | 22%
+29.studeni | 23062 | 22%
 
 ### Zaključak
 
 `Kroz cijeli listopad epidemija je značajno ubrzavala` svoje širenje, ali ulaskom u studeni `epidemija je tek u blagom ubrzavanju ili stagnaciji` uz znatno manju promjenu broja aktivnih slučajeva.
 
 ## Tjedna promjena broja novih slučajeva prema dobi
+
+* Podaci od 22.11.2020
 
 Metrika koja govori o brzini širenja epidemije među različitim uzrastima. Situacija koja bi dovela do usporavanja epidemije je da su sve (ili većina) vrijednosti negativne, a ukoliko to nije moguće, bilo bi dobro da je veći porast koncentriran na lijevu stranu grafa jer su mladi daleko manje ugroženi od starijih osoba (osobito 70+ godina).
 
@@ -241,6 +243,8 @@ Raspon godina | Tjedna promjena
 S grafa je vidljivo da epidemija `ubrzava širenje po svim dobnim skupinama`. Manji broj testiranih i/ili manji broj ljudi u skupini može biti objašnjenje zašto su `prva i zadnja skupina najpogođenije`.
 
 ## Tjedna promjena broja novih slučajeva kod osoba starijih od 60 godina
+
+* Podaci od 22.11.2020
 
 Metrika koja govori o brzini širenja epidemije među osobama starijim od 60 godina, tj. u rizičnoj skupini. S obzirom da je najveći udio preminulih iz ove skupine, prema navedenom grafu može se prognozirati porast/pad broja preminulih u sljedećim danima i tjednima. Vrijednosti na ovome grafu moraju biti što manje kako bi i dnevni broj preminulih počeo padati.
 
@@ -277,75 +281,75 @@ Ova karta daje brz i jednostavan uvid u epidemiološko stanje županija u protek
 
 ### Karta
 
-![image](/22_11_2020/2211_promjena_karta.png)
+![image](/29_11_2020/2911_promjena_karta.png)
 
 ### Tablica
 
 Županija | Tjedna promjena
 :---  | :---:
-Istarska | 3%
-Karlovačka | -3%
-Zadarska | 67%
-Primorsko-goranska | 15% 
-Vukovarsko-srijemska | -14%
-Šibensko-kninska | 31%
-Osječko-baranjska | 30%
-Splitsko-dalmatinska | 18%
-Bjelovarsko-bilogorska | 3%
-Brodsko-posavska | -6%
-Dubrovačko-neretvanska | -9%
-Zagrebačka | 27%
-Grad Zagreb | 10%
-Koprivničko-križevačka | 45% 
-Krapinsko-zagorska | 19%
-Ličko-senjska | 69%
-Međimurska | 13%
-Požeško-slavonska | 37%
-Sisačko-moslavačka | 45%
-Varaždinska | 0%
-Virovitičko-podravska | 15%
+Istarska | 16%
+Karlovačka | 52%
+Zadarska | 30%
+Primorsko-goranska | 23% 
+Vukovarsko-srijemska | 4%
+Šibensko-kninska | 28%
+Osječko-baranjska | 1%
+Splitsko-dalmatinska | 21%
+Bjelovarsko-bilogorska | 29%
+Brodsko-posavska | 28%
+Dubrovačko-neretvanska | -4%
+Zagrebačka | 4%
+Grad Zagreb | -9%
+Koprivničko-križevačka | 17% 
+Krapinsko-zagorska | 18%
+Ličko-senjska | 18%
+Međimurska | 20%
+Požeško-slavonska | -3%
+Sisačko-moslavačka | 21%
+Varaždinska | 25%
+Virovitičko-podravska | 29%
 
 ### Zaključak
 
 S karte je jasno vidljivo da epidemija `u većini županija ubrzava širenje`. Na dan izračuna najlošije stoje Zadarska i Ličko-senjska županija. Na tjednoj razini epidemija usporava u Posavini i na krajnjem jugu zemlje.
 
-## Županije - Broj preminulih osoba na 1000 stanovnika
+## Županije - Broj preminulih osoba na 100 000 stanovnika
 
-Na sljedećoj karti se dobro vidi koje su županije jače, a koje slabije pogođene prema ukupnom broju preminulih na 1000 ljudi. Svjetlija crvena boja je indikator manjeg, a tamnija indikator većeg broja preminulih na 1000 stanovnika.
+Na sljedećoj karti se dobro vidi koje su županije jače, a koje slabije pogođene prema ukupnom broju preminulih na 100 000 ljudi. Svjetlija crvena boja je indikator manjeg, a tamnija indikator većeg broja preminulih na 100 000 stanovnika.
 
 Način izračuna:
 
-> (Ukupan broj preminulih)/(Broj stanovnika/1000)
+> (Ukupan broj preminulih)/(Broj stanovnika/100000)
 
 ### Karta
 
-![image](/22_11_2020/2211_preminuli_karta.png)
+![image](/29_11_2020/2911_preminuli_karta.png)
 
 ### Tablica
 
-Županija | Broj preminulih na 1000 stanovnika
+Županija | Broj preminulih na 100 000 stanovnika
 :---  | :---:
-Istarska | 0.11
-Karlovačka | 0.48
-Zadarska | 0.12
-Primorsko-goranska | 0.19 
-Vukovarsko-srijemska | 0.23
-Šibensko-kninska | 0.21
-Osječko-baranjska | 0.63
-Splitsko-dalmatinska | 0.31
-Bjelovarsko-bilogorska | 0.28
-Brodsko-posavska | 0.15
-Dubrovačko-neretvanska | 0.24
-Zagrebačka | 0.03
-Grad Zagreb | 0.53
-Koprivničko-križevačka | 0.31 
-Krapinsko-zagorska | 0.44
-Ličko-senjska | 0.43
-Međimurska | 0.45
-Požeško-slavonska | 0.14
-Sisačko-moslavačka | 0.15
-Varaždinska | 0.35
-Virovitičko-podravska | 0.13
+Istarska | 12
+Karlovačka | 58
+Zadarska | 19
+Primorsko-goranska | 25 
+Vukovarsko-srijemska | 25
+Šibensko-kninska | 26
+Osječko-baranjska | 79
+Splitsko-dalmatinska | 34
+Bjelovarsko-bilogorska | 33
+Brodsko-posavska | 24
+Dubrovačko-neretvanska | 31
+Zagrebačka | 3
+Grad Zagreb | 65
+Koprivničko-križevačka | 45 
+Krapinsko-zagorska | 71
+Ličko-senjska | 59
+Međimurska | 54
+Požeško-slavonska | 22
+Sisačko-moslavačka | 19
+Varaždinska | 52
+Virovitičko-podravska | 17
 
 ### Zaključak
 
@@ -359,33 +363,33 @@ Na sljedećoj karti prikazan je postotni udio ukupnog broja preminulih u ukupnom
 
 ### Karta
 
-![image](/22_11_2020/2211_CFR_karta.png)
+![image](/29_11_2020/2911_CFR_karta.png)
 
 ### Tablica
 
 Županija | CFR
 :---  | :---:
-Istarska | 0.83%
-Karlovačka | 2.62%
-Zadarska | 0.79%
-Primorsko-goranska | 0.98% 
-Vukovarsko-srijemska | 1.07%
-Šibensko-kninska | 1.20%
-Osječko-baranjska | 2.73%
-Splitsko-dalmatinska | 1.03%
-Bjelovarsko-bilogorska | 1.86%
-Brodsko-posavska | 0.70%
-Dubrovačko-neretvanska | 1.04%
-Zagrebačka | 0.13%
-Grad Zagreb | 1.70%
-Koprivničko-križevačka | 1.76% 
-Krapinsko-zagorska | 1.37%
-Ličko-senjska | 2.02%
-Međimurska | 1.19%
-Požeško-slavonska | 0.89%
-Sisačko-moslavačka | 0.91%
-Varaždinska | 3.96%
-Virovitičko-podravska | 0.75%
+Istarska | 0.79%
+Karlovačka | 2.37%
+Zadarska | 0.92%
+Primorsko-goranska | 0.99% 
+Vukovarsko-srijemska | 1.02%
+Šibensko-kninska | 1.15%
+Osječko-baranjska | 2.86%
+Splitsko-dalmatinska | 0.95%
+Bjelovarsko-bilogorska | 1.72%
+Brodsko-posavska | 0.88%
+Dubrovačko-neretvanska | 1.20%
+Zagrebačka | 0.11%
+Grad Zagreb | 1.82%
+Koprivničko-križevačka | 1.86% 
+Krapinsko-zagorska | 1.81%
+Ličko-senjska | 2.13%
+Međimurska | 1.12%
+Požeško-slavonska | 1.19%
+Sisačko-moslavačka | 0.92%
+Varaždinska | 1.11%
+Virovitičko-podravska | 0.78%
 
 ### Zaključak
 
@@ -397,7 +401,7 @@ Na sljedećem grafu prikazan je ukupan broj preminulih osoba prema dobi u jesens
 
 ### Graf
 
-![image](/22_11_2020/2211_preminuli_dob_jesen.png)
+![image](/29_11_2020/2911_preminuli_dob_jesen.png)
 
 ### Zaključak
 
@@ -411,19 +415,12 @@ Metrika koja može govoriti o razmjeru epidemije, ali se mora uzeti u obzir broj
 
 ### Graf
 
-![image](/22_11_2020/2211_udio_pozitivnih_testova.png)
+![image](/29_11_2020/2911_udio_pozitivnih_testova.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Broj testiranih | Udio pozitivnih
 :---  | :---: | :---:
-9.studeni | 5670 | 27%
-10.studeni | 7803 | 19%
-11.studeni | 9681 | 27%
-12.studeni | 10156 | 30%
-13.studeni | 9417 | 32%
-14.studeni | 9614 | 30%
-15.studeni | 8175 | 29%
 16.studeni | 4861 | 27%
 17.studeni | 7262 | 27%
 18.studeni | 9126 | 36%
@@ -431,12 +428,21 @@ Datum | Broj testiranih | Udio pozitivnih
 20.studeni | 8321 | 36%
 21.studeni | 9877 | 36%
 22.studeni | 9216 | 36%
+23.studeni | 6139 | 32%
+24.studeni | 8944 | 26%
+25.studeni | 10194 | 35%
+26.studeni | 11487 | 35%
+27.studeni | 11091 | 37%
+28.studeni | 11282 | 35%
+29.studeni | 8217 | 36%
 
 ### Zaključak
 
 Udio pozitivnih testova konstantno raste te je zadnjih nekoliko dana `dosegnuo maksimum`. Postoje dva moguća objašnjenja: 1. Dobro se "lovi" većina slučajeva te se testiraju velikim dijelom samo zaraženi, 2. Raširenost epidemije među populacijom znatno premašuje kapacitete testiranja.
 
 ## Dobno-spolna piramida potvrđenih slučajeva u jesenskom valu epidemije
+
+* Podaci od 22.11.2020
 
 Animirani prikaz broja slučajeva prema spolu u različitim dobnim skupinama kroz jesenski val epidemije. Daje dobar uvid u zaraženost pojedinih skupina kroz vrijeme.
 
