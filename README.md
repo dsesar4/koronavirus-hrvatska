@@ -56,7 +56,7 @@ Datum | Ukupno hospitalizirani | Tjedna promjena
 
 ### Zaključak
 
-Broj hospitaliziranih osoba `smanjuje rast kroz cijeli studeni`. S obzirom da se sad već radi o velikom broju osoba, ovakvo ponašanje je i očekivano te time dijelom opravdano. No, iako graf izgleda dobro, i dalje je prisutan porast te je stoga za očekivati i porast broja preminulih u idućim tjednima.
+Broj hospitaliziranih osoba `smanjuje rast kroz cijeli studeni`. S obzirom da se sad već radi o velikom broju osoba, ovakvo ponašanje je i očekivano te time dijelom opravdano. No, iako graf izgleda dobro, i dalje je prisutan porast te je stoga za očekivati i porast broja preminulih u idućim danima, moguće i tjednima.
 
 ## Tjedna promjena broja osoba na respiratoru
 
