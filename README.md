@@ -149,7 +149,7 @@ Datum | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-Na razini države epidemija je ubrzavala širenje kroz cijeli studeni i velik broj ljudi se zarazio. Na sreću, proteklih tjedan dana dolazi do `pada stopa porasta širenja epidemije`, a zadnjih par dana te vrijednosti su `bliske stagnaciji`. To može upućivati da je Hrvatska krajem studenog prošla vrh epidemije, ali potreban je duži ovakav trend da bi se to tvrdilo sa sigurnošću.
+Na razini države epidemija je ubrzavala širenje kroz cijeli studeni i velik broj ljudi se zarazio. Na sreću, proteklih tjedan dana dolazi do `pada stopa ubrzavanja širenja epidemije`, a zadnjih par dana te vrijednosti su `bliske stagnaciji`. To može upućivati da je Hrvatska krajem studenog prošla vrh epidemije, ali potreban je duži ovakav trend da bi se to tvrdilo sa sigurnošću.
 
 ## Tjedna promjena broja novih slučajeva - Zagreb
 
