@@ -215,6 +215,8 @@ Stope rasta broja aktivnih slučajeva su nakon povećavanja kroz velik dio stude
 
 ## Tjedna promjena broja novih slučajeva prema dobi
 
+- Podaci od 29.11.2020
+
 Metrika koja govori o brzini širenja epidemije među različitim uzrastima. Situacija koja bi dovela do usporavanja epidemije je da su sve (ili većina) vrijednosti negativne, a ukoliko to nije moguće, bilo bi dobro da je veći porast koncentriran na lijevu stranu grafa jer su mladi daleko manje ugroženi od starijih osoba (osobito 70+ godina).
 
 ### Graf
@@ -241,6 +243,8 @@ Raspon godina | Tjedna promjena
 S grafa je vidljivo da epidemija `ubrzava širenje po svim dobnim skupinama`. Posebno je alarmantan podatak o vrlo velikom tjednom porastu broja slučajeva kod osoba starijih od 90 godina. Posljedica bi mogla biti da u idućim danima i tjednima dođe do dodatnog porasta broja hospitaliziranih i preminulih.
 
 ## Tjedna promjena broja novih slučajeva kod osoba starijih od 60 godina
+
+- Podaci od 29.11.2020
 
 Metrika koja govori o brzini širenja epidemije među osobama starijim od 60 godina, tj. u rizičnoj skupini. S obzirom da je najveći udio preminulih iz ove skupine, prema navedenom grafu može se prognozirati porast/pad broja preminulih u sljedećim danima i tjednima. Vrijednosti na ovome grafu moraju biti što manje kako bi i dnevni broj preminulih počeo padati.
 
@@ -437,6 +441,8 @@ Datum | Broj testiranih | Udio pozitivnih
 Udio pozitivnih testova konstantno raste te je već duže vrijeme uz manje oscilacije `dosegnuo maksimum od otprilike 35%`. Postoje dva moguća objašnjenja: 1. Dobro se "lovi" većina slučajeva te se testiraju velikim dijelom samo zaraženi, 2. Raširenost epidemije među populacijom znatno premašuje kapacitete testiranja. Iako je na početku puno točnija bila druga pretpostavka, dolaskom sve hladnijeg vremena (time i rasta udjela ozbiljnije bolesnih) i povećanjem kapaciteta testiranja moguće je da i prva teza zadnje vrijeme donekle drži vodu.
 
 ## Dobno-spolna piramida potvrđenih slučajeva u jesenskom valu epidemije
+
+- Podaci od 29.11.2020
 
 Animirani prikaz broja slučajeva prema spolu u različitim dobnim skupinama kroz jesenski val epidemije. Daje dobar uvid u zaraženost pojedinih skupina kroz vrijeme.
 
