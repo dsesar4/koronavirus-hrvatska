@@ -1,4 +1,4 @@
-# 29. studeni 2020. - Pregled epidemiološke situacije
+# 06. prosinac 2020. - Pregled epidemiološke situacije
 
 ## Način mjerenja
 
@@ -33,19 +33,12 @@ Vrlo važna metrika koja mnogo govori o brzini širenja epidemije, znatno točni
 
 ### Graf
 
-![image](/29_11_2020/2911_promjena_hospitaliziranih.png)
+![image](/06_12_2020/0612_promjena_hospitaliziranih.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Ukupno hospitalizirani | Tjedna promjena
 :---  | :---: | :---: 
-16.studeni | 1816 | 25%
-17.studeni | 1827 | 24%
-18.studeni | 1878 | 23%
-19.studeni | 1944 | 23%
-20.studeni | 1992 | 23%
-21.studeni | 1981 | 22%
-22.studeni | 2013 | 21%
 23.studeni | 2060 | 20%
 24.studeni | 2093 | 19%
 25.studeni | 2136 | 17%
@@ -53,10 +46,17 @@ Datum | Ukupno hospitalizirani | Tjedna promjena
 27.studeni | 2240 | 15%
 28.studeni | 2221 | 14%
 29.studeni | 2273 | 13%
+30.studeni | 2358 | 13%
+1.prosinac | 2351 | 13%
+2.prosinac | 2408 | 13%
+3.prosinac | 2501 | 13%
+4.prosinac | 2427 | 13%
+5.prosinac | 2514 | 13%
+6.prosinac | 2543 | 13%
 
 ### Zaključak
 
-Broj hospitaliziranih osoba `smanjuje ubrzavanje kroz cijeli studeni`. S obzirom da se sad već radi o velikom broju osoba, ovakvo ponašanje je i očekivano te time dijelom opravdano. No, iako graf izgleda dobro, i dalje je prisutan porast te je stoga za očekivati i porast broja preminulih u idućim danima, moguće i tjednima.
+Broj hospitaliziranih osoba je nakon opadanja porasta kroz cijeli studeni u `zadnjih tjedan dana zaustavio stopu porasta na 13%`. To bi značilo da broj hospitaliziranih i dalje raste. Moguće je da ovo treba pripisati sezonalnosti bolesti te da u ovo doba godine znatno veći udio zaraženih završava u bolnici, iako broj zaraženih u stvari ne raste proporcionalno. U svakom slučaju, trend zasad nije povoljan i može se očekivati dodatan (manji) porast dnevnog broja preminulih osoba.
 
 ## Tjedna promjena broja osoba na respiratoru
 
@@ -64,19 +64,12 @@ Također vrlo važna metrika koja mnogo govori o brzini širenja epidemije, s na
 
 ### Graf
 
-![image](/29_11_2020/2911_promjena_respirator.png)
+![image](/06_12_2020/0612_promjena_respirator.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Ukupno na respiratoru | Tjedna promjena
 :---  | :---: | :---:
-16.studeni | 191 | 41%
-17.studeni | 196 | 36%
-18.studeni | 205 | 30%
-19.studeni | 204 | 26%
-20.studeni | 217 | 25%
-21.studeni | 213 | 21%
-22.studeni | 223 | 19%
 23.studeni | 235 | 17%
 24.studeni | 244 | 19%
 25.studeni | 240 | 19%
@@ -84,10 +77,17 @@ Datum | Ukupno na respiratoru | Tjedna promjena
 27.studeni | 266 | 20%
 28.studeni | 262 | 21%
 29.studeni | 260 | 21%
+30.studeni | 255 | 19%
+1.prosinac | 245 | 16%
+2.prosinac | 252 | 14%
+3.prosinac | 258 | 11%
+4.prosinac | 262 | 7%
+5.prosinac | 259 | 4%
+6.prosinac | 264 | 2%
 
 ### Zaključak
 
-Promjena broja osoba na respiratoru je nakon `smanjivanja ubrzavanja kroz veći dio studenog` stala na stopama ubrzavanja od oko `20% posljednjih tjedan dana`. Ovo nije dobar trend te nažalost najavljuje dodatan porast broja preminulih u nadolazećim danima, moguće i tjednima.
+Promjena broja osoba na respiratoru je nakon stagnacije protekli tjedan ovaj tjedan nastavila `smanjivati stope porasta` i time zadnjih dana došla do vrijednosti bliskih stagnaciji. Ovo je pozitivan pomak i naznačava da broj osoba na respiratoru već tjedan dana ostaje otprilike isti. Nažalost, to je velikim dijelom tako jer velik broj osoba s respiratora premine i samo ih zamjene novi, ali ukoliko se ovakav trend nastavi onda bi to značilo da ipak sve manje osoba završava na respiratoru. Ukoliko bi se povukla paralela s kretanjem epidemije, zaključak bi bio da je prije otprilike dva tjedna epidemija došla do vrhunca i započela je stagnacija brzine njezinog širenja. Ipak, možda je prerano za ovakav zaključak i treba pričekati još barem tjedan dana da se dobar trend nastavi.
 
 ## Tjedna promjena broja novih preminulih osoba
 
@@ -95,19 +95,12 @@ Važna metrika koja mnogo govori o razmjerima epidemije, također točnije od br
 
 ### Graf
 
-![image](/29_11_2020/2911_promjena_preminulih.png)
+![image](/06_12_2020/0612_promjena_preminulih.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Novi preminuli | Tjedna promjena
 :---  | :---: | :---: 
-16.studeni | 33 | 5%
-17.studeni | 31 | 5%
-18.studeni | 38 | 8%
-19.studeni | 49 | 14%
-20.studeni | 57 | 15%
-21.studeni | 47 | 17%
-22.studeni | 49 | 19%
 23.studeni | 45 | 26%
 24.studeni | 47 | 34%
 25.studeni | 56 | 36%
@@ -115,30 +108,30 @@ Datum | Novi preminuli | Tjedna promjena
 27.studeni | 48 | 19%
 28.studeni | 55 | 18%
 29.studeni | 57 | 18%
+30.studeni | 74 | 23%
+1.prosinac | 75 | 25%
+2.prosinac | 55 | 19%
+3.prosinac | 48 | 17%
+4.prosinac | 68 | 26%
+5.prosinac | 70 | 27%
+6.prosinac | 72 | 29%
 
 ### Zaključak
 
-Broj novih preminulih osoba nema određen trend, ali vidljivo je `smanjivanje ubrzavanja u odnosu na prvi dio studenog`. Ipak, u zadnja dva tjedna trend nije dobar te upućuje da broj novih preminulih osoba stalno raste. To je posljedica velikog broja zaraženih u prvom dijelu studenog, tj. ubrzavanja širenja epidemije.
+Broj novih preminulih uz povremen oscilacije nažalost i dalje `ima trend porasta`. S obzirom na ponašanje broja hospitaliziranih i osoba na respiratoru, ovakvo ponašanje krivulje je očekivano. To također upućuje da je epidemija ubrzavala širenje prije otprilike tri tjedna, dakle sredinom studenog. Ipak, moguće je da broj zaraženih nije proporcionalno rastao (tj. da je rastao u manjoj mjeri) jer se radi o sezonalnoj bolesti koja uzrokuje veći broj preminulih u hladnom dijelu godine.
 
 ## Tjedna promjena broja novih slučajeva - Hrvatska
 
-Metrika koja govori o razmjerima epidemije s zakašnjenjem od 5-7 dana, koliko je potrebno da osoba dobije simptome, testira se i dobije rezultat testa. Problem je, naravno, što se nikako ne može "uloviti" sve zaražene te se računa da ih je u stvarnosti možda i 10 puta više. Dodatno, ako se značajno promijeni broj testiranih, porast će i broj zaraženih jer on uglavnom proporcionalno ovisi o broju testiranih. Ipak, u Hrvatskoj se ne testira velik broj nasumično odabranih ljudi pa se može reći da je ova metrika kroz vrijeme jednako reprezentativna, osobito u jesenskom valu epidemije.
+Metrika koja govori o razmjerima epidemije sa zakašnjenjem od 5-7 dana, koliko je potrebno da osoba dobije simptome, testira se i dobije rezultat testa. Problem je, naravno, što se nikako ne može "uloviti" sve zaražene. Računa se da je u toplijem dijelu godine broj neregistriranih slučajeva bio i do nekoliko desetaka puta veći od službenih brojki jer je bolest sezonalna i u tom dijelu godine uzrokuje velik udio asimptomatskih ili vrlo blagih slučajeva koji se ne testiraju. Dolaskom hladnijeg dijela godine registrira se sve veći udio zaraženih jer su sve učestaliji teži slučajevi koji završavaju na testiranju pa je stvarna brojka na dnevnoj razini trenutno samo nekoliko puta veća od službene. 
 
 ### Graf
 
-![image](/29_11_2020/2911_promjena_slucajeva_ukupno.png)
+![image](/06_12_2020/0612_promjena_slucajeva_ukupno.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Novi slučajevi | Tjedna promjena
 :---  | :---: | :---:
-16.studeni | 1313 | 4%
-17.studeni | 1945 | 7%
-18.studeni | 3251 | 10%
-19.studeni | 3164 | 9%
-20.studeni | 2958 | 7%
-21.studeni | 3573 | 8%
-22.studeni | 3308 | 15%
 23.studeni | 1973 | 20%
 24.studeni | 2323 | 19%
 25.studeni | 3603 | 17%
@@ -146,10 +139,17 @@ Datum | Novi slučajevi | Tjedna promjena
 27.studeni | 4080 | 28%
 28.studeni | 3987 | 25%
 29.studeni | 2919 | 17%
+30.studeni | 1830 | 13%
+1.prosinac | 2900 | 14%
+2.prosinac | 3539 | 11%
+3.prosinac | 4534 | 9%
+4.prosinac | 3955 | 3%
+5.prosinac | 4084 | 2%
+6.prosinac | 2899 | 4%
 
 ### Zaključak
 
-Na razini države epidemija je `polagano ubrzavala širenje kroz cijeli studeni` i velik broj ljudi se zarazio. To upućuje da u idućim danima i tjednima može doći do dodatnog porasta broja hospitaliziranih i preminulih osoba.
+Na razini države epidemija je ubrzavala širenje kroz cijeli studeni i velik broj ljudi se zarazio. Na sreću, proteklih tjedan dana dolazi do `pada stopa porasta širenja epidemije`, a zadnjih par dana te vrijednosti su `bliske stagnaciji`. To može upućivati da je Hrvatska krajem studenog prošla vrh epidemije, ali potreban je duži ovakav trend da bi se to tvrdilo sa sigurnošću.
 
 ## Tjedna promjena broja novih slučajeva - Zagreb
 
@@ -157,19 +157,12 @@ Za Zagreb se može smatrati da je (uz još nekoliko županija) nešto ispred ost
 
 ### Graf
 
-![image](/29_11_2020/2911_promjena_slucajeva_zg.png)
+![image](/06_12_2020/0612_promjena_slucajeva_zg.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Novi slučajevi | Tjedna promjena
 :---  | :---: | :---:
-16.studeni | 291 | -2%
-17.studeni | 421 | -3%
-18.studeni | 604 | -2%
-19.studeni | 609 | -6%
-20.studeni | 624 | -6%
-21.studeni | 822 | 2%
-22.studeni | 560 | 10%
 23.studeni | 343 | 12%
 24.studeni | 445 | 11%
 25.studeni | 595 | 11%
@@ -177,10 +170,17 @@ Datum | Novi slučajevi | Tjedna promjena
 27.studeni | 607 | 15%
 28.studeni | 647 | 2%
 29.studeni | 349 | -8%
+30.studeni | 236 | -12%
+1.prosinac | 506 | -11%
+2.prosinac | 639 | -10%
+3.prosinac | 669 | -9%
+4.prosinac | 740 | -5%
+5.prosinac | 675 | 0%
+6.prosinac | 384 | 7%
 
 ### Zaključak
 
-Zagreb je `velik dio studenog proveo uz trend usporavanja epidemije`. To potvrđuje tvrdnju da je Zagreb ispred ostatka zemlje gdje je zabilježeno ubrzavanje epidemije, često značajno. Iako je epidemija opet ušla u fazu ubrzavanja velik dio proteklog tjedna, taj trend se naglo vratio prema usporavanju zadnja dva dana.
+Zagreb je `velik dio studenog i početak prosinca proveo uz trend usporavanja širenja epidemije`. To potvrđuje tvrdnju da je Zagreb ispred ostatka zemlje gdje je zabilježeno ubrzavanje širenja epidemije, često značajno. Za očekivati je povremene kraće periode pozitivnih stopa brzine širenja epidemije, ali ukoliko se gleda šira slika, Zagreb već duže vrijeme stoji dobro po pitanju brzine širenja epidemije te broj oboljelih polagano opada. S druge strane, zbog sezonalnosti bolesti, moguće je da broj težih slučajeva svejedno raste na jednakoj razini jer dolaskom hladnijeg dijela godine bolest uzrokuje veći udio takvih slučajeva.
 
 ## Tjedna promjena broja aktivnih slučajeva
 
@@ -188,19 +188,12 @@ Metrika koja govori o brzini širenja epidemije, vrlo slično kao promjena broja
 
 ### Graf
 
-![image](/29_11_2020/2911_promjena_aktivnih.png)
+![image](/06_12_2020/0612_promjena_aktivnih.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Ukupno aktivnih | Tjedna promjena
 :---  | :---: | :---:
-16.studeni | 15699 | 6%
-17.studeni | 15371 | 7%
-18.studeni | 16891 | 7%
-19.studeni | 17814 | 8%
-20.studeni | 18193 | 8%
-21.studeni | 19079 | 8%
-22.studeni | 19985 | 10%
 23.studeni | 19275 | 12%
 24.studeni | 19161 | 15%
 25.studeni | 20691 | 17%
@@ -208,10 +201,17 @@ Datum | Ukupno aktivnih | Tjedna promjena
 27.studeni | 22408 | 21%
 28.studeni | 23573 | 22%
 29.studeni | 23062 | 22%
+30.studeni | 21457 | 20%
+1.prosinac | 21250 | 18%
+2.prosinac | 22610 | 16%
+3.prosinac | 23942 | 15%
+4.prosinac | 24190 | 12%
+5.prosinac | 24190 | 9%
+6.prosinac | 23740 | 8%
 
 ### Zaključak
 
-`Broj aktivno oboljelih polagano ubrzava rast kroz cijeli studeni`, dakle vrijedi isti zaključak kao za potvrđene slučajeve te se i dalje više ljudi razboljeva nego što ozdravlja.
+Stope rasta broja aktivnih slučajeva su nakon povećavanja kroz velik dio studenog `u posljednjih tjedan dana dobile trend opadanja`, te bi uskoro moglo doći do stagnacije. To također može upućivati na zaključak da je epidemija dosegnula vrhunac krajem studenog. Ipak, i dalje se radi o pozitivnih stopama što znači da se i dalje veći broj ljudi razboli nego što ozdravi na tjednoj razini.
 
 ## Tjedna promjena broja novih slučajeva prema dobi
 
