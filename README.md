@@ -397,17 +397,15 @@ S karte je vidljivo da većina županija ima prilično visok CFR. Primjerice, u 
 
 ## Preminule osobe u jesenskom valu epidemije
 
-- Podaci od 29.11.2020
-
 Na sljedećem grafu prikazan je ukupan broj preminulih osoba prema dobi u jesenskom valu epidemije, počevši od 1. rujna.
 
 ### Graf
 
-![image](/29_11_2020/2911_preminuli_dob_jesen.png)
+![image](/06_12_2020/0612_preminuli_dob_jesen.png)
 
 ### Zaključak
 
-Kao što je očekivano, najveći broj preminulih su osobe starije od 60 godina, a najveća koncentracija je između 77 i 87 godina. Prosječna dob osoba preminulih u jesenskom valu epidemije je 77 godina. Broj preminulih muškaraca (893) je znatno veći od broja preminulih žena (627). Muškarci u prosjeku umiru skoro četiri godine mlađi.
+Kao što je očekivano, najveći broj preminulih su osobe starije od 60 godina, a najveća koncentracija je između 77 i 87 godina. Prosječna dob osoba preminulih u jesenskom valu epidemije je 77 godina. Broj preminulih muškaraca (1166) je znatno veći od broja preminulih žena (815). Muškarci u prosjeku umiru skoro četiri godine mlađi.
 
 ## Udio pozitivnih testova
 
