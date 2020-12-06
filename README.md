@@ -118,7 +118,7 @@ Datum | Novi preminuli | Tjedna promjena
 
 ### Zaključak
 
-Broj novih preminulih osoba uz povremene oscilacije nažalost i dalje `ima trend porasta`. S obzirom na ponašanje broja hospitaliziranih i osoba na respiratoru, ovakvo ponašanje krivulje je očekivano. To također upućuje da je epidemija ubrzavala širenje prije otprilike tri tjedna, dakle sredinom studenog. Ipak, moguće je da broj zaraženih nije proporcionalno rastao (tj. da je rastao u manjoj mjeri) jer se radi o sezonalnoj bolesti koja uzrokuje veći broj preminulih u hladnom dijelu godine.
+Broj novih preminulih osoba uz povremene oscilacije nažalost i dalje `ima trend porasta`. S obzirom na broj hospitaliziranih i osoba na respiratoru, ovakvo ponašanje krivulje je očekivano. To također upućuje da je epidemija ubrzavala širenje prije otprilike tri tjedna, dakle sredinom studenog. Ipak, moguće je da broj zaraženih nije proporcionalno rastao (tj. da je rastao u manjoj mjeri) jer se radi o sezonalnoj bolesti koja uzrokuje veći broj preminulih u hladnom dijelu godine.
 
 ## Tjedna promjena broja novih slučajeva - Hrvatska
 
