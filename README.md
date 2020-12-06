@@ -87,7 +87,7 @@ Datum | Ukupno na respiratoru | Tjedna promjena
 
 ### Zaključak
 
-Promjena broja osoba na respiratoru je nakon stagnacije protekli tjedan ovaj tjedan nastavila `smanjivati stope porasta` i time zadnjih dana došla do vrijednosti bliskih stagnaciji. Ovo je pozitivan pomak i naznačava da broj osoba na respiratoru već tjedan dana ostaje otprilike isti. Nažalost, to je velikim dijelom tako jer velik broj osoba s respiratora premine i samo ih zamjene novi, ali ukoliko se ovakav trend nastavi onda bi to značilo da ipak sve manje osoba završava na respiratoru. Ukoliko bi se povukla paralela s kretanjem epidemije, zaključak bi bio da je prije otprilike dva tjedna epidemija došla do vrhunca i započela je stagnacija brzine njezinog širenja. Ipak, možda je prerano za ovakav zaključak i treba pričekati još barem tjedan dana da se dobar trend nastavi.
+Promjena broja osoba na respiratoru je nakon stagnacije protekli tjedan ovaj tjedan nastavila `smanjivati stope porasta` i time zadnjih dana došla do vrijednosti bliskih stagnaciji. Ovo je pozitivan pomak i naznačava da broj osoba na respiratoru već tjedan dana ostaje otprilike isti. Nažalost, to je velikim dijelom tako jer velik broj osoba s respiratora premine i samo ih zamjene novi, ali ukoliko se ovakav trend nastavi onda bi to značilo da ipak sve manje osoba završava na respiratoru. Ukoliko bi se povukla paralela s kretanjem epidemije, zaključak bi bio da je prije otprilike dva tjedna epidemija došla do vrhunca. Ipak, možda je prerano za ovakav zaključak i treba pričekati još barem tjedan dana da se dobar trend nastavi.
 
 ## Tjedna promjena broja novih preminulih osoba
 
@@ -407,7 +407,7 @@ Kao što je očekivano, najveći broj preminulih su osobe starije od 60 godina, 
 
 Metrika koja može govoriti o razmjeru epidemije, ali se mora uzeti u obzir broj testiranja. Ukoliko se testira malo, očekivano je da je ta brojka veća, pogotovo ako je epidemija jače raširena među populacijom.
 
-> Izračun se vrši tako da se broj zaraženih podijeli s brojem testiranih.
+> Izračun se vrši tako da se broj zaraženih za svaki dan podijeli s brojem testiranih.
 
 ### Graf
 
@@ -417,13 +417,6 @@ Metrika koja može govoriti o razmjeru epidemije, ali se mora uzeti u obzir broj
 
 Datum | Broj testiranih | Udio pozitivnih
 :---  | :---: | :---:
-16.studeni | 4861 | 27%
-17.studeni | 7262 | 27%
-18.studeni | 9126 | 36%
-19.studeni | 8770 | 36%
-20.studeni | 8321 | 36%
-21.studeni | 9877 | 36%
-22.studeni | 9216 | 36%
 23.studeni | 6139 | 32%
 24.studeni | 8944 | 26%
 25.studeni | 10194 | 35%
@@ -431,10 +424,17 @@ Datum | Broj testiranih | Udio pozitivnih
 27.studeni | 11091 | 37%
 28.studeni | 11282 | 35%
 29.studeni | 8217 | 36%
+30.studeni | 5027 | 36%
+1.prosinac | 9668 | 30%
+2.prosinac | 10077 | 35%
+3.prosinac | 11166 | 41%
+4.prosinac | 10626 | 37%
+5.prosinac | 10662 | 38%
+6.prosinac | 9340 | 31%
 
 ### Zaključak
 
-Udio pozitivnih testova konstantno raste te je zadnja dva tjedna `dosegnuo maksimum`. Postoje dva moguća objašnjenja: 1. Dobro se "lovi" većina slučajeva te se testiraju velikim dijelom samo zaraženi, 2. Raširenost epidemije među populacijom znatno premašuje kapacitete testiranja.
+Udio pozitivnih testova konstantno raste te je već duže vrijeme uz manje oscilacije `dosegnuo maksimum od otprilike 35%`. Postoje dva moguća objašnjenja: 1. Dobro se "lovi" većina slučajeva te se testiraju velikim dijelom samo zaraženi, 2. Raširenost epidemije među populacijom znatno premašuje kapacitete testiranja. Iako je na početku puno točnija bila druga pretpostavka, dolaskom sve hladnijeg vremena (time i rasta udjela ozbiljnije bolesnih) i povećanjem kapaciteta testiranja moguće je da i prva teza zadnje vrijeme donekle drži vodu.
 
 ## Dobno-spolna piramida potvrđenih slučajeva u jesenskom valu epidemije
 
