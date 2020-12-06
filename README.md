@@ -56,7 +56,7 @@ Datum | Ukupno hospitalizirani | Tjedna promjena
 
 ### Zaključak
 
-Broj hospitaliziranih osoba je nakon opadanja porasta kroz cijeli studeni u `zadnjih tjedan dana zaustavio stopu porasta na 13%`. To bi značilo da broj hospitaliziranih i dalje raste. Moguće je da ovo treba pripisati sezonalnosti bolesti te da u ovo doba godine znatno veći udio zaraženih završava u bolnici, iako broj zaraženih u stvari ne raste proporcionalno. U svakom slučaju, trend zasad nije povoljan i može se očekivati dodatan (manji) porast dnevnog broja preminulih osoba.
+Broj hospitaliziranih osoba je nakon smanjivanja stopa porasta kroz cijeli studeni u `zadnjih tjedan dana zaustavio taj trend na 13%`. To znači da broj hospitaliziranih i dalje ubrzano raste. Moguće je da ovo treba pripisati sezonalnosti bolesti te da u ovo doba godine znatno veći udio zaraženih završava u bolnici, iako broj zaraženih u stvari ne raste proporcionalno. U svakom slučaju, trend zasad nije povoljan i može se očekivati dodatan (manji) porast dnevnog broja preminulih osoba.
 
 ## Tjedna promjena broja osoba na respiratoru
 
@@ -87,7 +87,7 @@ Datum | Ukupno na respiratoru | Tjedna promjena
 
 ### Zaključak
 
-Promjena broja osoba na respiratoru je nakon stagnacije protekli tjedan ovaj tjedan nastavila `smanjivati stope porasta` i time zadnjih dana došla do vrijednosti bliskih stagnaciji. Ovo je pozitivan pomak i naznačava da broj osoba na respiratoru već tjedan dana ostaje otprilike isti. Nažalost, to je velikim dijelom tako jer velik broj osoba s respiratora premine i samo ih zamjene novi, ali ukoliko se ovakav trend nastavi onda bi to značilo da ipak sve manje osoba završava na respiratoru. Ukoliko bi se povukla paralela s kretanjem epidemije, zaključak bi bio da je prije otprilike dva tjedna epidemija došla do vrhunca. Ipak, možda je prerano za ovakav zaključak i treba pričekati još barem tjedan dana da se dobar trend nastavi.
+Broj osoba na respiratoru je nakon konstantnog porasta protekli tjedan ovaj tjedan ponovno započeo `smanjivati stope porasta` i time zadnjih dana došao do vrijednosti bliskih stagnaciji. Ovo je pozitivan pomak i naznačava da broj osoba na respiratoru već tjedan dana ostaje otprilike isti. Nažalost, to je značajnim dijelom tako jer velik broj osoba s respiratora premine i samo ih zamjene novi, ali ukoliko se ovakav trend nastavi onda bi to značilo da ipak sve manje osoba završava na respiratoru. Ukoliko bi se povukla paralela s kretanjem epidemije, zaključak bi bio da je prije otprilike dva tjedna epidemija došla do vrhunca. Ipak, možda je prerano za ovakav zaključak i treba pričekati još barem tjedan dana da se dobar trend nastavi.
 
 ## Tjedna promjena broja novih preminulih osoba
 
@@ -118,7 +118,7 @@ Datum | Novi preminuli | Tjedna promjena
 
 ### Zaključak
 
-Broj novih preminulih uz povremen oscilacije nažalost i dalje `ima trend porasta`. S obzirom na ponašanje broja hospitaliziranih i osoba na respiratoru, ovakvo ponašanje krivulje je očekivano. To također upućuje da je epidemija ubrzavala širenje prije otprilike tri tjedna, dakle sredinom studenog. Ipak, moguće je da broj zaraženih nije proporcionalno rastao (tj. da je rastao u manjoj mjeri) jer se radi o sezonalnoj bolesti koja uzrokuje veći broj preminulih u hladnom dijelu godine.
+Broj novih preminulih osoba uz povremene oscilacije nažalost i dalje `ima trend porasta`. S obzirom na ponašanje broja hospitaliziranih i osoba na respiratoru, ovakvo ponašanje krivulje je očekivano. To također upućuje da je epidemija ubrzavala širenje prije otprilike tri tjedna, dakle sredinom studenog. Ipak, moguće je da broj zaraženih nije proporcionalno rastao (tj. da je rastao u manjoj mjeri) jer se radi o sezonalnoj bolesti koja uzrokuje veći broj preminulih u hladnom dijelu godine.
 
 ## Tjedna promjena broja novih slučajeva - Hrvatska
 
