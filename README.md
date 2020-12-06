@@ -180,7 +180,7 @@ Datum | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-Zagreb je `velik dio studenog i početak prosinca proveo uz trend usporavanja širenja epidemije`. To potvrđuje tvrdnju da je Zagreb ispred ostatka zemlje gdje je zabilježeno ubrzavanje širenja epidemije, često značajno. Za očekivati je povremene kraće periode pozitivnih stopa brzine širenja epidemije, ali ukoliko se gleda šira slika, Zagreb već duže vrijeme stoji dobro po pitanju brzine širenja epidemije te broj oboljelih polagano opada. S druge strane, zbog sezonalnosti bolesti, moguće je da broj težih slučajeva svejedno raste na jednakoj razini jer dolaskom hladnijeg dijela godine bolest uzrokuje veći udio takvih slučajeva.
+Zagreb je `velik dio studenog i početak prosinca proveo uz trend usporavanja širenja epidemije`. To potvrđuje tvrdnju da je Zagreb ispred ostatka zemlje gdje je zabilježeno ubrzavanje širenja epidemije, često značajno. Za očekivati je povremene kraće periode pozitivnih stopa brzine širenja epidemije, ali ukoliko se gleda šira slika, Zagreb već duže vrijeme stoji dobro po pitanju brzine širenja epidemije te broj oboljelih polagano opada.
 
 ## Tjedna promjena broja aktivnih slučajeva
 
