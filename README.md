@@ -56,7 +56,7 @@ Datum | Ukupno hospitalizirani | Tjedna promjena
 
 ### Zaključak
 
-Broj hospitaliziranih osoba je nakon smanjivanja stopa porasta kroz cijeli studeni u `zadnjih tjedan dana zaustavio taj trend na 13%`. To znači da broj hospitaliziranih i dalje ubrzano raste. Moguće je da ovo treba pripisati sezonalnosti bolesti te da u ovo doba godine znatno veći udio zaraženih završava u bolnici, iako broj zaraženih u stvari ne raste proporcionalno. U svakom slučaju, trend zasad nije povoljan i može se očekivati dodatan (manji) porast dnevnog broja preminulih osoba.
+Broj hospitaliziranih osoba je nakon smanjivanja stopa porasta kroz cijeli studeni u zadnjih tjedan dana zaustavio taj trend na 13%. To znači da broj hospitaliziranih i dalje ubrzano raste. Moguće je da ovo treba pripisati sezonalnosti bolesti te da u ovo doba godine znatno veći udio zaraženih završava u bolnici, iako broj zaraženih u stvari ne raste proporcionalno. U svakom slučaju, trend zasad nije povoljan i može se očekivati dodatan (manji) porast dnevnog broja preminulih osoba.
 
 ## Tjedna promjena broja osoba na respiratoru
 
@@ -87,7 +87,7 @@ Datum | Ukupno na respiratoru | Tjedna promjena
 
 ### Zaključak
 
-Broj osoba na respiratoru je nakon konstantnog porasta protekli tjedan ovaj tjedan ponovno započeo `smanjivati stope porasta` i time zadnjih dana došao do vrijednosti bliskih stagnaciji. Ovo je pozitivan pomak i naznačava da broj osoba na respiratoru već tjedan dana ostaje otprilike isti. Nažalost, to je značajnim dijelom tako jer velik broj osoba s respiratora premine i samo ih zamjene novi, ali ukoliko se ovakav trend nastavi onda bi to značilo da ipak sve manje osoba završava na respiratoru. Ukoliko bi se povukla paralela s kretanjem epidemije, zaključak bi bio da je prije otprilike dva tjedna epidemija došla do vrhunca. Ipak, možda je prerano za ovakav zaključak i treba pričekati još barem tjedan dana da se dobar trend nastavi.
+Broj osoba na respiratoru je nakon konstantnog porasta protekli tjedan ovaj tjedan ponovno započeo smanjivati stope porasta i time zadnjih dana došao do vrijednosti bliskih stagnaciji. Ovo je pozitivan pomak i naznačava da broj osoba na respiratoru već tjedan dana ostaje otprilike isti. Nažalost, to je značajnim dijelom tako jer velik broj osoba s respiratora premine i samo ih zamjene novi, ali ukoliko se ovakav trend nastavi onda bi to značilo da ipak sve manje osoba završava na respiratoru. Ukoliko bi se povukla paralela s kretanjem epidemije, zaključak bi bio da je prije otprilike dva tjedna epidemija došla do vrhunca. Ipak, možda je prerano za ovakav zaključak i treba pričekati još barem tjedan dana da se dobar trend nastavi.
 
 ## Tjedna promjena broja novih preminulih osoba
 
@@ -118,7 +118,7 @@ Datum | Novi preminuli | Tjedna promjena
 
 ### Zaključak
 
-Broj novih preminulih osoba uz povremene oscilacije nažalost i dalje `ima trend porasta`. S obzirom na broj hospitaliziranih i osoba na respiratoru, ovakvo ponašanje krivulje je očekivano. To također upućuje da je epidemija ubrzavala širenje prije otprilike tri tjedna, dakle sredinom studenog. Ipak, moguće je da broj zaraženih nije proporcionalno rastao (tj. da je rastao u manjoj mjeri) jer se radi o sezonalnoj bolesti koja uzrokuje veći broj preminulih u hladnom dijelu godine.
+Broj novih preminulih osoba uz povremene oscilacije nažalost i dalje ima trend porasta. S obzirom na broj hospitaliziranih i osoba na respiratoru, ovakvo ponašanje krivulje je očekivano. To također upućuje da je epidemija ubrzavala širenje prije otprilike tri tjedna, dakle sredinom studenog. Ipak, moguće je da broj zaraženih nije proporcionalno rastao (tj. da je rastao u manjoj mjeri) jer se radi o sezonalnoj bolesti koja uzrokuje veći broj preminulih u hladnom dijelu godine.
 
 ## Tjedna promjena broja novih slučajeva - Hrvatska
 
@@ -149,7 +149,7 @@ Datum | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-Na razini države epidemija je ubrzavala širenje kroz cijeli studeni i velik broj ljudi se zarazio. Na sreću, proteklih tjedan dana dolazi do `pada stopa ubrzavanja širenja epidemije`, a zadnjih par dana te vrijednosti su `bliske stagnaciji`. To može upućivati da je Hrvatska krajem studenog prošla vrh epidemije, ali potreban je duži ovakav trend da bi se to tvrdilo sa sigurnošću.
+Na razini države epidemija je ubrzavala širenje kroz cijeli studeni i velik broj ljudi se zarazio. Na sreću, proteklih tjedan dana dolazi do pada stopa ubrzavanja širenja epidemije, a zadnjih par dana te vrijednosti su bliske stagnaciji. To može upućivati da je Hrvatska krajem studenog prošla vrh epidemije, ali potreban je duži ovakav trend da bi se to tvrdilo sa sigurnošću.
 
 ## Tjedna promjena broja novih slučajeva - Zagreb
 
@@ -180,7 +180,7 @@ Datum | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-Zagreb je `velik dio studenog i početak prosinca proveo uz trend usporavanja širenja epidemije`. To potvrđuje tvrdnju da je Zagreb ispred ostatka zemlje gdje je zabilježeno ubrzavanje širenja epidemije, često značajno. Za očekivati je povremene kraće periode pozitivnih stopa brzine širenja epidemije, ali ukoliko se gleda šira slika, Zagreb već duže vrijeme stoji dobro po pitanju brzine širenja epidemije te broj oboljelih polagano opada.
+Zagreb je velik dio studenog i početak prosinca proveo uz trend usporavanja širenja epidemije. To potvrđuje tvrdnju da je Zagreb ispred ostatka zemlje gdje je zabilježeno ubrzavanje širenja epidemije, često značajno. Za očekivati je povremene kraće periode pozitivnih stopa brzine širenja epidemije, ali ukoliko se gleda šira slika, Zagreb već duže vrijeme stoji dobro po pitanju brzine širenja epidemije te broj oboljelih polagano opada.
 
 ## Tjedna promjena broja aktivnih slučajeva
 
@@ -211,7 +211,7 @@ Datum | Ukupno aktivnih | Tjedna promjena
 
 ### Zaključak
 
-Stope rasta broja aktivnih slučajeva su nakon povećavanja kroz velik dio studenog `u posljednjih tjedan dana dobile trend opadanja`, te bi uskoro moglo doći do stagnacije. To također može upućivati na zaključak da je epidemija dosegnula vrhunac krajem studenog. Ipak, i dalje se radi o pozitivnih stopama što znači da se i dalje veći broj ljudi razboli nego što ozdravi na tjednoj razini.
+Stope rasta broja aktivnih slučajeva su nakon povećavanja kroz velik dio studenog u posljednjih tjedan dana dobile trend opadanja, te bi uskoro moglo doći do stagnacije. To također može upućivati na zaključak da je epidemija dosegnula vrhunac krajem studenog. Ipak, i dalje se radi o pozitivnih stopama što znači da se i dalje veći broj ljudi razboli nego što ozdravi na tjednoj razini.
 
 ## Tjedna promjena broja novih slučajeva prema dobi
 
@@ -240,7 +240,7 @@ Raspon godina | Tjedna promjena
 
 ### Zaključak
 
-S grafa je vidljivo da epidemija `ubrzava širenje po svim dobnim skupinama`. Posebno je alarmantan podatak o vrlo velikom tjednom porastu broja slučajeva kod osoba starijih od 90 godina. Posljedica bi mogla biti da u idućim danima i tjednima dođe do dodatnog porasta broja hospitaliziranih i preminulih.
+S grafa je vidljivo da epidemija ubrzava širenje po svim dobnim skupinama. Posebno je alarmantan podatak o vrlo velikom tjednom porastu broja slučajeva kod osoba starijih od 90 godina. Posljedica bi mogla biti da u idućim danima i tjednima dođe do dodatnog porasta broja hospitaliziranih i preminulih.
 
 ## Tjedna promjena broja novih slučajeva kod osoba starijih od 60 godina
 
@@ -273,7 +273,7 @@ Datum | Novi slučajevi | Tjedna promjena
 
 ### Zaključak
 
-Epidemija je među najugroženijima `polako ubrzavala širenje kroz cijeli studeni`. Zadnjih desetak dana ponovno se uočavaju veće stope rasta broja slučajeva, a to bi nažalost moglo uzrokovati dodatan rast broja hospitaliziranih i preminulih osoba u idućim danima i tjednima.
+Epidemija je među najugroženijima polako ubrzavala širenje kroz cijeli studeni. Zadnjih desetak dana ponovno se uočavaju veće stope rasta broja slučajeva, a to bi nažalost moglo uzrokovati dodatan rast broja hospitaliziranih i preminulih osoba u idućim danima i tjednima.
 
 ## Županije - Tjedna promjena broja novih slučajeva
 
@@ -281,119 +281,119 @@ Ova karta daje brz i jednostavan uvid u epidemiološko stanje županija u protek
 
 ### Karta
 
-![image](/29_11_2020/2911_promjena_karta.png)
+![image](/06_12_2020/0612_promjena_karta.png)
 
 ### Tablica
 
 Županija | Tjedna promjena
 :---  | :---:
-Istarska | 18%
-Karlovačka | 110%
-Zadarska | 43%
-Primorsko-goranska | 29% 
-Vukovarsko-srijemska | 4%
-Šibensko-kninska | 38%
-Osječko-baranjska | 1%
-Splitsko-dalmatinska | 26%
-Bjelovarsko-bilogorska | 40%
-Brodsko-posavska | 38%
-Dubrovačko-neretvanska | -4%
-Zagrebačka | 4%
-Grad Zagreb | -8%
-Koprivničko-križevačka | 21% 
-Krapinsko-zagorska | 22%
-Ličko-senjska | 22%
-Međimurska | 25%
-Požeško-slavonska | -3%
-Sisačko-moslavačka | 27%
-Varaždinska | 34%
-Virovitičko-podravska | 40%
+Istarska | -8%
+Karlovačka | -3%
+Zadarska | 0%
+Primorsko-goranska | 5% 
+Vukovarsko-srijemska | 35%
+Šibensko-kninska | 23%
+Osječko-baranjska | 7%
+Splitsko-dalmatinska | 0%
+Bjelovarsko-bilogorska | 34%
+Brodsko-posavska | -8%
+Dubrovačko-neretvanska | -25%
+Zagrebačka | -37%
+Grad Zagreb | 7%
+Koprivničko-križevačka | 16% 
+Krapinsko-zagorska | 31%
+Ličko-senjska | 6%
+Međimurska | 5%
+Požeško-slavonska | 83%
+Sisačko-moslavačka | 51%
+Varaždinska | -16%
+Virovitičko-podravska | 26%
 
 ### Zaključak
 
-S karte je jasno vidljivo da epidemija `u većini županija ubrzava širenje`. `Iznimka su grad Zagreb, istok i jug zemlje`. Uz već objašnjeni Zagreb, za istok zemlje može biti slučaj da se dosta ljudi zarazilo tijekom ljeta pa su ti krajevi također ispred ostatka temlje po epidemiološkoj situaciji.
+S karte je vidljivo da su županije bilježile različite rezultate protekli tjedan. Zagrebačko područje i jug zemlje nastavljaju dobar trend i usporavanje širenja epidemije, a pridružila im se u značajnoj mjeri i Varaždinska županija te Istra. Dosta županija došlo je blizu trenda stagnacije brzine širenja epidemije. Ipak, županije koje su do sad bile slabije pogođene s manje zaraženih u proteklom tjednu zabilježile su (značajnije) ubrzavanje širenja epidemije. Nažalost, u tu kategoriju spada i Krapinsko-zagorska županija koja je i u proteklim tjednima bilježila velik broj zaraženih i preminulih.
 
-## Županije - Broj preminulih osoba na 100 000 stanovnika
+## Županije - Broj preminulih osoba na milijun stanovnika
 
-Na sljedećoj karti se dobro vidi koje su županije jače, a koje slabije pogođene prema ukupnom broju preminulih na 100 000 ljudi. Svjetlija crvena boja je indikator manjeg, a tamnija indikator većeg broja preminulih na 100 000 stanovnika.
+Na sljedećoj karti se dobro vidi koje su županije jače, a koje slabije pogođene prema ukupnom broju preminulih na 1 000 000 ljudi. Svjetlija crvena boja je indikator manjeg, a tamnija indikator većeg broja preminulih na milijun stanovnika.
 
 Način izračuna:
 
-> (Ukupan broj preminulih)/(Broj stanovnika/100000)
+> (Ukupan broj preminulih)/(Broj stanovnika/1000000)
 
 ### Karta
 
-![image](/29_11_2020/2911_preminuli_karta.png)
+![image](/06_12_2020/0612_preminuli_karta.png)
 
 ### Tablica
 
-Županija | Broj preminulih na 100 000 stanovnika
+Županija | Broj preminulih na milijun stanovnika
 :---  | :---:
-Istarska | 12
-Karlovačka | 58
-Zadarska | 19
-Primorsko-goranska | 25 
-Vukovarsko-srijemska | 25
-Šibensko-kninska | 26
-Osječko-baranjska | 79
-Splitsko-dalmatinska | 34
-Bjelovarsko-bilogorska | 33
-Brodsko-posavska | 24
-Dubrovačko-neretvanska | 31
-Zagrebačka | 3
-Grad Zagreb | 65
-Koprivničko-križevačka | 45 
-Krapinsko-zagorska | 71
-Ličko-senjska | 59
-Međimurska | 54
-Požeško-slavonska | 22
-Sisačko-moslavačka | 19
-Varaždinska | 52
-Virovitičko-podravska | 17
+Istarska | 139
+Karlovačka | 714
+Zadarska | 235
+Primorsko-goranska | 341 
+Vukovarsko-srijemska | 312
+Šibensko-kninska | 320
+Osječko-baranjska | 954
+Splitsko-dalmatinska | 341
+Bjelovarsko-bilogorska | 376
+Brodsko-posavska | 271
+Dubrovačko-neretvanska | 335
+Zagrebačka | 31
+Grad Zagreb | 823
+Koprivničko-križevačka | 588 
+Krapinsko-zagorska | 963
+Ličko-senjska | 864
+Međimurska | 677
+Požeško-slavonska | 372
+Sisačko-moslavačka | 267
+Varaždinska | 523
+Virovitičko-podravska | 259
 
 ### Zaključak
 
-S karte je jasno vidljivo koje su županije do sada teže bile pogođene, tj. gdje je veći udio umrlih. Nije jasno zašto neki prolaze lošije od drugih, ali se može otprilike reći da je kod pogođenijih najvjerojatnije i veći udio zaraženih te da su ispred ostalih po razvoju epidemije.
+S karte je jasno vidljivo koje su županije do sada teže bile pogođene, tj. gdje je veći udio umrlih. Neke županije, poput Osječko-baranjske i Krapinsko-zagorske stoje vrlo loše, čak u rangu najjače pogođenih država na svijetu. Prosjek na razini države je 462 preminule osobe na milijun stanovnika. Kao zaključak, može se otprilike reći da je kod jače pogođenih vjerojatno veći udio zaraženih te da su ispred ostalih po razvoju epidemije. Također, kopnena Hrvatska stoji lošije od primorske što je vrlo vjerojatno posljedica klime i povoljnijeg vremena na moru.
 
 ## Županije - Udio preminulih u ukupnom broju slučajeva (CFR)
 
-Na sljedećoj karti prikazan je postotni udio ukupnog broja preminulih u ukupnom broju slučajeva za svaku županiju. Ova metrika daje dobar uvid o "lovljenju" ukupnog broja zaraza po županijama. Sve iznad 0.5% (pogotovo značajno) upućuje da je registrirani broj slučajeva znatno manji od stvarnog broja zaraženih.
+Na sljedećoj karti prikazan je postotni udio ukupnog broja preminulih u ukupnom broju slučajeva za svaku županiju. Ova metrika daje dobar uvid o "lovljenju" ukupnog broja zaraza po županijama. Sve iznad 0.5% (pogotovo značajno) upućuje da je registrirani broj slučajeva manji od stvarnog broja zaraženih.
 
 > Izračun se vrši tako da se ukupan broj preminulih podijeli s ukupnim brojem registriranih slučajeva
 
 ### Karta
 
-![image](/29_11_2020/2911_CFR_karta.png)
+![image](/06_12_2020/0612_CFR_karta.png)
 
 ### Tablica
 
 Županija | CFR
 :---  | :---:
-Istarska | 0.79%
-Karlovačka | 2.37%
-Zadarska | 0.92%
-Primorsko-goranska | 0.99% 
-Vukovarsko-srijemska | 1.02%
-Šibensko-kninska | 1.15%
-Osječko-baranjska | 2.86%
+Istarska | 0.75%
+Karlovačka | 2.34%
+Zadarska | 0.88%
+Primorsko-goranska | 1.07% 
+Vukovarsko-srijemska | 1.08%
+Šibensko-kninska | 1.14%
+Osječko-baranjska | 2.91%
 Splitsko-dalmatinska | 0.95%
-Bjelovarsko-bilogorska | 1.72%
-Brodsko-posavska | 0.88%
-Dubrovačko-neretvanska | 1.20%
-Zagrebačka | 0.11%
-Grad Zagreb | 1.82%
+Bjelovarsko-bilogorska | 1.58%
+Brodsko-posavska | 0.85%
+Dubrovačko-neretvanska | 1.19%
+Zagrebačka | 0.10%
+Grad Zagreb | 2.02%
 Koprivničko-križevačka | 1.86% 
-Krapinsko-zagorska | 1.81%
-Ličko-senjska | 2.13%
-Međimurska | 1.12%
-Požeško-slavonska | 1.19%
-Sisačko-moslavačka | 0.92%
+Krapinsko-zagorska | 1.98%
+Ličko-senjska | 2.51%
+Međimurska | 1.15%
+Požeško-slavonska | 1.62%
+Sisačko-moslavačka | 0.97%
 Varaždinska | 1.11%
-Virovitičko-podravska | 0.78%
+Virovitičko-podravska | 0.99%
 
 ### Zaključak
 
-S karte je vidljivo da većina županija ima `prilično visok CFR`. Primjerice, u Osječko-baranjskoj županiji je to blizu 3% te se bez pretjerivanja može reći da je broj zaraženih tamo u stvari barem 5 puta veći nego što je registrirani broj slučajeva. Jedina županija koja odskače prema nižem od očekivanog je Zagrebačka, vjerojatno jer ozbiljno oboljeli idu u bolnicu u Zagreb te se onda i tamo vode kao preminuli ukoliko dođe do takve situacije.
+S karte je vidljivo da većina županija ima prilično visok CFR. Primjerice, u Osječko-baranjskoj županiji je to blizu 3% te se bez pretjerivanja može reći da je broj zaraženih tamo u stvari barem 5 puta veći nego što je registrirani broj slučajeva. Jedina županija koja odskače prema nižem od očekivanog je Zagrebačka, vjerojatno jer ozbiljno oboljeli idu u bolnicu u Zagreb te se onda i tamo vode kao preminuli ukoliko dođe do takve situacije.
 
 ## Preminule osobe u jesenskom valu epidemije
 
@@ -405,7 +405,7 @@ Na sljedećem grafu prikazan je ukupan broj preminulih osoba prema dobi u jesens
 
 ### Zaključak
 
-Kao što je očekivano, najveći broj preminulih su osobe starije od 60 godina, a najveća koncentracija je između `77 i 87 godina`. Prosječna dob osoba preminulih u jesenskom valu epidemije je `77 godina`. Broj preminulih muškaraca (893) je znatno veći od broja preminulih žena (627). Muškarci u prosjeku umiru skoro četiri godine mlađi.
+Kao što je očekivano, najveći broj preminulih su osobe starije od 60 godina, a najveća koncentracija je između 77 i 87 godina. Prosječna dob osoba preminulih u jesenskom valu epidemije je 77 godina. Broj preminulih muškaraca (893) je znatno veći od broja preminulih žena (627). Muškarci u prosjeku umiru skoro četiri godine mlađi.
 
 ## Udio pozitivnih testova
 
@@ -438,7 +438,7 @@ Datum | Broj testiranih | Udio pozitivnih
 
 ### Zaključak
 
-Udio pozitivnih testova konstantno raste te je već duže vrijeme uz manje oscilacije `dosegnuo maksimum od otprilike 35%`. Postoje dva moguća objašnjenja: 1. Dobro se "lovi" većina slučajeva te se testiraju velikim dijelom samo zaraženi, 2. Raširenost epidemije među populacijom znatno premašuje kapacitete testiranja. Iako je na početku puno točnija bila druga pretpostavka, dolaskom sve hladnijeg vremena (time i rasta udjela ozbiljnije bolesnih) i povećanjem kapaciteta testiranja moguće je da i prva teza zadnje vrijeme donekle drži vodu.
+Udio pozitivnih testova konstantno raste te je već duže vrijeme uz manje oscilacije dosegnuo maksimum od otprilike 35%. Postoje dva moguća objašnjenja: 1. Dobro se "lovi" većina slučajeva te se testiraju velikim dijelom samo zaraženi, 2. Raširenost epidemije među populacijom znatno premašuje kapacitete testiranja. Iako je na početku puno točnija bila druga pretpostavka, dolaskom sve hladnijeg vremena (time i rasta udjela ozbiljnije bolesnih) i povećanjem kapaciteta testiranja moguće je da i prva teza zadnje vrijeme donekle drži vodu.
 
 ## Dobno-spolna piramida potvrđenih slučajeva u jesenskom valu epidemije
 
@@ -476,7 +476,7 @@ Raspon godina | Muškarci | Žene
 
 ### Zaključak
 
-Zanimljiva je činjenica da je do sada potvrđeno primjetno `više slučajeva kod žena` (razlika otprilike 4000). Iako je više potvrđenih slučajeva kod žena u ugroženim skupinama, preminulih muškaraca je znatno više. Za ovo su moguća dva objašnjenja, prvo da virus uzrokuje znatno veću smrtnost kod muškaraca, a drugo, vjerojatnije, da se žene u slučaju oboljenja češće odlučuju na testiranje.
+Zanimljiva je činjenica da je do sada potvrđeno primjetno više slučajeva kod žena (razlika otprilike 4000). Iako je više potvrđenih slučajeva kod žena u ugroženim skupinama, preminulih muškaraca je znatno više. Za ovo su moguća dva objašnjenja, prvo da virus uzrokuje znatno veću smrtnost kod muškaraca, a drugo, vjerojatnije, da se žene u slučaju oboljenja češće odlučuju na testiranje.
 
 ## Izvori:
 
