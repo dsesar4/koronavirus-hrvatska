@@ -311,7 +311,7 @@ Virovitičko-podravska | 26%
 
 ### Zaključak
 
-S karte je vidljivo da su županije bilježile različite rezultate protekli tjedan. Zagrebačko područje i jug zemlje nastavljaju dobar trend i usporavanje širenja epidemije, a pridružila im se u značajnoj mjeri i Varaždinska županija te Istra. Dosta županija došlo je blizu trenda stagnacije brzine širenja epidemije. Ipak, županije koje su do sad bile slabije pogođene s manje zaraženih u proteklom tjednu zabilježile su (značajnije) ubrzavanje širenja epidemije. Nažalost, u tu kategoriju spada i Krapinsko-zagorska županija koja je i u proteklim tjednima bilježila velik broj zaraženih i preminulih.
+S karte je vidljivo da su županije bilježile različite rezultate protekli tjedan. Zagrebačko područje i jug zemlje nastavljaju dobar trend i usporavanje širenja epidemije, a pridružila im se u značajnoj mjeri i Varaždinska županija. Dosta županija došlo je blizu trenda stagnacije brzine širenja epidemije. Ipak, županije koje su do sad bile slabije pogođene s manje zaraženih u proteklom tjednu zabilježile su (značajnije) ubrzavanje širenja epidemije. Nažalost, u tu kategoriju spada i Krapinsko-zagorska županija koja je i u proteklim tjednima bilježila velik broj zaraženih i preminulih.
 
 ## Županije - Broj preminulih osoba na milijun stanovnika
 
