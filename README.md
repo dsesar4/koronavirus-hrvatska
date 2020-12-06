@@ -415,7 +415,7 @@ Metrika koja može govoriti o razmjeru epidemije, ali se mora uzeti u obzir broj
 
 ### Graf
 
-![image](/29_11_2020/2911_udio_pozitivnih_testova.png)
+![image](/06_12_2020/0612_udio_pozitivnih_testova.png)
 
 ### Tablica protekla dva tjedna
 
