@@ -397,6 +397,8 @@ S karte je vidljivo da većina županija ima prilično visok CFR. Primjerice, u 
 
 ## Preminule osobe u jesenskom valu epidemije
 
+- Podaci od 29.11.2020
+
 Na sljedećem grafu prikazan je ukupan broj preminulih osoba prema dobi u jesenskom valu epidemije, počevši od 1. rujna.
 
 ### Graf
