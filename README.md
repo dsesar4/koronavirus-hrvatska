@@ -353,7 +353,7 @@ Virovitičko-podravska | 259
 
 ### Zaključak
 
-S karte je jasno vidljivo koje su županije do sada teže bile pogođene, tj. gdje je veći udio umrlih. Neke županije, poput Osječko-baranjske i Krapinsko-zagorske stoje vrlo loše, čak u rangu najjače pogođenih država na svijetu. Prosjek na razini države je 462 preminule osobe na milijun stanovnika. Kao zaključak, može se otprilike reći da je kod jače pogođenih vjerojatno veći udio zaraženih te da su ispred ostalih po razvoju epidemije. Također, kopnena Hrvatska stoji lošije od primorske što je vrlo vjerojatno posljedica klime i povoljnijeg vremena na moru.
+S karte je jasno vidljivo koje su županije do sada teže bile pogođene, tj. gdje je veći udio umrlih. Neke županije, poput Osječko-baranjske i Krapinsko-zagorske stoje vrlo loše, čak u rangu najjače pogođenih država na svijetu. Na razini cijele zemlje broj preminulih na milijun stanovnika je 536. Kao zaključak, može se otprilike reći da je kod jače pogođenih vjerojatno veći udio zaraženih te da su ispred ostalih po razvoju epidemije. Također, kopnena Hrvatska stoji lošije od primorske što je vrlo vjerojatno posljedica klime i povoljnijeg vremena na moru.
 
 ## Županije - Udio preminulih u ukupnom broju slučajeva (CFR)
 
