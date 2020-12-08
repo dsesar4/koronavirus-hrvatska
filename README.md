@@ -215,65 +215,61 @@ Stope rasta broja aktivnih slučajeva su nakon povećavanja kroz velik dio stude
 
 ## Tjedna promjena broja novih slučajeva prema dobi
 
-- Podaci od 29.11.2020
-
 Metrika koja govori o brzini širenja epidemije među različitim uzrastima. Situacija koja bi dovela do usporavanja epidemije je da su sve (ili većina) vrijednosti negativne, a ukoliko to nije moguće, bilo bi dobro da je veći porast koncentriran na lijevu stranu grafa jer su mladi daleko manje ugroženi od starijih osoba (osobito 70+ godina).
 
 ### Graf
 
-![image](/29_11_2020/2911_promjena_dob.png)
+![image](/06_12_2020/0612_promjena_dob.png)
 
 ### Tablica
 
 Raspon godina | Tjedna promjena
 :---  | :---:
-0-9 | 29%
-10-19 | 13%
-20-29 | 14%
-30-39 | 13%
-40-49 | 11%
-50-59 | 3%
-60-69 | 18%
-70-79 | 12%
-80-89 | 20%
-90+ | 71%
+0-9 | 7%
+10-19 | 1%
+20-29 | -1%
+30-39 | 3%
+40-49 | 0%
+50-59 | 8%
+60-69 | -2%
+70-79 | 3%
+80-89 | 17%
+90+ | 5%
 
 ### Zaključak
 
-S grafa je vidljivo da epidemija ubrzava širenje po svim dobnim skupinama. Posebno je alarmantan podatak o vrlo velikom tjednom porastu broja slučajeva kod osoba starijih od 90 godina. Posljedica bi mogla biti da u idućim danima i tjednima dođe do dodatnog porasta broja hospitaliziranih i preminulih.
+S grafa je vidljivo da je brzina širenja epidemije među velikim brojem skupina došla do stagnacije. To znači da broj novih slučajeva na tjednoj razini više ne raste. U negativnom kontekstu se ističe skupina od 80-89 godina, gdje je i ovaj tjedan zabilježeno ubrzavanje širenja epidemije. Imajući to na umu, moguće je da će se u idućim danima i tjednima još malo povećati dnevni broj preminulih osoba.
 
 ## Tjedna promjena broja novih slučajeva kod osoba starijih od 60 godina
-
-- Podaci od 29.11.2020
 
 Metrika koja govori o brzini širenja epidemije među osobama starijim od 60 godina, tj. u rizičnoj skupini. S obzirom da je najveći udio preminulih iz ove skupine, prema navedenom grafu može se prognozirati porast/pad broja preminulih u sljedećim danima i tjednima. Vrijednosti na ovome grafu moraju biti što manje kako bi i dnevni broj preminulih počeo padati.
 
 ### Graf
 
-![image](/29_11_2020/2911_promjena_60.png)
+![image](/06_12_2020/0612_promjena_60.png)
 
 ### Tablica protekla dva tjedna
 
 Datum | Novi slučajevi | Tjedna promjena
 :---  | :---: | :---: 
-16.studeni | 491 | 5%
-17.studeni | 634 | 8%
-18.studeni | 703 | 10%
-19.studeni | 632 | 8%
-20.studeni | 744 | 5%
-21.studeni | 779 | 13%
-22.studeni | 360 | 19%
 23.studeni | 544 | 15%
 24.studeni | 791 | 17%
-25.studeni | 890 | 20%
-26.studeni | 862 | 26%
-27.studeni | 931 | 29%
+25.studeni | 891 | 20%
+26.studeni | 863 | 26%
+27.studeni | 932 | 29%
 28.studeni | 639 | 18%
-29.studeni | 453 | 18%
+29.studeni | 524 | 19%
+30.studeni | 613 | 19%
+1.prosinac | 821 | 16%
+2.prosinac | 1017 | 14%
+3.prosinac | 877 | 9%
+4.prosinac | 836 | 3%
+5.prosinac | 792 | 9%
+6.prosinac | 366 | 3%
 
 ### Zaključak
 
-Epidemija je među najugroženijima polako ubrzavala širenje kroz cijeli studeni. Zadnjih desetak dana ponovno se uočavaju veće stope rasta broja slučajeva, a to bi nažalost moglo uzrokovati dodatan rast broja hospitaliziranih i preminulih osoba u idućim danima i tjednima.
+Epidemija je među najugroženijima polako ubrzavala širenje kroz cijeli studeni s posebnim naglaskom na kraj tog mjeseca. Ipak, zadnjih nekoliko dana tjedna promjena je došla blizu razina stagnacije te bi i broj hospitaliziranih i preminulih uskoro trebao doći do tih razina, barem ako je suditi prema navedenim podacima o slučajevima.
 
 ## Županije - Tjedna promjena broja novih slučajeva
 
@@ -442,41 +438,39 @@ Udio pozitivnih testova konstantno raste te je već duže vrijeme uz manje oscil
 
 ## Dobno-spolna piramida potvrđenih slučajeva u jesenskom valu epidemije
 
-- Podaci od 29.11.2020
-
 Animirani prikaz broja slučajeva prema spolu u različitim dobnim skupinama kroz jesenski val epidemije. Daje dobar uvid u zaraženost pojedinih skupina kroz vrijeme.
 
 ### Graf
 
-![image](/29_11_2020/2911_dob_spol_piramida.gif)
+![image](/06_12_2020/0612_dob_spol_piramida.gif)
 
 ### Tablica od početka epidemije
 
 Raspon godina | Muškarci | Žene
 :---  | :---: | :---:
-0-4 | 569 | 492
-5-9 | 880 | 788
-10-14 | 2055 | 1954
-15-19 | 3677 | 3605
-20-24 | 4631 | 4636
-25-29 | 5255 | 5384
-30-34 | 5581 | 5566
-35-39 | 5447 | 6204
-40-44 | 5744 | 6414
-45-49 | 5421 | 6024
-50-54 | 5098 | 5771
-55-59 | 4804 | 5308
-60-64 | 4374 | 3986
-65-69 | 3065 | 2592
-70-74 | 2264 | 2194
-75-79 | 1430 | 1784
-80-84 | 1114 | 1649
-85-89 | 605 | 1153
-90+ | 202 | 682
+0-4 | 677 | 566
+5-9 | 1091 | 982
+10-14 | 2524 | 2395
+15-19 | 4280 | 4195
+20-24 | 5341 | 5343
+25-29 | 6098 | 6304
+30-34 | 6527 | 6573
+35-39 | 6492 | 7421
+40-44 | 6760 | 7591
+45-49 | 6441 | 7122
+50-54 | 6031 | 6873
+55-59 | 5731 | 6354
+60-64 | 5210 | 4691
+65-69 | 3712 | 3095
+70-74 | 2690 | 2614
+75-79 | 1700 | 2124
+80-84 | 1334 | 2034
+85-89 | 727 | 1454
+90+ | 252 | 853
 
 ### Zaključak
 
-Zanimljiva je činjenica da je do sada potvrđeno primjetno više slučajeva kod žena (razlika otprilike 4000). Iako je više potvrđenih slučajeva kod žena u ugroženim skupinama, preminulih muškaraca je znatno više. Za ovo su moguća dva objašnjenja, prvo da virus uzrokuje znatno veću smrtnost kod muškaraca, a drugo, vjerojatnije, da se žene u slučaju oboljenja češće odlučuju na testiranje.
+Zanimljiva je činjenica da je do sada potvrđeno primjetno više slučajeva kod žena (razlika otprilike 5000). Iako je više potvrđenih slučajeva kod žena u ugroženim skupinama, preminulih muškaraca je znatno više. Za ovo su moguća dva objašnjenja, prvo da virus uzrokuje znatno veću smrtnost kod muškaraca, a drugo, vjerojatnije, da se žene u slučaju oboljenja češće odlučuju na testiranje.
 
 ## Izvori:
 
